@@ -1,27 +1,47 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title>Think Outside the Bubble</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <style type="text/css">code{white-space: pre;}</style>
+	<title>Control & Question</title>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+  <script src="js/rangy-core.js"></script>
+  <script src="js/rangy-cssclassapplier.js"></script>
+    <script>
+    var cssApplier;
+    window.onload = function() {
+        rangy.init();
+        cssApplier = rangy.createCssClassApplier("someClass", true); // true turns on normalization
+    };
+    $(function() {
+      $(document).mouseup(function() {
+        cssApplier.toggleSelection();
+      });
+    });
+  </script>
+  <style type="text/css">code{white-space: pre;}
+    .someClass { background: url(img/Selfcontrol.png) center 180px fixed no-repeat; }
+  </style>
+  
 </head>
 <body>
+
 <h1 id="control-and-question-think-outside-the-bubble">CONTROL AND QUESTION / THINK OUTSIDE THE BUBBLE</h1>
-<h2 id="a-research-into-human-self-control-and-the-impact-of-digital-communications-on-personal-experience">A research into human self control and the impact of digital communications on personal experience</h2>
-<h1 id="research-question">Research Question</h1>
-<p>How does internet use affect citizens of our society?</p>
+<h2 id="human-self-control-and-the-impact-of-digital-communications-on-personal-experience">Human self control and the impact of digital communications on personal experience</h2>
+<hr />
+<h2 id="research-question">Research Question</h2>
+<p><em>How does internet use affect people in their personal sphere?</em></p>
 <p>Embedded in the research will be the question or stance that humans are more important than their networks/infrastructures. It should explore the sense of loss of humanity or conectedness to each other in a way that puts people first.</p>
 <h2 id="sub-questions">Sub Questions</h2>
 <ul>
 <li>How much of our personal experience is really genuinely personal and how much of that experience is decided from outside?</li>
 <li>Which personal problems do people experience that are related to the internet?</li>
 </ul>
+<hr />
 <h1 id="structure">Structure</h1>
 <h2 id="introduction">Introduction</h2>
-<h2 id="wild-enfant-sauvage">Wild, enfant sauvage</h2>
+<h2 id="wild-enfant-sauvage">Wild, <em>enfant sauvage</em></h2>
 <p><em>Which arts and design practices are exposing the relation human beings have to the internet? How do these arts relate to the balance of human discipline? Which radicals are to be found? A shocking chapter. Leonardo da Vinci working for Google. The author is an angry Trump supporter that didn’t believe he would actually be elected. The gonzo of digital space that reports back with suggestions and proposals The renegade escaping the internet, looking for the next network to exploit. This character will reappear in parts of the thesis to show its views and shake things up.</em></p>
 <h2 id="control-and-ego-suffering">Control and Ego, Suffering</h2>
 <p><em>What are “filter bubbles” good for? How do social media pull us in? Why do we keep coming back to it? What is the role of the ego in these networks? Can people control their impulses? Are we being dominated by computers and machines? What efforts are people making to take control of their own impulses? How do people try to escape the internet?</em></p>
@@ -37,6 +57,7 @@
 <p><em>How does web design reflect the current ideals of success and career? Why are we annoyed by the internet? In who’s interest are you using the WWW?</em></p>
 <h2 id="conclusion">Conclusion</h2>
 <p><em>If design lives on, this is how it should work to deal with corporate powers, third, fourth, fifth parties’ interests and, last but not least, the self.</em></p>
+<hr />
 <h1 id="sources">Sources</h1>
 <h2 id="books">Books</h2>
 <ul>
@@ -49,6 +70,7 @@
 </ul>
 <h2 id="articles-essays">Articles, essays</h2>
 <ul>
+<li>Silvio Lorusso, <em>Shouldn't You Be Working?</em>, <a href="http://networkcultures.org/entreprecariat/shouldnt-you-be-working/" class="uri">http://networkcultures.org/entreprecariat/shouldnt-you-be-working/</a></li>
 <li>Gabriel Goh, <em>Image Synthesis from Yahoo's open_nsfw</em>, <a href="https://open_nsfw.gitlab.io/" class="uri">https://open_nsfw.gitlab.io/</a></li>
 <li>Slavs and Tatars, <em>Qit Qat Qlub</em></li>
 <li>Silvio Lorusso, <em>The Competitive Aesthetics of Failure</em>, <a href="http://silviolorusso.com/the-competitive-aesthetics-of-failure/" class="uri">http://silviolorusso.com/the-competitive-aesthetics-of-failure/</a></li>
@@ -131,14 +153,15 @@
 </ul>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>Hannah Nilsson and Rasmus Svensson (PWR), Arthur Röing Baer, Charlie Stigler (Selfcontrol), Residenza dei Imperatori, family.</p>
-<video autoplay="true" loop="true">
+<video autoplay="true" loop="false">
 <source src="Chains/CHAIN.mp4" type="video/mp4">
 </video>
-<video autoplay="true" loop="true">
+<video autoplay="true" loop="false">
 <source src="Chains/CHAIN_i1.mp4" type="video/mp4">
 </video>
-<video autoplay="true" loop="true">
+<video autoplay="true" loop="false">
 <source src="Chains/CHAIN_i2.mp4" type="video/mp4">
 </video>
+
 </body>
 </html>

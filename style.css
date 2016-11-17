@@ -23,9 +23,12 @@ p {
 	font-size: 16px;
 }
 
-#selfcontrol {
-	width: 490px;
-	height: 490px;
+h1:not(#control-and-question-think-outside-the-bubble),h2, h3{
+	padding-left: 12px;
+}
+
+p, ul, ol {
+	padding-left: 24px;
 }
 
 img {
@@ -35,9 +38,15 @@ img {
 	margin: 0 auto; 
 }
 
+a#structure {
+	font-size: 61px;
+	line-height: 58px;
+	text-transform: uppercase;
+}
+
 h1 {
-	margin: 10px 0;
-	font-family: Kobern;
+	margin: 0 0;
+	font-family: 'Kobern';
 	text-transform: uppercase;
 	line-height: 61px;
 	font-size: 61px;
@@ -45,13 +54,13 @@ h1 {
 	letter-spacing: -1px;
 }
 
-#control-and-question {
-	margin: 50px 0;
-	font-family: Times;
-	line-height: 132px;
-	font-size: 169px;
+#control-and-question-think-outside-the-bubble {
+	padding-left: 0 !important;
+	margin: 10px 0;
+	line-height: 140px;
+	font-size: 156px;
 	font-weight: 100;
-	letter-spacing: -14px;	
+	letter-spacing: -10px;	
 }
 
 h2 {
@@ -75,32 +84,37 @@ a {
 	font-size: 16px;
 }
 
-a:not(#candle):before {
-	content: '🔗  \A'; 
+a:before {
+	content: '🔗  '; 
 	font-size: 16px;
 }
 
+a#structure:before {
+	content: '';
+}
+
+#candle {
+	margin: 0 auto;
+}
+
 #candle:before {
-	content: '🕯  \A'; 
+	content: '🕯  '; 
 	font-size: 32px;
-	animation: flicker 1s linear infinite;
 }
-
-@keyframes flicker {
-	0% {opacity: 0}
-	10% {opacity: 0.3}
-	30% {opacity: 0.8}
-	80% {opacity: 0.1}
-	100% {opacity: 0.5}
-}
-
 
 a:hover {
 	opacity: 1;
 }
 
+strong {
+	letter-spacing: 0.8px;
+}
+
 ul {
 	list-style: none;
+	margin-left: 0;
+	padding-left: 50px;
+	text-indent: -28px;
 }
 
 li {
@@ -109,8 +123,13 @@ li {
 }
 
 ul li:before {
-	content: "➸ ";
-	color: white;
+	content: "⟿ ";
+	color: #4F5A5A;
+}
+
+hr {
+	border-color: #4F5A5A;
+	margin: 24px 0;
 }
 
 video {

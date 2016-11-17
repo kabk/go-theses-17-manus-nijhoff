@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'Kobern';
+	src: url(kobern-regular-webfont.ttf);
+}
+
+* {
+	color: #e0e0e8;
+	text-rendering: optimizeLegibility;
+	max-width: 100ch;
+}
+
+body {
+    -ms-overflow-style: none;
+	background-color: black;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+p {
+	font-family: 'Kobern';
+	font-size: 16px;
+}
+
+#selfcontrol {
+	width: 490px;
+	height: 490px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto; 
+}
+
+h1 {
+	margin: 10px 0;
+	font-family: Kobern;
+	text-transform: uppercase;
+	line-height: 61px;
+	font-size: 61px;
+	font-weight: 400;
+	letter-spacing: -1px;
+}
+
+#control-and-question {
+	margin: 50px 0;
+	font-family: Times;
+	line-height: 132px;
+	font-size: 169px;
+	font-weight: 100;
+	letter-spacing: -14px;	
+}
+
+h2 {
+	font-family: 'Kobern';
+	line-height: 1;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+h3 {
+	font-family: 'Kobern';
+	line-height: 1;
+}
+
+a {
+	color: #4F5A5A;
+	opacity: 0.3;
+	text-decoration: none;
+	transition: all 0.3s ease;
+	font-size: 16px;
+}
+
+a:not(#candle):before {
+	content: '🔗  \A'; 
+	font-size: 16px;
+}
+
+#candle:before {
+	content: '🕯  \A'; 
+	font-size: 32px;
+	animation: flicker 1s linear infinite;
+}
+
+@keyframes flicker {
+	0% {opacity: 0}
+	10% {opacity: 0.3}
+	30% {opacity: 0.8}
+	80% {opacity: 0.1}
+	100% {opacity: 0.5}
+}
+
+
+a:hover {
+	opacity: 1;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	font-family: 'Kobern';
+	line-height: 1.2;
+}
+
+ul li:before {
+	content: "➸ ";
+	color: white;
+}
+
+video {
+	position: fixed;
+	top: 0;
+	right: 0;
+	opacity: 0.5;
+	z-index: -999;
+}
+
+.header-section-number {
+	display: none;
+}

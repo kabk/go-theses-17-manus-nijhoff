@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 @font-face {
 	font-family: 'Kobern';
 	src: url(kobern-regular-webfont.ttf);
@@ -89,17 +91,17 @@ a:before {
 	font-size: 16px;
 }
 
+#candle:before {
+	content: '🕯  '; 
+	font-size: 32px;
+}
+
 a#structure:before {
 	content: '';
 }
 
 #candle {
 	margin: 0 auto;
-}
-
-#candle:before {
-	content: '🕯  '; 
-	font-size: 32px;
 }
 
 a:hover {
@@ -143,3 +145,59 @@ video {
 .header-section-number {
 	display: none;
 }
+
+/**/
+/*PRINT STYLES*/
+/**/
+
+@media print {
+
+	body {
+		background-color: rgba(255, 255, 255, 0);
+		background-image: url(img/Selfcontrol.png) no-repeat;
+		background-position: bottom left;
+		background-size: 30px;
+	}
+
+	h1, h2, h3, p, li, strong, .someClass, em {
+		color: #000;
+		max-width: 70%;
+	}
+
+	a {
+		color: #3A3A3A;
+	}
+
+	img {
+		width: 60%;
+		height: auto;
+		border: 1px solid black;
+		border-spacing: 10px 10px;
+		margin: 24px auto; 
+
+	}
+
+	video, #structure, #section a, #bulk, hr {
+		display: none;
+	}
+
+	#candle {
+		margin-left: -12px;
+	}
+
+	#control-and-question-think-outside-the-bubble {
+		line-height: 132px !important;
+		font-size: 148px !important;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+

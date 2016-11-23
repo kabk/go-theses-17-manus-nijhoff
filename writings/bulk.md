@@ -1,5 +1,3 @@
-<a id="structure">Research Question, Structure and Sources</a>
-
 ___
 
 ##BULK
@@ -653,11 +651,21 @@ The idea of ideals not ideals
 
 Disillusion turned into a productivity boost.
 
-Found a way to channel my anger not to embark in.
+Catharsis by noise, getting cleaned by all emotions passing through.
 
 Frustration / anger turned into creativity.
 
-Catharsis by noise, getting cleaned by all emotions passing through.
+Outkast – Atliens
+
+>Softly as if I played piano in the dark  
+>Found a way to channel my anger now to embark  
+>The world's a stage and everybody's got to play their part  
+>God works in mysterious ways so when he starts  
+>The job of speaking through us we be so sincere with this here  
+>No drugs or alcohol so I can get the signal clear as day  
+>Put my Glock away I got a stronger weapon  
+>That never runs out of ammunition so I'm ready for war okay  
+
 
 I’ve turned on Self-Control. What is it? It’s an app, designed to keep you from visiting certain websites you over-frequent. You can set the sites and the time limit yourself. As any addict, I have tried this and, as all addicts, I have also found a way to turn off the program. It helped that I know a tiny bit how to handle a computer, for someone without any experience it would have been a bit more difficult since it involves some code. However, I am sure that people would find ways to circumvent the Self-Control, as is usual in addicted behavior.
 
@@ -1060,20 +1068,19 @@ Er zijn een heleboel verschillende manieren van schrijven. Je kunt aanvallend sc
 Dan is er het kennis uitscheiden. Dat is meer het vinden van relevantie binnen de tekst die ik neertyp. Dit komt meestal na het gif spuwen, wat de overblijfselen laat zien, waaruit ik de glimmende restanten en beginselen van een nieuw stuk tekst kan vinden.
 
 ![Arbok](img/Day4Arbok.JPG)
+
 ![Muk](img/Muk.jpg)
-![Stewart Brand](img/I\ guess\ I\ do\ not\ really\ agree.png)￼
+
+![Stewart Brand](img/I\ guess\ I\ do\ not\ really\ agree.png)￼  
+
 
 I had this quote in my Quote folder for a while. I think this is part of Steward Brand’s introduction to the Whole Earth Catalog. I remade the title of the pic now into I guess I do not really agree. The piece of text now leaves me with questions such as: Who is now seeking and promoting tools for the power of the individual? What are the motivations for a personal power as such? With whom are you sharing your adventure? Do you have the power to shape your own environment?
 
-
 This shows me that we see the past only as a reflection of the current time
-
-
 
 The Ludovico Technique applied to the things I don’t want. A big Ludovico Room persiflaging big big and smaller problems of society
 
 GLOBAL WARMING * ADDICTION * FAILURE TO COMMUNICATE * FOOLISH BELIEFS (?)
-
 
 EASY WAY OUT
 
@@ -1247,7 +1254,7 @@ Yamuna
 
 <a name="17" id="candle"></a>
 
-#17
+#17 [18](#18)
 
 3D models of the 21st century people
 
@@ -1284,6 +1291,8 @@ NEW STRUCTURE
 
 <a name="18" id="candle"></a>
 
+**NEW Mon Nov 21 23:05:54 2016 NEW**
+
 #18
 
 Notes Thu Nov 17 13:52:38 2016
@@ -1291,6 +1300,79 @@ Notes Thu Nov 17 13:52:38 2016
 Auto-piracy for academics.
 
 Dread Publisher Robberts
+
+Mon Nov 21 14:23:04 2016
+
+Block feeling, cable feeling
+
+NO CABLES ATTACHED
+
+Ambient design, gonzo, we think we're solving problems but we're not?
+
+##Design for Dance
+
+Inspirerende tentoonstelling gezien over het werk van Pina Bausch, een danseres.
+
+![Pina Bausch](img/Pina-Bausch.jpg)
+
+##Emotions and climate
+
+The connection is very clear to me.
+
+Cold is more preserving. Relationships last longer because they need one another. The mode of survival is different.
+
+How do warm countries and their tempers conflict with the northern, cooler emotions and attitudes and will the Northern-European states change in this regard as the planet heats up? Which emotional shifts does global warming induce?
+
+>_Women are afraid of physical pain. Men are afraid of humiliation._
+
+>Unknown author. Who said this? What's this based on?
+
+##DATA
+
+Corporate that profits from data can be seen as Typhoon and Rico view it in their track 'Elektrostress'. In this view everyone is deeply penetrated by and submerged in the plans of Big Company to use and sell your data. This view makes sense considering that data is a commodity right now. Those companies could be compared to a kind of trash cleaning operation that takes care of the used stuff people don't want to deal with and turn that into profit. 
+
+The question remains if they are handling these operations with the best intentions. Are they like Sweden, where the trash is burned and used for energy? Or are they dumping, leaking data, polluting the networld.
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/I1Ll0hA63p4?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<figcaption>Opgezwolle – Elektrostress</figcaption>
+
+##DELAYED GRATIFICATION
+
+Sending a video to one person. Just via Facebook Messenger. But preparing this video for one week. Meaning taking time to think of the message, trying different visual approaches and use post-production.
+
+Delayed gratification
+
+What can we control?
+
+What can we let go of?
+
+USA: You can do anything.
+
+Personal influence
+
+Related term: **Abstinence**
+
+What are motivations for abstinence?
+
+Against oversimplification
+
+The inpatient impatient millenial
+
+The outpatient babyboomer
+
+“TECHNOSTRESS”
+
+I think I won't use screens in my final installation. Or at least not in the way we use them daily, because I'm afraid the effect might be that people treat the screens as something they have in their hand already 
+
+It's interesting to think if I should use screens in my final work or not. In a normal day people have their screen in hand or in front of their face for so long, that they have a very unique experience to it. 
+
+It could be a problem in an installation. When people use the screens they may unintentionally relate to the screen as mirror of their own whims and desires.
+
+On the other hand it could be extremely cool to turn the screen dynamic around by using the screens to find out something about its users.
+
+>“The hard bit is, how not to compromise”
+>Anish Kapoor
 
 <video autoplay="true" loop="true">
 <source src="Chains/CHAIN.mp4" type="video/mp4">

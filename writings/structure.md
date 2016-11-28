@@ -7,6 +7,7 @@ ___
 Theme: 
 
 ## How does internet use affect people in their personal sphere?
+
 Central Research Question: 
 
 ## How does design reflect current ideals of success?
@@ -49,25 +50,25 @@ Lastly it gives me a way to highlight ways people experience the internet from a
 ##Introduction
 
 ##Wild, _enfant sauvage_
-_Which arts and design practices are exposing the relation human beings have to the internet? How do these arts relate to the balance of human discipline? Which radicals are to be found? A shocking chapter. Leonardo da Vinci working for Google. The author is an angry Trump supporter that didn’t believe he would actually be elected. The gonzo of digital space that reports back with suggestions and proposals The renegade escaping the internet, looking for the next network to exploit. This character will reappear in parts of the thesis to show its views and shake things up._
+_Which arts and design practices are exposing the relation human beings have to the internet? How do these arts relate to the balance of human discipline? Which radicals are to be found? A shocking chapter. Leonardo da Vinci working for Google. The author is an angry Trump supporter that didn’t believe he would actually be elected. The gonzo of digital space that reports back with suggestions and proposals The renegade escaping the internet, looking for the next network to exploit. This character will reappear in parts of the thesis to show its views and shake things up. This is the burst that precedes the fall._
 
 ##Control and Ego, Suffering  
 _What are “filter bubbles” good for? How do social media pull us in? Why do we keep coming back to it? What is the role of the ego in these networks? Can people control their impulses? Are we being dominated by computers and machines? What efforts are people making to take control of their own impulses? How do people try to escape the internet?_
 
-##Strategies for History  
+##Strategies from History  
 _With a focus on the history of addiction / conditioning research and computing / tech / systems research: Can we learn from history? Which ways does history repeat itself? How can we learn from that to improve?_
 
 ##Fleeting Time  
 _Who’s time are you spending? Are you planning flexibly towards yourself? Philosophising about ways to live, play, and work._
 
-##Optimization of Disaster  
-_Personal optimization is an ideal in health and in work. Do the ends justify the means? Are we adapting willingly to systems that will drive us into extinction?_
+##Optimization X Disaster  
+_Personal optimization is an ideal in health and in work. Do the ends justify the means? Are we adapting willingly to systems that will drive us into extinction? Formula life, the food / nutrition debate, fueled by sponsored brands._
  
-##Maakbaarheid en Mythe  
+##Malleability, Makeability and Myth  
 _Should mankind always improve itself? After looking at the dynamic of self control is it really useful? Why do people seem to be interested in personal achievement so much? Critiquing the thesis that we are living in a simulation. Using that example to drag people out of their personal sphere and wake them up to a world where people live, work, love together (utopian view) or to show them a world where people do not live, work, love together (dystopian view)_
 
 ##Boring Internet  
-_How does web design reflect the current ideals of success and career? Why are we annoyed by the internet? In who’s interest are you using the WWW?_
+_Why are we annoyed by the internet? In who’s interest are you using the WWW? How does web design reflect the current ideals of success and career? How would the internet have changed our society and how did it play out?_
 
 ##Conclusion  
 _If design lives on, this is how it should work to deal with corporate powers, third, fourth, fifth parties’ interests and, last but not least, the self._
@@ -80,6 +81,7 @@ ___
 
 ##Primary
 
+- ???, _Who Owns The Future?_
 - Natasha Dow Schüll, _Addiction by Design_, Princeton University Press, 2012
 - Nicholas Carr, _The Shallows, What The Internet Is Doing To Our Brains_
 - Steven Levy, _In The Plex: How Google Thinks, Works, and Shapes Our Lives_
@@ -100,6 +102,7 @@ ___
 
 ##Primary
 
+- Peter Pomerantsev, _Why We're Post Fact_, (granta)[granta]
 - Troy Hunt, _How I optimized my life to make my job redundant_, last checked 15 september [https://www.troyhunt.com/how-i-optimised-my-life-to-make-my-job/](https://www.troyhunt.com/how-i-optimised-my-life-to-make-my-job/)
 - Different articles from _Whole Earth Review: Computers as Poison_
 - Michelle M. Weil, Ph.D. and Larry D. Rosen, Ph.D., _A Conversation with TechnoStress Authors_, [http://www.technostress.com/tsconversation.htm](http://www.technostress.com/tsconversation.htm)
@@ -134,6 +137,8 @@ ___
 
 ##Primary
 
+- ??? Procrastination, [Youtube Link Here](Youtube Link Here)
+- Jeff Widman, _edgerank.net_, [http://edgerank.net/](http://edgerank.net/)
 - Harry Brignul, _Dark Patterns: User Interfaces Used To Trick People_ [https://youtu.be/1KVyFio8gw4](https://youtu.be/1KVyFio8gw4)
 - Adam Curtis, _HyperNormalisation_, 2016 [https://youtu.be/-fny99f8amM](https://youtu.be/-fny99f8amM)
 - Adam Curtis, _Watched Over By Machines Of Loving Grace part 1: Love and Power_
@@ -152,8 +157,7 @@ ___
 - Jack Cocker, Jeremy Deller: _Middle Class Hero_, 2012  [https://vimeo.com/80729157](https://vimeo.com/80729157)
 - Stephen Kijak, Paul Marchand, _Jaco_, 2015 [http://www.imdb.com/title/tt2385115/?ref_=fn_al_tt_2](http://www.imdb.com/title/tt2385115/?ref_=fn_al_tt_2)
 - Jeff Radice, _No No: A Dockumentary_, 2014 [https://youtu.be/6uQnZriEz1Q](https://youtu.be/6uQnZriEz1Q)
-- Keeping It Real Art Critics - _The tears of Mara McCarthy - Frieze London - KIRAC (E05)_, [https://youtu.be/xNRuuxUSCcY](https://youtu.be/xNRuuxUSCcY)
-
+- Keeping It Real Art Critics, _The tears of Mara McCarthy - Frieze London - KIRAC (E05)_ [https://youtu.be/xNRuuxUSCcY](https://youtu.be/xNRuuxUSCcY)    
 
 
 

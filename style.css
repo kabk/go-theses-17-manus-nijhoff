@@ -21,16 +21,36 @@
 }
 
 table {
+	margin: 24px 0;
+	font-family: 'Kobern';
 	table-layout: fixed;
+	empty-cells: hide;
 }
 
-table td {
-	width: 200;
+th, td {
+	font-family: 'Kobern';
+	width: 300px;
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
 
+th:nth-child(1), th:nth-child(2) {
+	text-align: left;
+}
+
+td:nth-child(1) {
+	width: 30%;
+}
+
+td:nth-child(2) {
+	width: 45%;
+}
+
 td:nth-child(3) {
+	width: 12%;
+}
+
+th:nth-child(3), td:nth-child(3), th:nth-child(4), td:nth-child(4) {
 	text-align: right;
 }
 

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Reflective Reader</title>
+</head>
+
+<meta charset="utf-8">
+
+<style type="text/css">
+		
+	body {
+		background-color: #FFC8C8;
+	}
+
+	#wrapper {
+		left: 50%;
+		top: 50%;
+		transform: translateX(-50%) translateY(-50%);
+		-webkit-box-shadow: 0px 20px 90px -24px rgba(0,0,0,0.75);
+ 		-moz-box-shadow: 0px 20px 90px -24px rgba(0,0,0,0.75);
+		box-shadow: 0px 20px 90px -24px rgba(0,0,0,0.75);
+	}
+
+	#wrapper, #reader {
+		position: absolute;
+		overflow: hidden;
+		width: 900px;
+		height: 680px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+
+	#video {
+		width: 100%;
+		height: 100%;
+	}
+
+	#reader {
+		background: rgba(16, 14, 16, 0.8);
+		z-index: 999;
+		background-blend-mode: multiply; 
+		display: flex;
+		flex-wrap: nowrap;
+		justify-content: space-between;
+		transition: all 10s ease;
+	}
+
+	#reader:hover {
+		background: rgba(16, 14, 16, 1);
+	}
+
+	#left, #right {
+		margin: 0;
+		position: relative;
+		width: 40%;
+		height: 100%;
+		display: inline-block;
+		float: left;
+	}
+
+	p {
+		color: #FFF1EF;
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	#left {
+		padding: 24px 48px 72px 36px;
+	}
+
+	#right {
+		padding: 24px 36px 72px 48px;
+	}
+
+</style>
+
+<body>
+
+	<div id="wrapper">
+
+		<div id="reader">
+		
+		<p id="left">
+			<em>Modulating Affect: Sensory Atmospherics</em>
+
+			<br><br>
+
+			Once patrons are actually seated before gambling machines, the devices themselves take over from the casino environment as the dominant force of guidance, as we will see in the next chapter. Yet even then, the environment continues to play a role—now less through architecture than through ambience. It is no longer the curves, cues, and congestion of the floor plan that are deployed to influence customers, but “casino atmospherics,” a term that two industry consultants from the University of Nevada’s College of Hotel Administration in Las Vegas coined to describe the “controllable items connected with the internal and external environment of a service facility”—temperature, light, color, sound, and aroma—that “elicit an emotional or physiological reaction from customers.”53 These items, they contend, powerfully modulate patrons’ “experiential affect,” not only helping to usher them to machines, but to immerse them in the zone, and keep them there.'
+		</p>
+
+		<p id="right">
+			Calling to mind a Deleuzian conception of affect as dynamic states of sensing, energy, and attention outside of conscious awareness yet critical to action, atmospherics are understood to be most effective when they operate at a level that is not consciously detectible.54 Like casino designers’ spatial strategies, their ambient strategies treat affect not as something passive or static, but as an active and dynamic capacity that can be harnessed and guided in lucrative directions.55 A study titled “Effects of Ambient Odors on Slot-Machine Usage in a Las Vegas Casino” found that slot revenue rose by a full 45 percent in a gambling area where machines had been subtly treated with a certain pleasing odor while remaining static in another area that had been treated with a different but equally pleasing odor.56 The author speculated that certain aromas produce an “affective congruence with the situational context,” encouraging longer play; an odor, “when matched to a certain environment,” can “precipitate actions.”57 “From conditioned-reflex experi-
+		</p>
+
+	</div>
+
+	<video id="video"></video>
+
+	</div>
+
+	<h1 id="disclaimer">Open in Chrome or Firefox</h1>
+
+
+	<script type="text/javascript">
+		// Grab elements, create settings, etc.
+		var video = document.getElementById('video');
+
+		// Get access to the camera!
+		if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+		    // Not adding `{ audio: true }` since we only want video now
+		    navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+		        video.src = window.URL.createObjectURL(stream);
+		        video.play();
+		    });
+		}
+
+		    // Opera 8.0+
+		var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+		    // Firefox 1.0+
+		var isFirefox = typeof InstallTrigger !== 'undefined';
+		    // At least Safari 3+: "[object HTMLElementConstructor]"
+		var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+		    // Internet Explorer 6-11
+		var isIE = /*@cc_on!@*/false || !!document.documentMode;
+		    // Edge 20+
+		var isEdge = !isIE && !!window.StyleMedia;
+		    // Chrome 1+
+		var isChrome = !!window.chrome && !!window.chrome.webstore;
+		    // Blink engine detection
+
+		if(isEdge || isIE || isSafari || isOpera ) {
+			document.getElementById('wrapper').style.display = 'none';
+			document.getElementById('disclaimer').style.display = 'block';
+		} else {
+			document.getElementById('wrapper').style.display = 'block';
+			document.getElementById('disclaimer').style.display = 'none';
+		}
+
+
+	</script>
+
+</body>
+</html>

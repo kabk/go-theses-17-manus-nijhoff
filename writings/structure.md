@@ -102,6 +102,8 @@ ___
 
 ##Primary
 
+- arXiv, __[https://www.technologyreview.com/s/525616/data-mining-reveals-how-conspiracy-theories-emerge-on-facebook/](https://www.technologyreview.com/s/525616/data-mining-reveals-how-conspiracy-theories-emerge-on-facebook/)
+- Benjamin Bratton, _The Black Stack_, [http://www.e-flux.com/journal/53/59883/the-black-stack/](http://www.e-flux.com/journal/53/59883/the-black-stack/) 
 - Peter Pomerantsev, _Why We're Post Fact_, (granta)[granta]
 - Troy Hunt, _How I optimized my life to make my job redundant_, last checked 15 september [https://www.troyhunt.com/how-i-optimised-my-life-to-make-my-job/](https://www.troyhunt.com/how-i-optimised-my-life-to-make-my-job/)
 - Different articles from _Whole Earth Review: Computers as Poison_
@@ -137,7 +139,8 @@ ___
 
 ##Primary
 
-- ??? Procrastination, [Youtube Link Here](Youtube Link Here)
+- Benjamin Bratton, New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+- Tim Pychyl, _Teaching Talk: Helping Students Who Procrastinate_, [https://youtu.be/mhFQA998WiA](https://youtu.be/mhFQA998WiA)
 - Jeff Widman, _edgerank.net_, [http://edgerank.net/](http://edgerank.net/)
 - Harry Brignul, _Dark Patterns: User Interfaces Used To Trick People_ [https://youtu.be/1KVyFio8gw4](https://youtu.be/1KVyFio8gw4)
 - Adam Curtis, _HyperNormalisation_, 2016 [https://youtu.be/-fny99f8amM](https://youtu.be/-fny99f8amM)
@@ -165,7 +168,8 @@ ___
 
 ##Primary
 
-- _The Ludovico Technique (Clockwork Orange)_ on Wikipedia [https://en.wikipedia.org/wiki/Ludovico_technique](https://en.wikipedia.org/wiki/Ludovico_technique)
+- _Agency_ on Wikipedia, [https://en.wikipedia.org/wiki/Agency_(philosophy)](https://en.wikipedia.org/wiki/Agency_(philosophy))
+- _The Ludovico Technique (Clockwork Orange)_ on Wikipedia, [https://en.wikipedia.org/wiki/Ludovico_technique](https://en.wikipedia.org/wiki/Ludovico_technique)
 - _Jenny Holzer_ on Wikipedia, [https://en.wikipedia.org/wiki/Jenny_Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer)
 - Wikipedia entry for _Luddite_, last checked 23 september [https://en.wikipedia.org/wiki/Luddite](https://en.wikipedia.org/wiki/Luddite)
 - Wikipedia entry for _Neo-Luddism_, last checked 23 september [https://en.wikipedia.org/wiki/Neo-Luddism](https://en.wikipedia.org/wiki/Neo-Luddism)
@@ -199,6 +203,7 @@ ___
 - (site) Jonas Lund and Sebastian Scheming, _Other People Also Bought_, last checked 19 september [http://otherpeoplealsobought.com/](http://otherpeoplealsobought.com/)
 - (scene) Marry Harron, _American Psycho_, 2000 [http://www.imdb.com/title/tt0144084/?ref_=fn_al_tt_1 (Business Card Scene)](http://www.imdb.com/title/tt0144084/?ref_=fn_al_tt_1 (Business Card Scene))
 - (podcast) a16z Podcast: _Sleep!_ [https://soundcloud.com/a16z/sleep-revolution](https://soundcloud.com/a16z/sleep-revolution)
+- (podcast) a16z Podcast: _It's Complicated_ [https://soundcloud.com/a16z/complexity](https://soundcloud.com/a16z/complexity)
 - (movie) Alex Garland, _Ex Machina_, 2015 [http://www.imdb.com/title/tt0470752/](http://www.imdb.com/title/tt0470752/)
 - (lecture) Marshall McLuhan, _The Medium is the Message_, Lecture on ABC, 1977  [https://youtu.be/a11DEFm0WCw](https://youtu.be/a11DEFm0WCw)
 - (commercial) _De Maatschappij, dat ben Jij_. Series of commercials in video and book form by SIRE, 2002 [https://youtu.be/HorCCe6vdn4](https://youtu.be/HorCCe6vdn4)

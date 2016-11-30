@@ -1,9 +1,58 @@
 # CONTROL AND QUESTION / THINK OUTSIDE THE BUBBLE
 
+Digital Agency
+
 ___
 
 ##(INTRODUCTION)
 
+WELCOME TO THE AFTER-NOUGHTIES
+
+>“A mind as boundless as the internet”
+>The Evening Standard, blurb on the back of Jaron Lanier's book “Who Owns The Future?”
+
+A moment of your time please, I am here to talk to you about the Internet's bounds.
+
+>Talking about the future is a polite way of saying what's wrong about the present
+>Benjamin Bratton
+
+Bruce Sterling argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense because these companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.
+
+_Silicon_ Valley. It's interesting how this material came to stand for power. A kind of power that puts your personal ideals on the steering wheel. The kind of power that wants bigger boobs and that wants a faster computer.  
+
+So these are the giants that design and implement our services.
+
+Benjamin Bratton has another power structure in mind. He uses the metaphore of the ‘Stack’, which is a vertical division of separate layers that are interconnected. The Stack's layers from bottom up are Earth, Cloud, City, Address, Interface, User. Starting from Earth, ending at one person, you, me. 
+
+GAFAM have a lot of opportunity to design exploits of the user's weaknesses. While we small-time designers, educated in art schools, were busy designing interfaces, their big-time designers backed by GAFAM's ideals of big data profit – were learning to implement social engineering knowledge into their interfaces. 
+
+People love consistency. We say we want change, but we also want everything to remain the same. In the case of interface the answer is _defaultism_. Defaultism is the term used to describe the happiness and wilingness of people to use an unchanged, working design. 
+In the beginning of the internet, people were customizing everything, wanting to touch every part with their own style. Hell, the whole idea of stylesheets – code to stylize websites – was to have a _personal_ stylesheet, which you could use on every page on the internet. Instead, pages would offer their own stylesheets. Now after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, _because they work_.
+
+What is the balance between _comfort and surrender_?
+
+What is the balance between _self-control and ignorance_?
+	Agency online, what a person can and cannot control.
+
+I would like to get your e-mail address to continue reading. My Terms of Agreement are just one line.
+
+“I will only use your e-mail address to send you this thesis in parts.”
+
+accept ✓ | deny ✗
+
+Internet marketing SEO and B2B, B2C addresses. Guerilla SEO !
+
+Why? Because building an audience is important for me. I want people to know what I'm up to. Because this is how we get most of our information, may it be fragmented or not. It suits my message, which is to be aware of the pitfalls of digital communications. I want to feed you my thesis and your feedback. And feeding nowadays works bite-sized, pre-packaged and customized to your needs. All I need is one little e-mail-address...
+
+
+
+	Letting go of the internet, abstaining - what the effects of this are.
+
+What are the pros and cons of defaultism in interfaces?
+
+What are the consequences of a dysfunctioning internet?
+
+Which paradoxes do we face when using the internet?
 
 
 ___
@@ -13,6 +62,14 @@ ___
 (The Renegade)
 
 “I fantasize sometimes about the end of electricity. The machine stopping at the apex of its own performance. That people would find themselves isolated, but suddenly together. With all the fascinating and horrifying character treats that were normally hidden under the gleaming surface. Reinventing the wheels, social structures, culture and trade while in total chaos and emergency. It would be an ugly world, but would it be more ugly than the one we're in right now?”
+
+Users and people are one and the same nowadays. In Dutch a a user (gebruiker) could mean a user of drugs, which is a popular use of the word. Now users are people. Or are people users?
+
+Besides the silliness of this little observation, the word user is sometimes interchanged with consumer. This switch shows the same tendency, to see a human being in a system primarily as a consumer, whether that is consuming food or news. And this is a bit strange to me. Do we really just consume our news?
+
+According to my Mac's dictionary, to consume meand either to eat, drink, digest, buy, use up (a resource), completely destroy (especially of a fire), or to absorb all of the attention and energy of someone. It's a very negative word which suggests all people are depleting earth's resources.
+
+It comes from Latin where consumere came together from _con-_ (altogether) and _sumere_ (to take up).
 
 
 
@@ -25,6 +82,9 @@ ___
 Nobody would move in the room, but it was hot and sweaty like Bikram Yoga. All and all, I can't tell you much about what's been going on, but it was insane. On a binge YouTube streak I snuck up some of the most insane 9/11. The alt-right meme page is hilarious. It's insanely racist, but KKK, what else do you have but your laughter?
 
 I like to go layers deep into Facebook profiles and just start liking the shit out of everybody. You know how they say you're always three handshakes away from Hitler? Well, guess I befriended Ivanka Trump solely through her enemies' profiles.
+
+I have been listening to a Podcast of two net artists: Rafaël Rozendaal and Jeremy Bailey. It is nice to hear them quarrel about topics related to the internet, artificial intelligence, the idea of an archive, et cetera. Both are very interested in new developments in technology but they have very different approaches towards them. Rozendaal is a techno-pessimist, always waiting for new technology to crystallize before using it. Bailey is a techno-optimist. He adopts new techniques quickly. 
+
 
 ### Distraction Addiction 
 
@@ -83,12 +143,14 @@ ___
 
 Our pants are smarter than us!
 
+Design as immunisation – Benjamin Bratton. Not only innovating but also making ourselves immune for the things we do not need. 
+
 
 ___
 
 ##Maakbaarheid en Mythe
 
-
+The sentence describing Silicon Valley, the series: “In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success”.
 
 
 ___
@@ -143,16 +205,6 @@ ___
 ##Conclusion
 
 
-
-
-
-
-
-
-
-
-
-
 Her position in all of this is critical towards technology. 
 
 >“In Chongqing in China, sidewalks contain a special lane for people who can’t be bothered to look up from their phones. And in the German city of Augsburg, there are traffic signals on the ground for people who would otherwise endanger themselves by failing to notice red lights.”
@@ -197,7 +249,22 @@ Forgive my inadequate knowledge of internet marketing, there must be so many way
 CRITIQUE: Our attitude nowadays to the internet, what's it like? Does it inspire action or apathy? Maybe both? In what way?
 
 
+Just make life hell you know, hell on heaven
+
+
 ___
 
 #Conclusion  
+
+The internet has changed agency. Acting in enormous systems makes it possible to act very big very fast but can also render an individual powerless. 
+
+THE INTERNET has given us back some virtues: we might get paid for taking time to sleep, or a basic income could be coming to your neighborhood. All of these ideas come and spread and take over people's ideas. 
+And not, at the same time. Putting technology at the center of all of our problems is ignorant and distracting. Instead, we should be paying attention to people around us. Not paying people in Pakistan to increase our following. What kind of followers do you need? 
+
+Judge ideas, not people. Be aware of the influence of your personal needs.
+
+RANT
+
+We don't have all the pieces of the puzzle. But these pieces I put together. Maybe it was in a forced way, and probably I've misplaced some of the parts. But how much I like talking in metaphores, I want to tell you, thanks for reading. I hope you can use this.
+
 _If design lives on, this is how it should work to deal with corporate powers, third, fourth, fifth parties’ interests and, last but not least, the self._

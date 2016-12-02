@@ -8,18 +8,19 @@ Theme:
 
 ## How does internet use affect people in their personal sphere?
 
-Central Research Question: 
+Central Research Question:  
 
-## How does design reflect current ideals of success?
+##Where does the internet fail and what opportunities does it offer designers?
 
-Embedded in the research will be the question or stance that humans are more important than their networks/infrastructures. It should explore the sense of loss of humanity or conectedness to each other, go through different attitudes we have towards the internet as a solution to problems or a medium for change.
+Embedded in the research will be the question or stance that humans are more important than their networks/infrastructures.
+It should explore the sense of loss of humanity or conectedness to each other, go through different attitudes we have towards the internet as a solution to problems or a medium for change.  
 
 ##Sub Questions
 
 - What are current ideals of success?  
 - How does web design influence people subliminally?  
 - How is the medium internet supporting success and failure?  
-- In who's best interest are ubiquitous networks?  
+
 
 ___
 
@@ -27,24 +28,29 @@ ___
 
 ##Characters
 
-It is key to my research to include personal experience in the essay/thesis. Alongside the presented research I will adopt three recurring ways of speaking that are based on three characters. The characters are based on interviews and talks I've had with people as well as articles and documentaries and personal experience.
 
-Mainly because there is no way I can be entirely factual about the topic _the internet_. The thesis deserves an approach that is human, non-factual and sensual, as much as it needs a factual basis.
-Secondly, many of the things I've learned from the internet is not by reading pages in a book, but reading _web pages_. And often reading them while I was in one of the “modes of browsing” they stand for. 
-Lastly it gives me a way to highlight ways people experience the internet from an insider's perspective. 
+The thesis deserves an approach that is human, non-factual and sensual as much as it needs a factual basis.  
 
-- **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binging around the internet and reports with a sometimes sarcastic, sometimes humourous point of view.  
+Alongside the presented research I will adopt three recurring ways of speaking that come from three characters. The characters are based on interviews and talks I've had with people as well as articles and documentaries and my own personal experience.
+
+I do this mainly because in personal experience there is always the first-person perspective, the world through a shaped filter. In these characters I reconstruct ways of thinking from evidence gathered in the process of reading. 
+
+Secondly, many of the things I've learned from the internet is not by reading pages in a book, but reading from online sources. The way we read online is different from the book in the way that it usually involves more people. A Wikipedia article is a crowd-based piece of information, groups of people make articles appear in your feed and comment sections show instant discussion between readers.
+
+The characters are:
+
+- **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binging around the internet and reports with a sometimes sarcastic, sometimes humourous point of view. They have a vast knowledge of subcultures. 
 	- _This is the immersed mode of browsing_   
-- **The optimal**: Using the network is not a problem. The optimal has efficiently matched his or her habits to the system, making them a leading force and role model of the networked life.  
+- **The optimal**: Using the network for the optimal is not a problem. The optimal has efficiently matched his or her habits to the system, making them a leading force and role model of the networked life. With a sharp eye for business opportunities, the optimal uses hashtags to gain followers, sells articles via facebook groups, and has sold his/her startup companies for profit.
 	- _This is the utilitarian mode of browsing_  
-- **The renegade**: Despises the network in its current state. Knows a lot about the history of the internet. A desillusioned person with a hawk's eye overview of the internet. The renegade is looking for the next network to explore. The current one is broken.  
+- **The renegade**: Despises the network in its current state. Knows a lot about the history of the internet. A desillusioned person with a hawk eye's overview of the internet. The renegade is looking for the next network to explore. The current one is broken.  
 	- _This is the disinterested mode of browsing._
 
 
 ##PITFALLS, BACK OF HEAD
 
 - I want to avoid coming to a premature conclusion or opinion by writing “personally”.  
-- Maybe there is something better to say about the internet than a lesson per se. I wanna avoid my writing to become patronizing and/or demonizing, mainly because that seems to be countereffective.........
+- Maybe there is something better to say about the internet than a lesson per se. I wanna avoid my writing to become patronizing and/or demonizing, mainly because that seems to be countereffective...
 - I am always open for responses at [manusnijhoff@gmail.com](mailto:manusnijhoff@gmail.com) for objections, comments and insights.
 
 ##Introduction
@@ -81,7 +87,7 @@ ___
 
 ##Primary
 
-- ???, _Who Owns The Future?_
+- Jaron Lanier, _Who Owns The Future?_
 - Natasha Dow Schüll, _Addiction by Design_, Princeton University Press, 2012
 - Nicholas Carr, _The Shallows, What The Internet Is Doing To Our Brains_
 - Steven Levy, _In The Plex: How Google Thinks, Works, and Shapes Our Lives_
@@ -139,7 +145,7 @@ ___
 
 ##Primary
 
-- Benjamin Bratton, New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+- Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_ [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 - Tim Pychyl, _Teaching Talk: Helping Students Who Procrastinate_, [https://youtu.be/mhFQA998WiA](https://youtu.be/mhFQA998WiA)
 - Jeff Widman, _edgerank.net_, [http://edgerank.net/](http://edgerank.net/)
 - Harry Brignul, _Dark Patterns: User Interfaces Used To Trick People_ [https://youtu.be/1KVyFio8gw4](https://youtu.be/1KVyFio8gw4)
@@ -193,6 +199,7 @@ ___
 
 ##Primary
 
+- (website) Athos - _Wearable Technology for Fitness_, https://www.liveathos.com/
 - (artwork) Andrew Norman Wilson, _Workers Leaving the Googleplex_, [https://vimeo.com/15852288](https://vimeo.com/15852288)
 - (site) F.B. Purity [http://www.fbpurity.com/facebook-css.htm](http://www.fbpurity.com/facebook-css.htm)
 - (podcast series) Rafael Rozendaal and Jeremy Bailey, _Good Point_, September 2016 - present 

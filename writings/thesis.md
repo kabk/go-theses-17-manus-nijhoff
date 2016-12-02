@@ -16,7 +16,7 @@ A moment of your time please, I am here to talk to you about the Internet's boun
 >Talking about the future is a polite way of saying what's wrong about the present
 >Benjamin Bratton
 
-Bruce Sterling argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense because these companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.
+Bruce Sterling argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense because these companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
 
 _Silicon_ Valley. It's interesting how this material came to stand for power. A kind of power that puts your personal ideals on the steering wheel. The kind of power that wants bigger boobs and that wants a faster computer.  
 
@@ -48,7 +48,6 @@ Why? Because building an audience is important for me. I want people to know wha
 
 	Letting go of the internet, abstaining - what the effects of this are.
 
-What are the pros and cons of defaultism in interfaces?
 
 What are the consequences of a dysfunctioning internet?
 
@@ -84,6 +83,8 @@ Nobody would move in the room, but it was hot and sweaty like Bikram Yoga. All a
 I like to go layers deep into Facebook profiles and just start liking the shit out of everybody. You know how they say you're always three handshakes away from Hitler? Well, guess I befriended Ivanka Trump solely through her enemies' profiles.
 
 I have been listening to a Podcast of two net artists: Rafaël Rozendaal and Jeremy Bailey. It is nice to hear them quarrel about topics related to the internet, artificial intelligence, the idea of an archive, et cetera. Both are very interested in new developments in technology but they have very different approaches towards them. Rozendaal is a techno-pessimist, always waiting for new technology to crystallize before using it. Bailey is a techno-optimist. He adopts new techniques quickly. 
+
+What are the pros and cons of defaultism in interfaces?
 
 
 ### Distraction Addiction 
@@ -135,41 +136,67 @@ Related to running, the _runner's high_, professional athletes professionaly suf
 I took matters into own hands. Or at least made some attempt at that. Bought a €10,- phone at Mediamarkt. Almost as cheap as a pack of cigarettes. I posted my phone number on the social media I frequent with a short message. But the weird thing is, that I have no idea who will read my message. The algorithms will decide.  
 This demonstrates simply how overly social media have become. It's discriminated the friends that don't like me — with a slight margin, finding out exactly how the algorithms work is a tough challenge[reference](reference)— and decided who gets to see my goodbye.
 
-[page about the algorithms of facebook](page about the algorithms of facebook)
+![Just-Me.png](http://downforeveryoneorjustme.com/)
+
+_Down For Everyone Or Just Me_ is a very reassuring page to be on. As the name implies, you can use the site to check if a website is down for you alone or for everyone.
 
 ___
 
-##Optimization and Disaster
+##Optimization
 
-Our pants are smarter than us!
+> “Athos. Building a better human machine.”
+> Scott Anderson, Director of Athletic Training at Stanford University
+
+Nobody likes a smarty pants, but pants are getting smart. A company from the United States called Athos is now selling wearables that use small EEG sensors to measure muscle activity and give you real-time information about your sports routine. It uses science to convince and athletes to model for their commercials.
+
+![Athos pants](img/athos-pants.png)
+
+Benjamin Bratton gave a very insightful talk at TEDx San Diego[^benjamin].
+He used the stage to critique the format TED uses. He argues that TED is not really critical towards technology. Instead, the institution books speakers that tell incredible stories of how technology changes the world while these visions do not always come true.
+
+Bratton makes a case for design as immunisation. Design, he says, should not only focus on innovation but also on making ourselves immune for the things we don't need. 
 
 Design as immunisation – Benjamin Bratton. Not only innovating but also making ourselves immune for the things we do not need. 
 
+I don't know if we need the new wearables. But I do get the feeling that there is some overlap with the problem Bratton addresses towards TED and things like wearables and Smart objects. TED has faith in technology. But, Bratton says, not enough commitment to technology. It is a fetishization of the optimal condition, making any performance sub par worthless while this might not be the case.
+
+Calling objects 'smart' in itself is a strange practice, I think. Weren't watches already very well made devices before the smart watch came along? Smart is not for sale. 
+
+[^benjamin]:[https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+
 
 ___
 
-##Maakbaarheid en Mythe
+##Maakbaarheid en Mythe, Community and the Melinnial
+
+There are many movements where communities form without borders of nations but by interest. 
+
+People are 'syncing' like never before.
 
 The sentence describing Silicon Valley, the series: “In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success”.
 
 
 ___
 
-##Boring Internet
+##Boring Internet, Hot Internet
 
 A near infinite source of ideas and information. (I'm talking about the World Wide Web again). What does that mean? That means _a lot_ of opinions, _a lot_ of facts and _a shitload_ of other information. The internet brings all of that to you. 
 
-Nicholas Carr reasons that human beings aren't at all made for this kind of information. According to him, multitasking is a skill that used to be necessary in order to continually survive. If you weren't constantly shifting focus, you wouldn't notice a predator or another danger and you might be dead before you knew it.  
+Nicholas Carr reasons that human beings aren't at all made for this kind of information. According to him, multitasking is a skill that used to be necessary in order to survive. If you weren't constantly shifting focus, you wouldn't notice a predator or another danger and you might be dead before you knew it.  
 
-He argues that people are now suffering from this ‘predetermined’ survival instinct. According to Carr, we are in the process of losing the ability for deep reflective thought in the process of adapting continually to new and faster information technologies. 
+He argues that people are now suffering from this ‘predetermined’ survival instinct. According to Carr, we are in the process of losing the ability for deep reflective thought because we adapt constantly to new and faster information technologies. 
 
 And he might be right. As I write, next to my communications and next to my entertainment system, I have the possibility to switch around the entire time. I also try to multitask and I also often fail, because my mind is just limited. I can't focus on many things at once.  
 
-I wonder if this new urgent way of treating information is something we should worry about. It's, after all, a reality already. In social media it is a matter of playing or not playing, and when you don't play, you lose. Some things, notifications about events, jokes, maybe even friendships. But I would say that the internet offers also a very new way of ‘deep, reflective thought.’ Maybe the ways of the book are just over and people think in more ephemeral, associative ways. Ways that might have their own qualities.  
+But: I wonder if this new urgent way of treating information is something we should worry about. It's, after all, a reality already. In social media it is a matter of in or out, and when you're out, you lose some things. 
 
-Or not. 
+Invitations, jokes, maybe even friendships. But I would say that the internet offers also another ‘deep, reflective thought.’ Maybe the ways of the book are just over and people think in more ephemeral, associative ways. Ways that might have their own qualities. 
 
-The disability to learn from humans in combination with the computer[1][1] and the dependence of social interactions on an extra digital layer does leave me with a sense of loss. I wouldn't be as disappointed if the internet we would use would have something really amazing to offer, _if the internet would be more like a real human being_. With flaws and abnormalities that would _not_ be coded away, debugged, and that would not simply be left behind for a newer version, because it couldn't be. An internet as a developing persona that would reflect some of the struggles that we humans face. Instead of connecting, we would be relating to the web.
+A new understanding of the world.
+
+
+
+The disability to learn from humans in combination with the computer and depending on an extra digital layer does leave me with a sense of loss. I wouldn't be as disappointed if the internet we would use would have something really amazing to offer, _if the internet would be more like a real human being_. With flaws and abnormalities that would _not_ be coded away, debugged, and that would not simply be left behind for a newer version, because it couldn't be. An internet as a developing persona that would reflect some of the struggles that we humans face. Instead of connecting, we would be relating to the web.
 
 But the personalizing of the internet has been tried and resulted in an array of options, which might be called interesting.
 
@@ -190,12 +217,12 @@ Dread Pirate Roberts (a.k.a. Ross Ulbricht) is the creator of Silk Road and a su
 
 For Ross Ulbricht, the idea of this changing identity must have been a great ideal, but pirates also get caught. Ulbricht is now facing life sentences in prison for making drug trade and more dark business possible online.
 
-His fans are trying to break him free by crowdfunding cash for his defense. [2][2] 
+His fans are trying to break him free by crowdfunding cash for his defense. [^ulbricht] 
 
 What were his ideals? How did they clash with the ideals of society / government?
 
-[1]: https://aeon.co/essays/can-students-who-are-constantly-on-their-devices-actually-learn "And Their Eyes Glazed Over"  
-[2]: http://art.freeross.org/ "Ross Ulbricht Release Website"
+[^glazed]: https://aeon.co/essays/can-students-who-are-constantly-on-their-devices-actually-learn "And Their Eyes Glazed Over"  
+[^ulbricht]: http://art.freeross.org/ "Ross Ulbricht Release Website"
 
 
 Constant Dullaert's _Dulltech_ 

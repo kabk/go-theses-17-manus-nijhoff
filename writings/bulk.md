@@ -36,27 +36,29 @@ The term futurism, today, still seems to have largely the same connotations it m
 
 In philosophy and history there is a movement that looks back into the past and looks at history not purely for the historical events that happened, but that took from history lessons that we can use today. Foucault was one philosopher who worked in that way. He looked for instance at the history of punishment and compared with his present day society the things that were happening to form a judgment about the prison system. In his approach, there was no predetermined idea that the present was the best or the most fair situation. In looking to other eras he could define problems and form opposing views towards the present.
 
-Bruce Sterling gave a speech at the Transmediale in 2010. That edition was titled FUTURITY NOW! Here, he discussed the idea of atemporality. He used the term atemporality to describe an issue philosophy has with history. From an anthropological point of view it can mean the problems we have with the immense new public domain, things like collective knowledge and the loss of a canon and a record. He said this problem is reality, we are living it, and proposed ways to deal with the situation. 
+Bruce Sterling gave a speech at the Transmediale in 2010. That edition was titled FUTURITY NOW! Here, he discussed the idea of atemporality. He used the term atemporality to describe an issue philosophy has with history. From an anthropological point of view it can mean the problems we have with the immense new public domain – things like collective knowledge and the loss of a canon and a record. He said this problem is reality, we are living it, and proposed ways to deal with the situation. 
 
 ##Time-shift
 
-Translit is a literary genre that combines different timeframes and locations. Seemingly disconnected places and times work together in order to form a general narrative. The writer relies on the reader to make his way through time jumps and location-shifts as the book moves on. The name translit was invented in an essay by Douglas Coupland, who praises this approach. He argues even that it’s an essential skill. “Genre shifting is as fundamental to working with words as is punctuation and knowing the difference between serifs and sans-serifs.” 
+Translit is a literary genre that combines different timeframes and locations. Seemingly disconnected places and times work together in order to form a general narrative. The writer relies on the reader to make his way through time jumps and location-shifts as the book moves on. The name translit was invented in an essay by Douglas Coupland, who praises this approach. He argues even that it’s an essential skill. 
 
-I like the idea of shifting timeframes / genres. It seems essential to a life lived with, raised by and chock-full of media. We get snippets and flashes of other realities and fantasies than our own. We can be exposed to simulations of other realities with greater and greater detail. The idea of shifting identity seems legitimate as well. Interacting through different channels real-life and sim-life allows us to do that. 
+>“Genre shifting is as fundamental to working with words as is punctuation and knowing the difference between serifs and sans-serifs.” 
+
+I like the idea of shifting timeframes / genres. It seems essential to a life lived with, raised by and chock-full of media. We get snippets and flashes of other realities and fantasies than our own. We can be exposed to simulations of other realities with greater and greater detail. The idea of shifting identity seems legitimate as well. Interacting through different channels real life and simulated life allows us to do that. 
 
 In design and art, the idea of atemporality and shifting times offers possible infinite space to play around and investigate. 
 
-At the same time, I feel some problems coming up. Clearly, people are strongly rooted in some things. I would say three things are always there for every single human being.
+It seems that people are at the same time strongly rooted in a couple aspects of life. I would say three things are always there for every single human being.
 
 The body.
 The time.
 The place.
 
-We can change the body we live in. We can exercise, we can smoke until our lungs are black instead of pink, we can undergo plastic surgery. Surely there are boundaries, but they can be bent to some degree.
+The body we can change. We can exercise, we can smoke until our lungs are black instead of pink, we can undergo plastic surgery. Surely there are boundaries, but they can be bent to some degree.
 We can build infrastructure, we can change the nature, we can move to another country. The place we live in we can change. 
 Time moves forward and we go along. We may dream, or imagine other times. And perhaps, in some ethereal-scientific way we can change the time, but I’m talking about ‘usual time’ here. The time we live in we can’t change.
 
-We live daily with the media that play heavily onto the sensual part of the human being, but (first-world) society expects us to be rational and decisive. The contradiction of what we get taught and how media manipulates us in the opposite direction makes me very curious.
+Media can paint a pretty ideal of personal freedom, a sensual life. But (first-world) society also demands us to be rational and decisive. The contradiction of what we get taught and how media manipulates us in the opposite direction makes me very curious.
 
 Which problems arise for the atemporal human when confronted with its own media ideals?
 
@@ -89,6 +91,8 @@ Writings
 
 ##LOUIS THEROUX IN SAN QUENTIN
 
+[^san-quentin] 
+
 He walks into the yard with the prisoners. 
 He talks to the inmate who tortured many people. 
 What does it take to do that? (walking into the ‘yard’)
@@ -96,9 +100,13 @@ Is it courage? Or more curiosity?
 He has to be courageous in order to feed his curiosity.
 He uses the power of the camera. The authority of the medium. 
 To find out what not many have found. The human aspects of being imprisoned, the things it does to them.
+The ways social structures are invented.
 The ways people deal with their convictions.
 And how people keep or maintain, even invent an identity.
 
+Outside of reality the prisoners make their own version of reality. In the second season of Sam Esmail's series _Mr. Robot_, Elliot uses his imagination to escape from the mental stress in prison. He makes up an entire story line in which visits of his sister in prison are replaced with visits at his mother's place. His alternative reality is staged in the real world, where prison routines become mundane routines. Breakfast is eaten at the same table in the same diner with the same friend. 
+
+[^san-quentin]: [http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1](http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1) 
 
 ##NOTES ON DOUGLAS COUPLAND
 
@@ -140,18 +148,20 @@ Which systems in the world are essentially attuned to human needs?   –––> 
 ##THOUGHTS ON EX MACHINA
 
 ‘If It ain’t broke, don’t fix it’ , that’s what I thought after seeing the movie Ex Machina. It just popped into my head, and only after a couple of minutes did I connect the dots to the movie.
-It struck me. What would have happened, hadn’t the protagonist helped the AI escape from the house? If he would have concluded after his week with the AI that, it works, so I’m going to leave it here and go home. I say it because it is tempting to say she, but she is still a computer. He would have done his job and that would be that. But he fell for the AI. The coldest of deceptions led her out of her glass cage.
-	A little context: Protagonist gets chosen to come to his boss’s mansion. Boss is the executive of a massive company comparable to Google and he is in the middle of creating an Artificial Intelligence. The robot shows emotion and can argue, seems to have her own will. She is a humanoid (looks like a human being), though she is mostly shown ‘naked’ with her stomach area exposed, where the machinery is visible. Protagonist is asked to perform a kind of Turing test to see if the bot is realistic and working. He falls for her, she says she loves him and shows him that she is being abused by her creator, who treats her roughly and doesn’t allow her to leave her closed facility. He devises and executes a plan to break her free. When she does, she kills her creator and leaves the facility, in the process locking the protagonist in the cage she was trapped in during her whole existence.   In the end we are left with a feeling that is hard to describe. The bot is so humane, we empathize, which is exactly what the protagonist does. The creator however has no empathy for the bot, just wants to improve her for the next generation. He doesn’t feel bad about resetting/killing her. Probably because he knows exactly how she is made. 
-	The film brings up a question. “When are ‘they’ (bots, humanoids, cyborgs, AI) going to outsmart us?” Should the Turing test not be if we could beat ‘them’ in a fight, rather than if we notice that we’re interacting with a computer? How are we still worried about ‘their’ intellect at a point where they are ready to murder us? Isn’t that the ultimate proof of a computer’s superiority? When an artificial intelligence challenges you to a wrestling match, will it play by the rules? 
-	In the end, the story of Ex Machina may not be only about artificial intelligence ( yeah I didn’t capitalize that! ) but also of human clash. The film felt like a proper tragedy. As if the old greeks rose again and made us this movie. It is so sharp, there are so little characters and so much intrigue. And we are left with an Artificial Femme Fatale, an Artificial Lady of Athens, or a goddess of determination. Everything to raise itself. Or what for? Why is a computer with a brain bothered by the mistreatment of her maker? Just because he treats her badly doesn’t mean that he doesn’t want to improve her. She knew she would be terminated, so being a smart robot and everything, she must have realized that once she is gone, a better her will replace her. The only explanation for her outburst and her murder that seems obvious would be ego. The robot with an ego, because she will do anything in order to get what she (it?!) wants.
-	The scene right after she leaves the underground facility is wretched. She laughs a little bit. Just a giggle, but a remarkable one. We haven’t seen it ( /her? ) smile like that before. And remarkable because the smile leaves behind the man that built her. Dead. And the man that freed her, left in her position. The creator we see from a human perspective as a brute, a cold hearted one. Which makes us sympathize more with the protagonist, a more vulnerable and ‘warm’ human being, that acted upon his sentiment. We see him as the good guy. An idea, affirmed by both Ava, the AI and her creator, who calls him a ‘good guy’ throughout the film. But the AI doesn’t feel bad. She smiles, and leaves.
+It struck me. What would have happened, hadn’t the protagonist helped the AI escape from the house? If he would have concluded after his week with the AI that, it works, so I’m going to leave it here and go home. I say it because it is tempting to say she, but she is still a computer. He would have done his job and that would be that. But he fell for the AI. The coldest of deceptions led her out of her glass cage.  
 
->
+A little context: Protagonist gets chosen to come to his boss’s mansion. Boss is the executive of a massive company comparable to Google and he is in the middle of creating an Artificial Intelligence. The robot shows emotion and can argue, seems to have her own will. She is a humanoid (looks like a human being), though she is mostly shown ‘naked’ with her stomach area exposed, where the machinery is visible. Protagonist is asked to perform a kind of Turing test to see if the bot is realistic and working. He falls for her, she says she loves him and shows him that she is being abused by her creator, who treats her roughly and doesn’t allow her to leave her closed facility. He devises and executes a plan to break her free. When she does, she kills her creator and leaves the facility, in the process locking the protagonist in the cage she was trapped in during her whole existence.   In the end we are left with a feeling that is hard to describe. The bot is so humane, we empathize, which is exactly what the protagonist does. The creator however has no empathy for the bot, just wants to improve her for the next generation. He doesn’t feel bad about resetting/killing her. Probably because he knows exactly how she is made.   
+
+The film brings up a question. “When are ‘they’ (bots, humanoids, cyborgs, AI) going to outsmart us?” Should the Turing test not be if we could beat ‘them’ in a fight, rather than if we notice that we’re interacting with a computer? How are we still worried about ‘their’ intellect at a point where they are ready to murder us? Isn’t that the ultimate proof of a computer’s superiority? When an artificial intelligence challenges you to a wrestling match, will it play by the rules?   
+
+In the end, the story of Ex Machina may not be only about artificial intelligence ( yeah I didn’t capitalize that! ) but also of human clash. The film felt like a proper tragedy. As if the old greeks rose again and made us this movie. It is so sharp, there are so little characters and so much intrigue. And we are left with an Artificial Femme Fatale, an Artificial Lady of Athens, or a goddess of determination. Everything to raise itself. Or what for? Why is a computer with a brain bothered by the maltreatment of her maker? Just because he treats her badly doesn’t mean that he doesn’t want to improve her. She knew she would be terminated, so being a smart robot and everything, she must have realized that once she is gone, a better her will replace her. The only explanation for her outburst and her murder that seems obvious would be ego. The robot with an ego, because she will do anything in order to get what she (it?!) wants.  
+
+The scene right after she leaves the underground facility is wretched. She laughs a little bit. Just a giggle, but a remarkable one. We haven’t seen it ( /her? ) smile like that before. And remarkable because the smile leaves behind the man that built her. Dead. And the man that freed her, left in her position. The creator we see from a human perspective as a brute, a cold hearted one. Which makes us sympathize more with the protagonist, a more vulnerable and ‘warm’ human being, that acted upon his sentiment. We see him as the good guy. An idea, affirmed by both Ava, the AI and her creator, who calls him a ‘good guy’ throughout the film. But the AI doesn’t feel bad. She smiles, and leaves.
 
 
 ##ON ATEMPORALITY
 
-In ‘Atemporality for the Creative Artist’, Bruce Sterling describes a problem with network culture. He says we are in a state of chaos, a state of constant emergency when it comes to intellectual labor. He uses the term atemporality to describe an issue we have with the immense new public domain, things like collective knowledge and the loss of a canon and a record. he then explains that this problem is reality, we are living it, and proposes ways to deal with the situation.
+In ‘Atemporality for the Creative Artist’, Bruce Sterling describes a problem with network culture. He says we are in a state of chaos, a state of constant emergency when it comes to intellectual labor. He uses the term atemporality to describe an issue we have with the immense new public domain, things like collective knowledge and the loss of a canon and a record. He then explains that this problem is reality, we are living it, and proposes ways to deal with the situation.
 
 
 ##ON BENJAMIN BRATTON — THE BLACK STACK
@@ -162,12 +172,12 @@ Bratton looks at the world through the model of a Stack. A computational Stack. 
 
 Benjamin’s Stack exists of the following layers:
 
-User
-Interface
-Adress
-City
-Cloud
-Earth
+User  
+Interface  
+Adress  
+City  
+Cloud  
+Earth  
 
 In the text he explains the User and Cloud layer. Hard nut to crack, this text. Not sure about it.
 
@@ -189,9 +199,9 @@ What I mean to expose here is I have the feeling that I have been banking on the
 Great work did not come from good intentions. (Do I sound like a motivational speaker yet?)
 
 In programming, it is often considered bad practice to prepare variables (pieces of text or numbers) for later use when you can also create them ‘on the go.’ It can be faster, or easier to understand for others to read. Now I always prepare for things, and often don’t finish them. I like to create stuff, I do not like to deal with the results. 
-This is the lazy, uncaring part of me that is also writing this thesis. This part likes to procrastinate and always finds the next interesting thing. And it does make a lot of nice discoveries. And it is in essence the explorer part of me that got me interested in researching. And when you ask this part a question in a tone that he doesn’t like, for example; ‘hey, do you have the research question somewhere?’ *worried tone*, this part says that it might have it, yes, just let me read one more page. This one finds all the good resources but never registers them. But then again, if it did, I would probably be a hoarder.
+This is the lazy, uncaring part of me that is also writing this thesis. This part likes to procrastinate and always finds the next interesting thing. And it does make a lot of nice discoveries. And it is in essence the explorer part of me that got me interested in research. And when you ask this part a question in a tone that he doesn’t like, for example; ‘hey, do you have the research question somewhere?’ *worried tone*, this part says that it might have it, yes, just let me read one more page. This one finds all the good resources but never registers them. But then again, if it did, I would probably be a hoarder.
 
-One more page was always a joke in my family. I would be reading a book in bed before going to sleep and my parents would come to tell me to go to sleep and I would say ‘one more page’ and keep reading. 
+_One more page_ was always a joke in my family. I would be reading a book in bed before going to sleep and my parents would come to tell me to go to sleep and I would say ‘one more page’ and keep reading. 
 
 After reading that one page, there was me writing myself deeply into shit, with no ways out but two. 
 
@@ -203,25 +213,25 @@ I always have had good intentions towards work, but the intentions fail me. The 
 
 When I apologize, I do so to explain myself. I want to do it once, here, to give some explanation as to why I think I explain things. I explain myself to all of the people that I have had good intentions towards. 
 
-Dear person that I had good intentions towards,
-
-I hope we got along well. Not sure where you are when you read this, or how you’re feeling. I’m sending you this because something has been on my mind. 
-
-Do you ever feel like a plastic bag? No, just kidding, that’s Katy Perry speaking.
-Do you ever feel like you ever really finish something? I think I’m predestined to unfinished work. Can you give me some tips, or maybe some sources, reference material? I could write a book about unfinished business! It will never be finished. Hmm…
-
-No, the truth is, I’m stalling. Just like we all do. Life is not a highway, it is not a dance floor, it is a procrastination. 
-
-If we worked together well, good. It was good. If we didn’t, I apologize. I was probably a bit preoccupied.
-
-Best,
-
-Manus
+>Dear person that I had good intentions towards,
+>
+>I hope we got along well. Not sure where you are when you read this, or how you’re feeling. I’m sending you this because >something has been on my mind. 
+>
+>Do you ever feel like a plastic bag? No, just kidding, that’s Katy Perry speaking.
+>Do you ever feel like you ever really finish something? I think I’m predestined to unfinished work. Can you give me some tips, >or maybe some sources, reference material? I could write a book about unfinished business! It will never be finished. Hmm…
+>
+>No, the truth is, I’m stalling. Just like we all do. Life is not a highway, it is not a dance floor, it is a procrastination. 
+>
+>If we worked together well, good. It was good. If we didn’t, I apologize. I was probably a bit preoccupied.
+>
+>Best,
+>
+>Manus
 
 
 ##ON ULTRA TATANE’S T–SHIRT
 
-A great example of communicative strategy done well is the shirt by Kevin Bráy and Lou Bouche for their party at the Graphic Design festival in Chaumont. They made the decision to print on a black T-shirt all names of the people who set their attendance to ‘attending’ on Facebook. The text was set in two columns, on the sides of a letter which was torn apart with a cartoon claw. The print was made on the backside of the shirt. This had a couple of positive attributions to the shirt. First of all, one can wear the shirt without always having to have people think that you are making a statement. That statement. Secondly, placing the print on the back is a smart stylistic reference to the time of band shirts. The third thing is a reason which also makes the shirt a desirable possession. Perhaps the placement of print on the backside is a visual clue that this event has passed. Wearing the shirt therefore makes it stating that you were there and it was great (why else don the shirt?). About the print I can say that it was visually strong, a real kick in the face. The placement of the names aligned neatly to the sides, in two supporting columns that seem to hold up strong. What can I say? I like what they did there.
+A great example of communicative strategy done well is the shirt by Kevin Bráy and Lou Bouche for their party at the Graphic Design festival in Chaumont. They made the decision to print on a black T-shirt all names of the people who set their attendance to ‘attending’ on Facebook. The text was set in two columns, on the sides of a letter which was torn apart with a cartoon claw. The print was made on the backside of the shirt. This had a couple of positive attributions to the shirt. First of all, one can wear the shirt without always having to have people think that you are making a statement. That statement. Secondly, placing the print on the back is a smart stylistic reference to the time of band shirts. The third thing is a reason which also makes the shirt a desirable possession. Perhaps the placement of print on the backside is a visual clue that this event has passed. Wearing the shirt therefore makes it stating that you were there and it was great (why else don the shirt?). About the print I can say that it was visually strong. A real kick in the face. The placement of the names aligned neatly to the sides, two supporting columns that held up strong. What can I say? I like what they did there.
 
 
 ##ON MY WRITING STYLE
@@ -274,8 +284,15 @@ David Bennewith’s speech was a good example of the information overload tactic
 
 ##RANDOM QUOTE I FOUND IN MY NOTES
 
-When a man is tempted he is entirely alone
+>_When a man is tempted he is entirely alone_  
+>
+>Jeremy Deller
 
+An excerpt from the article that this is from[^deller]
+
+>Deller discovered Swedenborg's writings when he had a show in Stockholm. He put up posters around the city that juxtaposed Swedenborg quotations with images of pop stars. ”One of them was an image of Keith Moon with 11 women and the quotation, 'When a man is tempted he is entirely alone.' We showed the posters to a Swedenborgian priest and he really loved them: he put some up in his church.”
+
+[^deller]: Unknown Author, _Brass bands playing acid house? Done that_, [https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures](https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures)
 
 ##ON SMOKING, A RANT AFTERWARDS
 
@@ -329,15 +346,15 @@ Is it possible to limit oneself to an audience? (yes)
 
 Mapping the communicative strategies of Graphic Design, the vernacular of information theory, the aesthetic language, the honesty and boldness of it all. The lies, and the negative strategies and patterns that are so overpresent in the world.
 
-What can a person do to choose? It seems to be funest to divide good and bad, happy and sad, and also unrealistic. Who is right, who is wrong. Where from did we learn to be so selective? How unavoidable is it to make assumptions? How easy is it really to choose? 
+What can a person do to choose? It seems to be funest to divide good and bad, happy and sad, and also unrealistic. He is right, who is wrong. Where from did we learn to be so selective? How unavoidable is it to make assumptions? How easy is it really to choose? 
 
 How can we justify following our sensations as life choices? 
 
 
 ##ON FLUSSER
 
-rembrandt example:
-the process of interest is not the printing or rendering of the model, it is the creative 'engineering by the human overseeing the process of making.
+Rembrandt example:  
+The process of interest is not the printing or rendering of the model, it is the creative 'engineering by the human overseeing the process of making.
 to understand means to
 manipulate
 
@@ -386,11 +403,13 @@ Ja, leuk. Maar ik wil dus een peuk opsteken. Ik zit op een kalm terrasje in het 
 He presents the lighter. A triple-barrel, lime-colored, wind-proof machine. The cigar stubb wedged in between his lips. I inhale. Thanks.
 “You betcha”
 
+Translit X Language.
+
 
 ##ON TIME
 
 It's funny with our perception of time. While we seem so much more precise now in predicting and planning time, this can also be a farce. We plan, but immediately fail to fulfill the planned time, so we plan again, or communicate our exact delay to the people we would meet.
-I would meet Richard at 14:00 at the museum. He messaged me at 13:06 if our meeting could be pushed back to 14:30, 15:00 even. I agreed with that at 13:31, stating I would be there from 14:00 until 16:30 anyways. I arrived at the museum at 14:58 where I had a small talk With a former colleague. At 15:03, I walked into the restaurant to miss Richard there. He texted me exactly then that he would be here at 15:10. Time of writing now is 15:11. Waiting for Richard's call.
+I would meet Richard at 14:00 at the museum. He messaged me at 13:06 if our meeting could be pushed back to 14:30, 15:00 even. I agreed with that at 13:31, stating I would be there from 14:00 until 16:30 anyways. I arrived at the museum at 14:58 where I had a small talk with a former colleague. At 15:03, I walked into the restaurant to miss Richard there. He texted me exactly then that he would be here at 15:10. Time of writing now is 15:11. Waiting for Richard's call.
 
 
 ##QUESTIONS ABOUT THE ESSENCE OF BEING A DESIGNER
@@ -431,18 +450,13 @@ we -> people of the earth, working, surviving, thinking, loving people.
 
 the world -> the media landscape, the constructed human world, infrastructure 
 
-In his piece “” Robert Rapoport describes the Remembrancer of London, a man that used to play a truly important economical part in the daily life of London’s City – the financial district. The remembrancer today serves a purely ceremonial function, even though this is n’t. What’s interesting here is how this new system that allows for huge sums of money to be traded illegaly, gets compared to the old man
+In his piece “Double In Fugue” Robert Rapoport describes the Remembrancer of London, a man that used to play a truly important economical part in the daily life of London’s _City_, the financial district. The remembrancer today serves a purely ceremonial function, even though this is n’t. What’s interesting here is how this new system that allows for huge sums of money to be traded illegaly, gets compared to the old man
 
 The Office was set up to act as the corporate memory and this is reflected today in his role of advising the City Corporation on constitutional issues
 
-The Unicorn Myth is 
-
 Enigmatic work, what purpose does it serve?
-
-Weird work, why is it there?
-
-Mapping the communicative strategies of Graphic Design, the vernacular of information theory, the aesthetic language, the honesty and boldness of it all. The lies, and the negative strategies and patterns that are so overpresent in the world.
-
+Weird work, why is it there?  
+Mapping the communicative strategies of Graphic Design, the vernacular of information theory, the aesthetic language, the honesty and boldness of it all. The lies, and the negative strategies and patterns that exist.
 
 Douglas Coupland describes in his essay “essay name”, the genre ‘translit’.  
 
@@ -538,7 +552,7 @@ Please pepper your writing with many examples of 1) human life, for instance an 
 Psychogeography is a great concept since it’s all about the moment and the experience.
 They walk around in city. They like to get lost. 
 They gather together and talk about their experience.
-They take it seriously, and enjoy deriving.
+They take it seriously, and enjoy dériving.
 
 Can psychogeography be applied on the internet?
 
@@ -566,23 +580,23 @@ _the digital existential crisis_
 
 ##TALKING TO WALLS, IGNORING CALLS
 
->touch like a gust of wind, or a heavy fire, touch is the element of my desire.
+>touch like a gust of wind, a heavy fire, touch is the element of my desire.
 
->screen sounds sharp and unforgiving. Screens get sharper by time and charm their way into yours.
+>screen sounds sharp and unforgiving. Screens get sharper over time and charm their way into yours.
 
 >The touch screen for me symbolizes digital melancholia, or that state you get into from taking too long to realize the screen is bothering you.
 
 >By no means should it be over-romanticized because it can be quite sad, but there is some beauty in it. Just like there can be beauty in a line of reasoning.
 
-##COUNTER PROPOSAL
+##COUNTER PROPOSAL, SOLUTIONS TO BREAK THE BUBBLE
 
 >Collecting is not the preferred action in the case of digital melancholia. It will only lead to frustration because the subject matter is a feeling.
 
->Recording is another action that could be undertaken. Maybe the confrontation with hard facts about our own behavior can give us something to push away from. But surely everyone that has a habit knows how hard it is to get rid of one.
+>Recording is another action that could be undertaken. Maybe the confrontation with hard facts about our own behavior can give us something to push away from. But this isn't the full solution. Everyone that has a habit knows how hard it can be to get rid of one.
 
 >Acting out would be something that I could see do something. It should be the climax that comes from this. To release the complex emotions aroused by the (touch) screen and test them with other people.
 
-Consider the dérive, which was an act of getting act of getting lost for the purpose of getting lost. Now, in the time of digital existential crisis, we were disillusioned by the wanderings we have online. Bored after the big promise. We expect a lot, but end up chasing the dragon. Where the derive IRL is a pastime that makes for unexpected discoveries, surely. Surely human beings are random?! The on-screen version of this – randomly browsing the web – – with a little disregard of what the derive is supposed to be, a psychogeographical exploration – does not offer the same randomness. 
+Consider the dérive, which was an act of getting lost for the purpose of getting lost. Now, in the time of digital existential crisis, we were disillusoned by the wanderings we have online. Bored after the big promise. We expect a lot, but end up chasing the dragon. Where the derive IRL is a pastime that makes for unexpected discoveries, surely. Surely human beings are random?! The on-screen version of this – randomly browsing the web – – with a little disregard of what the derive is supposed to be, a psychogeographical exploration – does not offer the same randomness. 
 
 >Feeling like I should get to a point here, I propose using the _fata morgana_ as fuel on the fire. There is an illusion of order, which we should expose. Like the Situationists, lift up and follow your passions, and use the mega surroundings that are given by modern modern society,
 
@@ -597,7 +611,7 @@ How do we even call society today? Does modern still fit? Are we at the apex of 
 
 >Now, take action.
 
-Coming back on this after a couple of weeks: In his book Nostalgia for the Absolute, George Steiner touches on this idea. There is a certain bow of stress, (spanningsboog) that gets stressed under inactivity. Inactivity is the catalyst for action. When a problem is not addressed for a while, it grows worse. It starts to be noticed again when it gets really bad, and this is when people step in and try to fix it. I notice this, personally, in procrastination. A task that is left alone for long enough, grows more painful or powerful, the closer you get to an actual deadline or critical point in development. The spiral of browsing and procrastinating fuels the need to address it. So maybe I am insensitive, when I procrastinate for a long time, because the pain of not doing the task comes usually quite late. But this analogy might be too confusing. In the body, this phenomen manifests itself in muscles. An unused muscle will gather actual toxic fluids in its fibers, if it is not used for a longer period of time. The pain caused by the toxic stimulates the body to get going, get up and running again.
+Coming back on this after a couple of weeks: _In his book Nostalgia for the Absolute_, George Steiner touches on this idea. There is a certain bow of stress, (spanningsboog) that gets stressed under inactivity. Inactivity is the catalyst for action. When a problem is not addressed for a while, it grows worse. It starts to be noticed again when it gets really bad, and this is when people step in and try to fix it. I notice this, personally, in procrastination. A task that is left alone for long enough, grows more painful or powerful, the closer you get to an actual deadline or critical point in development. The spiral of browsing and procrastinating fuels the need to address it. So maybe I am insensitive, when I procrastinate for a long time, because the pain of not doing the task comes usually quite late. But this analogy might be too confusing. In the body, this phenomen manifests itself in muscles. An unused muscle will gather actual toxic fluids in its fibers, if it is not used for a longer period of time. The pain caused by the toxic stimulates the body to get going, get up and running again.
 
 In the short story The Machine Stops, by E.M. Forster, republished in the Whole Earth Review edition called _Computers As Poison_ after it had been written in 1909, the author describes the feeling I write about closely.
 
@@ -613,25 +627,25 @@ An annoyance that bothers: I have the idea that I could do that better but I did
 
 Acupunctures, pressure cookers, boiler rooms, singing lobsters.
 
-Are we all just singing lobsters in the boiling pot of GAFAM?
-
 The lobster screams its pain underwater. Though I and you are not sure if the lobster is in actual pain, we are sure that it is dying in miserable circumstances and we also know that it is involuntarily put in this boiling water and we also know that it is for the eater’s pleasure.
+
+Are we all just singing lobsters in the boiling pot of GAFAM?
 
 Which are the sensibilities of the networked human life?
 
 I mean, looking at the social network gives off a very complicated vision of humanity, right? It has pain, joy, suffering, hate, love, cuteness in unusual quantities and intensities. It’s absurd, and yet it works. I wonder how you could look at those networks with a disinterested view and take some real meaning, some abstracted ideas from it, that actually makes an interesting read. Cause that’s what I would like to achieve. I would like to learn something out of this maniacal and chaotic crazy thing that I’ve been feeding off of, I’ve been contributing to, I’ve felt at home in for a long time. 
 
-In a documentary about X, I saw this woman, Patty Smith, who was deeply intrigued by the way people on the street acted in New York City. She notices people that walk around and look at the previews of movies in Macey’s shop windows. She has the outsider view, the overview. An overview much more interesting than the one from the top of the sky scraper. A view much more complex as well.
+In Adam Curtis' documentary _HyperNormalisation_, I saw this woman, Patty Smith, who was deeply intrigued by the way people on the street acted in New York City. She notices people that walk around and look at the previews of movies in Macey’s shop windows. She has the outsider view, the overview. An overview much more interesting than the one from the top of the sky scraper. A view much more complex as well. This outsiders view is very interesting, because she was still in the same sphere of influence as the others, but just looked on instead of participating in the hype.
 
-I complex good? Is chaos good? Is enigma good? 
+Is complex good? Is chaos good? Is enigma good? 
 
 >“Men seldom moved their bodies; all unrest was concentrated in the soul.”
 
 In this story, human civilization has come to loe underground. All interactions go through the “Machine”.
 
-Troy Hunt, an entrepreneur, most famous for the site Have I Been Pwned? on which you can find out if your data has been disclosed wrongfully, wrote a blog entry about the ways he optimized his life.
+Troy Hunt, an entrepreneur, most famous for the site _Have I Been Pwned?_ on which you can find out if your data has been disclosed wrongfully, wrote a blog entry about the ways he optimized his life.
 
->“I’m also very aware of when I’m becoming unproductive. For example, when a tweet or a notification distracts me. There’s something that triggers and says “Hey, you’re going off track, this is keeping you from what’s important” and I try to adjust accordingly. Doesn’t always happen of course, but at least I’m conscious of inefficiency.”
+>“I’m (...) very aware of when I’m becoming unproductive. For example, when a tweet or a notification distracts me. There’s something that triggers and says “Hey, you’re going off track, this is keeping you from what’s important” and I try to adjust accordingly. Doesn’t always happen of course, but at least I’m conscious of inefficiency.”
 
 This man is very aware of his own shortcomings and weaknesses and, while he admits to also letting go sometimes, is in control of the situation. He is the role model of the modern worker. Independent, self-sufficient, optimizing and adjusting his every move along the way. He is the embodiment of performance. The slick, well-running computer, et cetera.
 
@@ -755,7 +769,7 @@ This song by Art Department and Seth Troxler takes on the subject of purpose in 
 
 ##Apps
 
-**SelfControl, **Keybase, **Saga**, **F.B. Purity**
+**SelfControl**, **Keybase**, **Saga**, **F.B. Purity**
 
 tweakers NL
 
@@ -773,7 +787,7 @@ Crippling Pleasure
 
 ##Notes Friday 23 September
 
-It’s about time I’d get with the facts. I thought I’d found the Holy Grail of working methods and the solution to distraction. It turned out it was just a Plastic Cup and a fata morgana. I have dragged myself out of distraction more than once today. But it’s never totally gone. What once was explained to me by the singer of the band Vulfpeck in their track Guided Smile Meditation were the teachings of an old meditation practitioner. He spoke about the noise, the quiet chatter in the background, the grainy sound that, according to him, is, always there.
+It’s about time I’d get with the facts. I thought I’d found the Holy Grail of working methods and the solution to distraction. It turned out it was just a Plastic Cup and a fata morgana. I have dragged myself out of distraction more than once today. But it’s never totally gone. What once was explained to me by the singer of the band Vulfpeck in their track _Guided Smile Meditation_ were the teachings of an old meditation practitioner. He spoke about the noise, the quiet chatter in the background, the grainy sound that, according to him, is, always there.
 
 To me, there seems to be no life without distraction. So what could be ways of embracing this and moving through the distractions, rather than submerging into the streams. How to ride the waves and which waves to look out for? 
 
@@ -785,7 +799,7 @@ I think this is very interesting because the man has the idea that his work is a
 
 I think this is a phenomenon that still happens. People seem to never really admit to be satisfied by their work but rather define themselves by what they do on their ‘free’ time. 
 
-Employees complain for instance that they spend too much time in front of a computer. When they are free however, the laptops awake from slumber, Facebook is on, Netflix is on, screens are on, emails are written. In short, the screens never mattered in the first place. What is the problem with work then? I wonder. Why do we have so much trouble to find this so called satisfaction from jobs? Do we get paid poorly? Are bosses terrible? Or are the tasks not challenging? Who is happy with their work? Do we need to be satisfied with work or is it always a burden?
+Employees complain for instance that they spend too much time in front of a computer. When they are free however, the laptops awake from slumber, Facebook is on, Netflix is on, screens are on, emails are written. In short, the screens never mattered in the first place. What is the problem with work then? I wonder. Why do we have so much trouble to find this so called satisfaction from jobs? Do we get paid poorly? Are bosses terrible? Or are the tasks not challenging? Who is happy with their work? Do we need to be satisfied with work or is it okay if it is always a burden?
 
 Now repetition is one thing I thought about in the context of work and recreational habits. In neuroscience, repetition is known to be essential to learning, but also detrimental to remembering. Doing something for the first time can requite a lot of effort. The second time, things go a bit more easily, and times after that, the skill gets better and better until the learning curve diminishes in speed and settles at a level.
 
@@ -795,7 +809,9 @@ Now, I wonder how this translates to daily life in the city. Place and direction
 
 **Of course there is no focus.** We need a new definition of the state we call focus. And we should work and teach with ever-changing surroundings. It makes sense to me to consider the ever-changing as the only steady. 
 
-In my experience a problem with work is that it does not require shifting attention, but rather a very steady, sometimes slow, but most of all consistent pace. I am conditioned to continually adapt and change and customize and modify. But I don’t always need that when putting in some real, constructive effort. So, I live. While I divert into less constructive business that satisfies my need for constant distraction. A friend of mine (so naar Rik) told me that his way of working is in short but extremely heavy, concentrated spurts of work. He would be sedentary in a kind of slumber. Resting, but feeding. Power-charging the battery for a long boost of energy after which there is another cooling down period. 
+In my experience a problem with work is that it does not require shifting attention, but rather a very steady, sometimes slow, but most of all consistent pace. I am conditioned to continually adapt and change and customize and modify. But I don’t always need that when putting in some real, constructive effort. So, I live. While I divert into less constructive business that satisfies my need for constant distraction.   
+
+A friend of mine _(s/o to Rik)_ told me that his way of working is in short but extremely heavy, concentrated spurts of work. He would be sedentary in a kind of slumber. Resting, but feeding. Power-charging the battery for a long boost of energy after which there is another cooling down period. 
 
 I wonder if it makes sense for people to work like this. For lithium-ion batteries it is not recommended to use them until completely empty. When used this way, they don’t get as old.
 
@@ -974,11 +990,10 @@ internet / interface / user / producer / provider / transport / trade / party / 
 Silicon Valley / Netherlands / Europe / ante-Brexit UK / Berlin / 
 
 Who are we talking to now?
-Thinking about things such as the Skype / other translation tools, which allow direct communication between users, while they remain speaking in their own language
-[https://youtu.be/No7lM-NLvNc](https://youtu.be/No7lM-NLvNc)
+Thinking about things such as the Skype / other translation tools, which allow direct communication between users, while they remain speaking in their own language [https://youtu.be/rek3jjbYRLo](https://youtu.be/rek3jjbYRLo)
 ￼
-￼
-##Statement
+
+##Statement 
 
 Life is worse after the internet.
 
@@ -1005,7 +1020,7 @@ People are confronted by internet ideals. They are not working
 
 Internet has made a new working class, a new youth, and a new history. What do they have in common with past generations? What makes them different? How do they see the internet?
 
-Hannah recently showed me a video on youtube of a woman playing with toys. She films her own hands, plays with the children’s toys for a while, and makes little baby noises. It was a funny sight, not that strange if you have seen grown-ups play with babies before. They turn into chirping babies themselves. But the interesting part happened right next to the video and that was the view counter. This video had more than 250 million views. Right now as I am writing this it has 263.322.265 views. This is the ‘new generation.’ Parents that are used to using the internet and its sites. Children that have no problem using a device as easy as the iPad. Of course this video has this many views. Kids love watching something over and over again and parents love it when their children are relaxed and chilled. this number is insanely high, but is also already common.
+Hannah recently showed me a video on youtube of a woman playing with toys. She films her own hands, plays with the children’s toys for a while, and makes little baby noises. It was a funny sight, not that strange if you have seen grown-ups play with babies before. They turn into chirping babies themselves. But the interesting part happened right next to the video and that was the view counter. Right now as I am writing this it has 263.322.265 views. This is the ‘new generation.’ Parents that are used to using the internet and its sites. Children that have no problem using a device as easy as the iPad. Of course this video has this many views. Kids love watching something over and over again and parents love it when their children are relaxed and chilled. this number is insanely high, but is also already common.
 
 ![Nothing to download]()
 
@@ -1291,9 +1306,7 @@ NEW STRUCTURE
 
 <a name="18" id="candle"></a>
 
-**NEW Mon Nov 21 23:05:54 2016 NEW**
-
-#18
+#18 [19](#19)
 
 Notes Thu Nov 17 13:52:38 2016
 
@@ -1373,6 +1386,34 @@ On the other hand it could be extremely cool to turn the screen dynamic around b
 
 >“The hard bit is, how not to compromise”
 >Anish Kapoor
+
+<a name="19" id="candle"></a>
+
+#19 [20](#20)
+
+So design can learn more and less from techology. On one hand, it is necessary to study the kind of things that are being built and how, if you want to be able to take it into account while designing something. 
+
+On Dark Pattern Design
+Some simply don't notice. Others have made the purchase but are too lazy or busy to do anything about it. (what's the border between lazy and busy? apathic and pro-active?)
+
+People usually scan-read, not “read” read, and this is what UI designers are taking advantage of.
+
+Dark patterns are setting a bad example. They work with an _easy-in, difficult out_ method.
+
+Designers could identify probably with a split that's been a reality in tech for years. The concept of the White Hat Hacker and the Black Hat hacker. White hats are the ‘good ones,’ hacking a program for Robin Hood reasons or because they want to expose the weaknesses in the system. 
+
+Of course it isn't as easy to split good and bad this binary, but it does give a value judgement. White hat activity can be compared to healthy habits as black is the unhealthy habit. 
+
+Let me stress that I know many people that I admire and respect highly, that have unhealthy habits as well. 
+
+At Netflix server centers they have this approach called the Chaos Monkey. This basically shuts down random parts of their server infrastructure with the only reason to see if the system stays up. This could probably also be called the bacterial approach, since the system _needs_ these little destructions to survive, just like organisms are dependent on smaller creatures or bacteria to survive. 
+
+In 2012 Netflix released an open source version of the software, giving others access to the Simian Army.
+
+What's the place for designers in this place of design? 
+
+Facebook Edge Rank is the Oracle. 
+
 
 <video autoplay="true" loop="true">
 <source src="Chains/CHAIN.mp4" type="video/mp4">

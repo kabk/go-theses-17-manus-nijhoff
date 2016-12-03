@@ -6,14 +6,13 @@ ___
 
 Theme: 
 
-## How does internet use affect people in their personal sphere?
+##How does internet use affect people in their personal sphere?
 
 Central Research Question:  
 
 ##Where does the internet fail and what opportunities does it offer designers?
 
-Embedded in the research will be the question or stance that humans are more important than their networks/infrastructures.
-It should explore the sense of loss of humanity or conectedness to each other, go through different attitudes we have towards the internet as a solution to problems or a medium for change.  
+I take the stance that humans are more important than their networks/infrastructures. I question the ways in which we use our infrastructures and how designers can relate to the conditions of contemporary techno society. 
 
 ##Sub Questions
 
@@ -41,7 +40,7 @@ The characters are:
 
 - **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binging around the internet and reports with a sometimes sarcastic, sometimes humourous point of view. They have a vast knowledge of subcultures. 
 	- _This is the immersed mode of browsing_   
-- **The optimal**: Using the network for the optimal is not a problem. The optimal has efficiently matched his or her habits to the system, making them a leading force and role model of the networked life. With a sharp eye for business opportunities, the optimal uses hashtags to gain followers, sells articles via facebook groups, and has sold his/her startup companies for profit.
+- **The ...**: Using the network for the ... is not a problem. The ... has efficiently matched his or her habits to the system, making them a leading force and role model of the networked life. With a sharp eye for business opportunities, the ... uses hashtags to gain followers, sells articles via facebook groups, and has sold his/her startup companies for profit.
 	- _This is the utilitarian mode of browsing_  
 - **The renegade**: Despises the network in its current state. Knows a lot about the history of the internet. A desillusioned person with a hawk eye's overview of the internet. The renegade is looking for the next network to explore. The current one is broken.  
 	- _This is the disinterested mode of browsing._
@@ -81,6 +80,20 @@ _If design lives on, this is how it should work to deal with corporate powers, t
 
 ___
 
+# Design
+
+Some notes on the design of the thesis:
+
+Hyperlinks are show nearly invisible because I think they are distracting. A study found that texts containing hyperlinks are read less attentively, no matter if they were clicked or not. Their sole presence is a trigger that distracts from reading the text at hand
+
+The subliminal influences or omnipresence of the internet is displayed through images that are “hidden” inside the text. Only once the reader interacts with the text (text selection, printing, clicking) does it show.
+
+The dark theme is comfortable to read, and is also a nice mythical reference. 
+
+The typeface is Kobern.
+
+___
+
 # Sources
 
 ## Books
@@ -108,6 +121,9 @@ ___
 
 ##Primary
 
+- Jeff Atwood, _Working With The Chaos Monkey_ [https://blog.codinghorror.com/working-with-the-chaos-monkey/](https://blog.codinghorror.com/working-with-the-chaos-monkey/)
+- Jon Brodkin, _Netflix attacks own network with “Chaos Monkey” – and now you can too_ [http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/](http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/)
+- Balaji Srinivasan, _Software is Reorganizing the World_, [https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/](https://www.wired.com/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/)
 - arXiv, __[https://www.technologyreview.com/s/525616/data-mining-reveals-how-conspiracy-theories-emerge-on-facebook/](https://www.technologyreview.com/s/525616/data-mining-reveals-how-conspiracy-theories-emerge-on-facebook/)
 - Benjamin Bratton, _The Black Stack_, [http://www.e-flux.com/journal/53/59883/the-black-stack/](http://www.e-flux.com/journal/53/59883/the-black-stack/) 
 - Peter Pomerantsev, _Why We're Post Fact_, (granta)[granta]
@@ -130,6 +146,8 @@ ___
 
 ##Secondary
 
+- Unknown Author, _Hands On: Skype Translator_, [https://youtu.be/vRh09hSCN40](https://youtu.be/vRh09hSCN40)
+- Unknown Author, _Brass bands playing acid house? Done that_, [https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures](https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures)
 - Tobias Stone, _History Tells Us What Will Happen Next With Brexit & Trump_, last checked 21 september [https://medium.com/@theonlytoby/- history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.mqqy6djl7](https://medium.com/@theonlytoby/- history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.mqqy6djl7)
 - Tobias Stone, _A response to some of the comments on my last essay_, [https://medium.com/@theonlytoby/a-response-to-some-of-the-comments-on-my-last-essay-f7917146aebe#.gwfwpv54p](https://medium.com/@theonlytoby/a-response-to-some-of-the-comments-on-my-last-essay-f7917146aebe#.gwfwpv54p)
 - The Knife, _Shaking The Habitual Manifesto_, 2013 [http://www.factmag.com/2013/03/18/the-knife-issue-bizarre-shaking-the-habitual-manifesto/ ](http://www.factmag.com/2013/03/18/the-knife-issue-bizarre-shaking-the-habitual-manifesto/ )
@@ -160,7 +178,8 @@ ___
 
 ##Secondary
 
-- Tom Thurman, _Buy the Ticket, Take the Ride: Hunter S. Thompson on Film_, 2006
+- Louis Theroux, _Louis Theroux: Behind Bars_, 2008 [http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1](http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1)
+- Tom Thurman, _Buy the Ticket, Take the Ride: Hunter S. Thompson on Film_, 2006 [http://www.imdb.com/title/tt0775438/?ref_=fn_al_tt_1](http://www.imdb.com/title/tt0775438/?ref_=fn_al_tt_1)
 - Manuel Bürger & Thomas Jeppe, _Theory of the Bench_, 2014 [http://www.manuelbuerger.com/theoryofthebench](http://www.manuelbuerger.com/theoryofthebench)
 - Guy Debord, _Theory of the Dérive_, 1958 [http://www.bopsecrets.org/SI/2.derive.htm](http://www.bopsecrets.org/SI/2.derive.htm)
 - Jack Cocker, Jeremy Deller: _Middle Class Hero_, 2012  [https://vimeo.com/80729157](https://vimeo.com/80729157)
@@ -174,6 +193,8 @@ ___
 
 ##Primary
 
+- _Cronopio (Literature)_ on Wikipedia, [https://en.wikipedia.org/wiki/Cronopio_(literature)](https://en.wikipedia.org/wiki/Cronopio_(literature))
+- _Default Effect (Psychology)_ on Wikipedia, [https://en.wikipedia.org/wiki/Default_effect_(psychology)](https://en.wikipedia.org/wiki/Default_effect_(psychology))
 - _Agency_ on Wikipedia, [https://en.wikipedia.org/wiki/Agency_(philosophy)](https://en.wikipedia.org/wiki/Agency_(philosophy))
 - _The Ludovico Technique (Clockwork Orange)_ on Wikipedia, [https://en.wikipedia.org/wiki/Ludovico_technique](https://en.wikipedia.org/wiki/Ludovico_technique)
 - _Jenny Holzer_ on Wikipedia, [https://en.wikipedia.org/wiki/Jenny_Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer)
@@ -199,7 +220,9 @@ ___
 
 ##Primary
 
-- (website) Athos - _Wearable Technology for Fitness_, https://www.liveathos.com/
+- (technology) Skype, _Skype Translate demo at Microsoft's Worldwide Partner Conference 2014_, [https://youtu.be/rek3jjbYRLo](https://youtu.be/rek3jjbYRLo)
+- (software) Netflix, _Simian Army_, [https://github.com/Netflix/SimianArmy](https://github.com/Netflix/SimianArmy)
+- (website) Athos - _Wearable Technology for Fitness_, [https://www.liveathos.com/](https://www.liveathos.com/)
 - (artwork) Andrew Norman Wilson, _Workers Leaving the Googleplex_, [https://vimeo.com/15852288](https://vimeo.com/15852288)
 - (site) F.B. Purity [http://www.fbpurity.com/facebook-css.htm](http://www.fbpurity.com/facebook-css.htm)
 - (podcast series) Rafael Rozendaal and Jeremy Bailey, _Good Point_, September 2016 - present 
@@ -219,6 +242,7 @@ ___
 
 ##Secondary
 
+- (blog post) User Pradeep, _Responses to “What lies between noughties and twenties?”_, [https://sandsofchange.wordpress.com/2010/01/03/responses-to-what-lies-between-noughties-and-twenties/](https://sandsofchange.wordpress.com/2010/01/03/responses-to-what-lies-between-noughties-and-twenties/)
 - (website) _World Population Clock_, [http://www.worldometers.info/world-population/](http://www.worldometers.info/world-population/)
 - (Fashion collection) Ssense, _ASMR Fashion_ [https://www.ssense.com/en-ca/video/testing-this-seasons-belts](https://www.ssense.com/en-ca/video/testing-this-seasons-belts)
 - (lecture) Brandon Rohrer, _Deep Learning Demystified_, last checked 25 september, [https://www.youtube.com/watch?v=Q9Z20HCPnww](https://www.youtube.com/watch?v=Q9Z20HCPnww)
@@ -228,7 +252,7 @@ ___
 - (site) Troy Hunt, _Have I Been Pwned?_ Last seen 15 september [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 - Ross Ulbricht (Dread Pirate Robberts),_ website for his release_,  [http://art.freeross.org/](http://art.freeross.org/)
 - (movie) Jim Jarmusch, _Ghost Dog_, The Way of the Samurai, 1999 [https://youtu.be/1kcU2HxmeMY](https://youtu.be/1kcU2HxmeMY)
-- (song) Opgezwolle, _Park_ van het album Eigen Wereld, 2006
+- (song) Opgezwolle, _Park_ van het album Eigen Wereld, 2006, [https://youtu.be/KUGs6VpUdP8](https://youtu.be/KUGs6VpUdP8)
 - (artwork) Christian Marclay, _The Clock_ – Seen at Centre Pompidou, Metz 2014 [http://www.centrepompidou-metz.fr/en/clock-christian-marclay](http://www.centrepompidou-metz.fr/en/clock-christian-marclay)
 
 

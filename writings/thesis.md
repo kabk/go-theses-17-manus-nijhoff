@@ -18,7 +18,7 @@ A moment of your time please, I am here to talk to you about the Internet's boun
 
 Bruce Sterling argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense because these companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
 
-_Silicon_ Valley. It's interesting how this material came to stand for power. A kind of power that puts your personal ideals on the steering wheel. The kind of power that wants bigger boobs and that wants a faster computer.  
+_Silicon_ Valley. It's interesting how this material came to stand for power. A material that puts your personal ideals behind the steering wheel. A material that supports bigger boobs and smaller computer chips. The Silicon has since long left Silicon Valley, but its legacy is still shaping the world.
 
 So these are the giants that design and implement our services.
 
@@ -26,37 +26,23 @@ Benjamin Bratton has another power structure in mind. He uses the metaphore of t
 
 GAFAM have a lot of opportunity to design exploits of the user's weaknesses. While we small-time designers, educated in art schools, were busy designing interfaces, their big-time designers backed by GAFAM's ideals of big data profit – were learning to implement social engineering knowledge into their interfaces. 
 
-People love consistency. We say we want change, but we also want everything to remain the same. In the case of interface the answer is _defaultism_. Defaultism is the term used to describe the happiness and wilingness of people to use an unchanged, working design. 
+Follow or die?
+
+People love consistency. We say we want change, but we also want everything to remain the same. In the case of interface design the answer is _defaultism_. Defaultism is the term used to describe the happiness and wilingness of people to use an unchanged, working design. 
+
 In the beginning of the internet, people were customizing everything, wanting to touch every part with their own style. Hell, the whole idea of stylesheets – code to stylize websites – was to have a _personal_ stylesheet, which you could use on every page on the internet. Instead, pages would offer their own stylesheets. Now after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, _because they work_.
 
-What is the balance between _comfort and surrender_?
+What is the balance between _comfort and surrender_? Between _default and custom_?
 
 What is the balance between _self-control and ignorance_?
 	Agency online, what a person can and cannot control.
 
-I would like to get your e-mail address to continue reading. My Terms of Agreement are just one line.
-
-“I will only use your e-mail address to send you this thesis in parts.”
-
-accept ✓ | deny ✗
-
-Internet marketing SEO and B2B, B2C addresses. Guerilla SEO !
-
-Why? Because building an audience is important for me. I want people to know what I'm up to. Because this is how we get most of our information, may it be fragmented or not. It suits my message, which is to be aware of the pitfalls of digital communications. I want to feed you my thesis and your feedback. And feeding nowadays works bite-sized, pre-packaged and customized to your needs. All I need is one little e-mail-address...
-
-
-
-	Letting go of the internet, abstaining - what the effects of this are.
-
-
-What are the consequences of a dysfunctioning internet?
-
-Which paradoxes do we face when using the internet?
+What are the consequences of a dysfunctioning internet? Which paradoxes do we face when using the internet?
 
 
 ___
 
-##Wild, _enfant sauvage_
+##Trust
 
 (The Renegade)
 
@@ -65,6 +51,20 @@ ___
 Users and people are one and the same nowadays. In Dutch a a user (gebruiker) could mean a user of drugs, which is a popular use of the word. Now users are people. Or are people users?
 
 Besides the silliness of this little observation, the word user is sometimes interchanged with consumer. This switch shows the same tendency, to see a human being in a system primarily as a consumer, whether that is consuming food or news. And this is a bit strange to me. Do we really just consume our news?
+
+We want to immerse in the network, but why? Is it a fleeing from the daily reality that doesn't excite and satisfy us? I mean, did it ever? This is one of the main reasons why I think people get addicted to gaming, internet, social media, whatever. There's not enough joy. Maybe not enough trust.
+
+Trustless. That is the idea of the Blockchain. 
+
+What is trust? 
+
+>“Trust in value exchange occurs when we do not know fully whether what we are receiving is what we expect. When we buy a car, don’t want to be sold a ringer which the seller knows is faulty. When I get advice in business, I want it to be based on facts, not wild opinions.”
+
+Predictability
+
+How is the Blockchain trustless?
+
+Blockchain boasts with the feature of the network that is ‘trustless’. What does trustless really mean? That we can give in control. 
 
 According to my Mac's dictionary, to consume meand either to eat, drink, digest, buy, use up (a resource), completely destroy (especially of a fire), or to absorb all of the attention and energy of someone. It's a very negative word which suggests all people are depleting earth's resources.
 
@@ -156,8 +156,6 @@ He used the stage to critique the format TED uses. He argues that TED is not rea
 
 Bratton makes a case for design as immunisation. Design, he says, should not only focus on innovation but also on making ourselves immune for the things we don't need. 
 
-Design as immunisation – Benjamin Bratton. Not only innovating but also making ourselves immune for the things we do not need. 
-
 I don't know if we need the new wearables. But I do get the feeling that there is some overlap with the problem Bratton addresses towards TED and things like wearables and Smart objects. TED has faith in technology. But, Bratton says, not enough commitment to technology. It is a fetishization of the optimal condition, making any performance sub par worthless while this might not be the case.
 
 Calling objects 'smart' in itself is a strange practice, I think. Weren't watches already very well made devices before the smart watch came along? Smart is not for sale. 
@@ -248,9 +246,8 @@ It shows in different ways. An interesting page to visit is the website of _Tech
 
 In a Q and A, the authors describe the following situation: 
 
->Q: You talk about TechnoStress in the home - how is technology affecting the family?
->
->A: The modern family is isolated, with each person wrapped in his or her own "Techno-Cocoon." Just take a look at the typical family looks at the end of the day ... Mom preparing dinner while checking the answer machine, head glued to the portable phone while she returns calls. One child is playing games on the computer in his bedroom, another is talking on her own phone, and the youngest is playing Nintendo. Dad comes home later from work and goes immediately to the computer. And the kids seem to know so much more about computer technology that their parents are feeling intimidated and inadequate. In many homes we are seeing a loss of communication and a major shift in the power balance in the family.
+>Q: How is technology affecting the family?
+>A: In many homes we are seeing a loss of communication and a major shift in the power balance in the family.
 
 The problem I have with this kind of critique is the stereotyping of the situation. For some reason, it sounds as if these Techno-critics have no better answer to the problems faced by technology than to draw a bleak picture of what a family is in times of rising technology. And while they have some valid points, all credibility is lost through the use of slogans, commercials for the book, and metaphore upon metaphore.
 
@@ -275,7 +272,6 @@ Forgive my inadequate knowledge of internet marketing, there must be so many way
 
 CRITIQUE: Our attitude nowadays to the internet, what's it like? Does it inspire action or apathy? Maybe both? In what way?
 
-
 Just make life hell you know, hell on heaven
 
 
@@ -285,12 +281,8 @@ ___
 
 The internet has changed agency. Acting in enormous systems makes it possible to act very big very fast but can also render an individual powerless. 
 
-THE INTERNET has given us back some virtues: we might get paid for taking time to sleep, or a basic income could be coming to your neighborhood. All of these ideas come and spread and take over people's ideas. 
+Technology has given us back some virtues: we might get paid for taking time to sleep, or a basic income could be coming to your neighborhood. All of these ideas come and spread and take over people's ideas. 
 And not, at the same time. Putting technology at the center of all of our problems is ignorant and distracting. Instead, we should be paying attention to people around us. Not paying people in Pakistan to increase our following. What kind of followers do you need? 
-
-Judge ideas, not people. Be aware of the influence of your personal needs.
-
-RANT
 
 We don't have all the pieces of the puzzle. But these pieces I put together. Maybe it was in a forced way, and probably I've misplaced some of the parts. But how much I like talking in metaphores, I want to tell you, thanks for reading. I hope you can use this.
 

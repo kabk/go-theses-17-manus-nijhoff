@@ -261,7 +261,7 @@ video {
 		display: none;
 	}
 
-	h1, h2, h3, p, strong, .someClass, em {
+	h1, h2, h3, p, strong, .someClass, em, li {
 		color: #000;
 		max-width: 70%;
 	}

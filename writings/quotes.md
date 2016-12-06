@@ -1,6 +1,16 @@
+##Bruce Sterling, _Patently untrue: fleshy defibrillators and synchronised baseball are changing the future_
+
+Design fictions are fakes of a theatrical sort, but they're not wicked frauds or hoaxes intended to rob or fool people. A design fiction is a creative act that puts the viewer into a different conceptual space -- for a while. Then it lets him go. Design fiction has an audience, not victims.
+
 ##Jeremy Bailey and Rafael Rozendaal, _Good Point Episode 5 (?)_
 
 Millenials want experiences, not things.
+
+##Bruce Sterling, _Final Note on Viridian Design Movement Blog_
+
+The 400-year-old Westphalian System doesn't approve of my lifestyle, although it's increasingly common, especially among people half my age. It's stressful to live glocally. Not that I myself feel stressed by this. As long as I've got broadband, I'm perfectly at ease with the fact that my position on the planet's surface is arbitrary. It's the nation-state system that is visibly stressed by these changes – it's freaking out over currency flows, migration through airports, offshoring, and similar phenomena.
+
+
 
 ##Jeff Atwood, _Working With The Chaos Monkey_
 

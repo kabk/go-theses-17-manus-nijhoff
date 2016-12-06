@@ -34,13 +34,15 @@ Berlijn, 9 september 2016
 
 The term futurism, today, still seems to have largely the same connotations it must have had begin 20th century. It was a fast, brutal, rich movement that sensualized the machinery that man could make. Nowadays ‘modern’, sci-fi, innovative – ‘fast’ culture in general – is seen placed along the future axis, as if going fast, being new and scientific brings one closer to the future. See something cool? Future, girl. Of course there is a genuine and important meaning to the word, representing the time to come. But should the future be appointed as much status as it has?
 
-In philosophy and history there is a movement that looks back into the past and looks at history not purely for the historical events that happened, but that took from history lessons that we can use today. Foucault was one philosopher who worked in that way. He looked for instance at the history of punishment and compared with his present day society the things that were happening to form a judgment about the prison system. In his approach, there was no predetermined idea that the present was the best or the most fair situation. In looking to other eras he could define problems and form opposing views towards the present.
+In philosophy and history there is a movement that looks back into the past and looks at history not purely for the historical events that happened, but that took from history lessons that we can use today.   
+Foucault was one philosopher who worked in that way. He looked for instance at the history of punishment and compared with his present day society the things that were happening to form a judgment about the prison system.  
+In his approach, there was no predetermined idea that the present was the best or the most fair situation. In looking to other eras he could define problems and form opposing views towards the present.
 
 Bruce Sterling gave a speech at the Transmediale in 2010. That edition was titled FUTURITY NOW! Here, he discussed the idea of atemporality. He used the term atemporality to describe an issue philosophy has with history. From an anthropological point of view it can mean the problems we have with the immense new public domain – things like collective knowledge and the loss of a canon and a record. He said this problem is reality, we are living it, and proposed ways to deal with the situation. 
 
 ##Time-shift
 
-Translit is a literary genre that combines different timeframes and locations. Seemingly disconnected places and times work together in order to form a general narrative. The writer relies on the reader to make his way through time jumps and location-shifts as the book moves on. The name translit was invented in an essay by Douglas Coupland, who praises this approach. He argues even that it’s an essential skill. 
+Translit is a literary genre that combines different timeframes and locations. Seemingly disconnected places and times work together in order to form a general narrative. The writer relies on the reader to make his or her way through time jumps and location-shifts as the book moves on. The name translit was invented in an essay by Douglas Coupland, who praises this approach. He argues even that it’s an essential skill. 
 
 >“Genre shifting is as fundamental to working with words as is punctuation and knowing the difference between serifs and sans-serifs.” 
 
@@ -91,7 +93,9 @@ Writings
 
 ##LOUIS THEROUX IN SAN QUENTIN
 
-[^san-quentin] 
+In Louis Theroux' documentary of the high-security prison San Quentin,[^san-quentin] I could see some parallels of how the internet works on social structures. I don't mean to say that social networks are a prison, bear with me.
+
+Participatory media allows you to reach people that you didn't know existed in the first place. It allows you to communicate, talk, make love, basically any human exchange is made possible through the medium. But: always _within the limits of that medium_. The following comparison to the prison system only differs on the point that social media allows an escape, which in the prison model only works after ‘doing your time’. 
 
 He walks into the yard with the prisoners. 
 He talks to the inmate who tortured many people. 
@@ -104,7 +108,15 @@ The ways social structures are invented.
 The ways people deal with their convictions.
 And how people keep or maintain, even invent an identity.
 
-Outside of reality the prisoners make their own version of reality. In the second season of Sam Esmail's series _Mr. Robot_, Elliot uses his imagination to escape from the mental stress in prison. He makes up an entire story line in which visits of his sister in prison are replaced with visits at his mother's place. His alternative reality is staged in the real world, where prison routines become mundane routines. Breakfast is eaten at the same table in the same diner with the same friend. 
+Being outside of daily societal reality, the prisoners make their own version of reality. In the second season of Sam Esmail's series _Mr. Robot_, Elliot uses his imagination to escape from the mental stress in prison. He makes up an entire story line in which visits of his sister in prison are replaced with visits at his mother's place. His alternative reality is staged in the real world, where prison routines become mundane routines. Breakfast is eaten at the same table in the same diner with the same friend. 
+
+Elliot escapes: Prison reality -> daily reality.
+
+People escape: Daily reality -> online reality.
+
+But not only escape. A place where ideas come to life.
+
+I would argue that there is some overlap with social media. Subcultures form and create teir own identities. It supports a social structure where like-minded people are put together in a concentrated sphere of influence. In the prison model, this may be criminals from different backgrounds and convictions. Here, the only thing the inmates have to identify is their body. Depending on skin color an inmate gets automatically put in a gang. It is impossible to hide your identity, that gets superimposed. While online, it is much easier to shape yourself.
 
 [^san-quentin]: [http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1](http://www.imdb.com/title/tt1235534/?ref_=nv_sr_1) 
 
@@ -189,6 +201,9 @@ Once it has a name, it is not scary anymore
 Gerard Reve – Zodra het een naam heeft is het bezworen.
 
 Apologetics is the science of explanation. Meta-alert! It’s the science of explaining, that’s like, the religion of believing. Anyways, it sounds good to me. I explain a lot. Rather, I apologize a lot.
+
+regretfully acknowledging or excusing an offense or failure: she was very apologetic about the whole incident.
+• of the nature of a formal defense or justification of something such as a theory or religious doctrine: the apologetic proposition that production for profit is the same thing as production for need.
 
 I heard a quote somewhere recently which I don’t remember exactly, but it went something like:
 
@@ -302,7 +317,11 @@ Roken is een ontsnapping aan de verantwoordelijkheid die ik heb voor mijn eigen 
 
 Ik beloof dingen, ik zeg dingen die niet waar zijn. Dus is roken eigenlijk wel logisch. En kunst, zingen, tekenen, ontwerpen zelfs. Daarmee valt de realiteit goed aan te sturen, terwijl je die vervult. En hoe beter het bedrog, des te groter het effect en het succes. Want ik ben niet de enige die om deze reden rookt, drugs neemt of naar comedy kijkt. Al deze ‘onnuttige’ dingen zijn toch erg invloedrijk.
 
-Met voor de gek houden kun je ook achter meer dingen komen dan normaliter aan het oppervlakte ligt. Het loont godverdomme meer om afgeleid productief te zijn dan geconcentreerd actief. Afgeleid productief, of onbewust productief, is creatieve arbeid. 
+Met voor de gek houden kun je ook achter meer dingen komen dan normaliter aan het oppervlakte ligt. 
+
+With fooling you can find out way more than from stating facts. The first thing you do when someone fools you, is to find their ways. It's a domesticated failure, of which recovering is easy. 
+
+Het loont godverdomme meer om afgeleid productief te zijn dan geconcentreerd actief. Afgeleid productief, of onbewust productief, is creatieve arbeid. 
 
 Of ontwerp altijd creatieve arbeid moet zijn is nog maar de vraag. Is het niet waar, dat bij alle vlakken, vakken en mensen in het leven een creatieve arbeid nodig is om iets te maken? Ik stel voor dat we dat allemaal iets duidelijker maken. Wij als posterboys, avatars, van onze generatie, hebben de kans en goede verantwoordelijkheid om creatie te onthullen en te ontdoen van het mythische en mystieke. Dat loont niet. En de creatie is niet zo ver te zoeken. FIVER is best bekend en daar zijn mensen hun kleine creatieve aandeel aan het leveren vaak zonder opsmuk of onduidelijkheid. Of veel zelfgemaakte hobbyistische websites. 
 
@@ -326,7 +345,8 @@ Diagnose: You know that I know that you exist. You the reader, me the writer, we
 Guiding Policy: My words, translated in your brain, should be tried from both sides. Meaning: your word is as valuable as mine, and it should get the same authority in this text.
 Actions: Therefore, it will be necessary to discuss if it is right what I say, and we should enable discussion by setting up a connection between us, where we edit the text. 
 
-The act of correction is not that I make something, and you strike it through and replace it with your words. That is not what I would call a fair game. Instead, wouldn’t it be much better if we had a direct resistance from persons, not machines or bots, when we write what we write. Which technologies enable a fair platform for discussion and correction, without becoming the all seeing eye that manipulates? What I’m trying to say is how can a human being maintain control over their own intellect, and have meaningful, educational, fun and young interactions through discussion? 
+The act of correction is not that I make something, and you strike it through and replace it with your words. That is not what I would call a fair game. Instead, wouldn’t it be much better if we had a direct resistance from persons, or maybe robots, when we write what we write. 
+Which technologies enable a fair platform for discussion and correction, without becoming the all seeing eye that manipulates? What I’m trying to say is how can a human being maintain control over their own intellect, and have meaningful, educational, fun and young interactions through discussion? 
 
 Reddit is based on the idea that the most votes count, and that is a perfectly sound approach that seems to be working. The most interesting, smart, fun, or popular opinions come to the top of the feed, allowing people to join in into the discussion. 
 
@@ -450,7 +470,7 @@ we -> people of the earth, working, surviving, thinking, loving people.
 
 the world -> the media landscape, the constructed human world, infrastructure 
 
-In his piece “Double In Fugue” Robert Rapoport describes the Remembrancer of London, a man that used to play a truly important economical part in the daily life of London’s _City_, the financial district. The remembrancer today serves a purely ceremonial function, even though this is n’t. What’s interesting here is how this new system that allows for huge sums of money to be traded illegaly, gets compared to the old man
+In his piece “Double In Fugue” Robert Rapoport describes the Remembrancer of London, a man that used to play a truly important economical part in the daily life of London’s _City_, the financial district. The remembrancer today serves a purely ceremonial function. 
 
 The Office was set up to act as the corporate memory and this is reflected today in his role of advising the City Corporation on constitutional issues
 
@@ -799,7 +819,7 @@ I think this is very interesting because the man has the idea that his work is a
 
 I think this is a phenomenon that still happens. People seem to never really admit to be satisfied by their work but rather define themselves by what they do on their ‘free’ time. 
 
-Employees complain for instance that they spend too much time in front of a computer. When they are free however, the laptops awake from slumber, Facebook is on, Netflix is on, screens are on, emails are written. In short, the screens never mattered in the first place. What is the problem with work then? I wonder. Why do we have so much trouble to find this so called satisfaction from jobs? Do we get paid poorly? Are bosses terrible? Or are the tasks not challenging? Who is happy with their work? Do we need to be satisfied with work or is it okay if it is always a burden?
+Employees complain for instance that they spend too much time in front of a computer. When they are free however, the laptops awake from slumber, Facebook is on, Netflix is on, screens are on, emails are written. The screens never mattered in the first place. What is the problem with work then? I wonder. Why do we have so much trouble to find this so called satisfaction from jobs? Do we get paid poorly? Are bosses terrible? Or are the tasks not challenging? Who is happy with their work? Do we need to be satisfied with work or is it okay if it is always a burden?
 
 Now repetition is one thing I thought about in the context of work and recreational habits. In neuroscience, repetition is known to be essential to learning, but also detrimental to remembering. Doing something for the first time can requite a lot of effort. The second time, things go a bit more easily, and times after that, the skill gets better and better until the learning curve diminishes in speed and settles at a level.
 
@@ -807,7 +827,7 @@ I’d like to compare this to a walk in the woods. Walk into a wild bush. You ha
 
 Now, I wonder how this translates to daily life in the city. Place and direction seem not to be as important anymore. Devices allow us to be in more than one place at a time. Perhaps the constant moving around in cyberspace adds an extra challenge to the kind of repetitive learning that can be compared with the forest path. ADD is just a person adapting to the state of media around us.
 
-**Of course there is no focus.** We need a new definition of the state we call focus. And we should work and teach with ever-changing surroundings. It makes sense to me to consider the ever-changing as the only steady. 
+**Of course there is no focus.** We need a new definition of the state we call focus. And we should work and teach with ever-changing surroundings. It makes sense to me to consider the ever-changing as the only steady thing there is. 
 
 In my experience a problem with work is that it does not require shifting attention, but rather a very steady, sometimes slow, but most of all consistent pace. I am conditioned to continually adapt and change and customize and modify. But I don’t always need that when putting in some real, constructive effort. So, I live. While I divert into less constructive business that satisfies my need for constant distraction.   
 
@@ -990,7 +1010,7 @@ internet / interface / user / producer / provider / transport / trade / party / 
 Silicon Valley / Netherlands / Europe / ante-Brexit UK / Berlin / 
 
 Who are we talking to now?
-Thinking about things such as the Skype / other translation tools, which allow direct communication between users, while they remain speaking in their own language [https://youtu.be/rek3jjbYRLo](https://youtu.be/rek3jjbYRLo)
+Thinking about things such as the Skype / other translation tools, which allow direct communication between users, while they keep talking in their own language [https://youtu.be/rek3jjbYRLo](https://youtu.be/rek3jjbYRLo)
 ￼
 
 ##Statement 
@@ -1124,9 +1144,9 @@ What did we expect? What did we get? What do we want now?
 
 The internet was a hot topic. From its first setting up until now we have used and abused it, spit on it and worshipped it. Bla bla bla, we are all so connected at this moment and so used to the internet being everywhere that we don’t know better. I think it has become time to see what our first dreams of the network were, and which it has fulfilled. I don’t want to consider life without internet as different than life with internet, BUT the difference should become clear from the cases that I will look at. 
 
-By this time, people are depending on the network for life. It is the newest layer of infrastructure that became a necessity after the sewer and the roads we use.
+By this time, people are depending on the network for life. It is the newest layer of infrastructure that became a necessity as essential as the sewer and the roads we use.
 
-The human is submerged into, entangled in the wires. The big companies of the tech industry are banking heavily on Artificial Intelligence and 
+The human is submerged into, entangled in the wires. The big companies of the tech industry are banking heavily on Artificial Intelligence and disrutive tactics.
 
 What happened? Graphic Design and arts started to use the commercial services and softwares to make their results. 
 
@@ -1408,11 +1428,110 @@ Let me stress that I know many people that I admire and respect highly, that hav
 
 At Netflix server centers they have this approach called the Chaos Monkey. This basically shuts down random parts of their server infrastructure with the only reason to see if the system stays up. This could probably also be called the bacterial approach, since the system _needs_ these little destructions to survive, just like organisms are dependent on smaller creatures or bacteria to survive. 
 
-In 2012 Netflix released an open source version of the software, giving others access to the Simian Army.
+In 2012 Netflix released an open source version of the software, giving others access to the Simian Army. It would be very good to see a Chaos Monkey in real life. What would the Chaos Monkey approach to design mean? 
+
+Graphic design is based on planning, moral and aesthetic choices. A design holds up by test of time, or by acceptance among people. These time-based, ethical and popular successes can be wrecked by the Chaos Monkey Of Design.
+
 
 What's the place for designers in this place of design? 
 
 Facebook Edge Rank is the Oracle. 
+
+DESIGN INFLUENCE
+
+I think part of design is having big dreams. Another part of it is being modest or at least realistic about its scale of influence. And I also think design could be more openly skeptical towards itself. A lot of big promises were appointed to (graphic) design in the past. But we can't rely on hollow phrases like ‘ design can make a change’ or ‘design can change the world’. These phrases are so big so that they can be easily swallowed. Of course design can make a change. A teacher can make a change, a child can make a change. It's Hollywood juices for the design-masses. Let's stop pretending that design is always for good. The fetish is over. And I think people know this. 
+
+Last week I was walking down the street in my residency the Hague. A teleprovider called Tele2 was advertising a limitless bandwidth plan. The slogan translates to ‘not because you have to, but because you can.’ My gut turns when I hear these kind of words. The campaign is cynical, if you ask me. It is cynical because the amounts of internet people use are things that could be customized much more than it is now.
+
+
+
+
+a16z 
+
+pre-commerce. Where you used to have to invest capital into. Pre-commerce solves that problem for sales. Veryfy the demand. Or you could work through an elaborate network of dealers and distributers and hope to find the right amount.
+You don't have to think and speculate. And you get a direct connection with the consumer.
+If you don't get the minimal, people know about it. Delivering is the hard part.
+Why now? Evolution of commerce on the web. First people who sell other people stuff (e.g. Amazon). Brands now have more 
+If you want to sell a book you don't have to wait until it's finished. Brand new territory. Servicification before 
+Chinese authors write chapters on the go. Life of Pablo was released before it was finished. The risk?
+Perfect scarcity: be there first. Using time as scarcity instead of the object as scarcity. (limited edition). Now it is FOMO. Efficiency gains of knowing what the demand is. Millenials want experiences not goods so bringin x,y,z to market is an experience. You get to be part of it on the co-creation side. Art and fandom. Who is going to win in this space? 
+In the case of a concert, the fans become the advocates for the concert if it only happens when x people buy the ticket. The crowd does have the power.
+She says also that people will be more okay with imperfections like later delivery dates. Our behaviours will change, adapting to this model.
+
+It's complicated
+
+Theme: complicated
+Back end is very complex, front end extremely simple. Most people are shielded from complexity. We create systems that nobody understands.
+Users / consumers don't care as long as it works.
+It's one thing to say: There is an expert somewhere that knows what's going on and we outsource our understanding to them. But more and more there is no such expert. Each of us has some way of thinking about these systems. 
+Not being able to understand it is the cool thing. Hack, clooge are celebrated terms. When is a hack detrimental to society?
+Large system. Only way to change it is through hacks. But: u dont understand whats going on. Left with intangible mess. We should be deliberate in how we grow these systems. Especially as from scratch. Not a cloogy approach. Grown not engineered. 
+Evolutionary nature
+Evolved feature, repurposing a phenotypic thing, obsolete code. When systems get big enough they almost seem biological.
+As the sites are being built. Change Review Board.12 people. 1 network 1 storage 1 application development 1 servers - > review every change. Say it out loud and see if the other 'worlds' agree. Reverse when there are problems. Same people come together to find out what is causing the problem.
+Not just backend. 
+Self driving cars as it learns but we dont know what.
+Fascinating changes.
+Up until now programming was functional procedural. If loops Basically predict enough states so the computer can do the calculation. If this, do that.
+With deep learning comes a probabalistic reasoning system. If I see this input, I think I should do X. 
+Explicit vs probabalistic.
+Sociological. -> computers were exact precise things. When do people think computers are biological. people have a low tolerance for error for anything that comes out of a computer. 
+Don't panic does not work for people. 
+Netflixxxxxx chaos monkey. Tool periodically takes subsystems out of commision and sees how it responds. Idea is to lower gap between how they expect the system to work and how the system actually works. In biology this is how you learn about a living thing. Actively try mutating is biological technique. Using biological techniques!
+Biological thinking approach: These things are very complex. They've evolved over time and have this organic messiness. We need to focus much more on the details of the subsystems. The details of a component in the hope of creating a broader picture. The details really matter. 
+It's a good framework we should import into the build world.
+Who's data center do you want to look like? Wall Street Banks ≠ Facebook.
+Any process could die at any time but the system needs to survive any given failure. Single disk drive can die. Terms used: resilient, robust.
+Delivering technology to people; 
+Google pioneered 'continuous failure'. It will fail.
+Backend designed in a biological way.
+Humans conditioned to accept inherent complexity. (doctor example). Wonder if we get to the same point with computers.
+Almost like a humility in the face of technology. We freak out or say this is so complicated (awe). Both cut off questioning. We need to recognize humble approach that it is okay not to always understand. Constantly trying to understand and being excited by trying to understand. Realizing things are messy but also something we created. 
+Narrative around creation and who created what. People build on each others idea it is messy and complex. Systems are more complex.
+
+We build systems that no one understands.
+
+
+Weighing the people going in and coming out of data servers.
+
+**No matter how much we order, we are always wrong**
+
+___
+
+##CUT PIECE 1
+
+It shows in different ways. An interesting page to visit is the website of _Technostress_ [ http://www.technostress.com/ ](http://www.technostress.com/)  . 
+
+In a Q and A, the authors describe the following situation: 
+
+>Q: How is technology affecting the family?
+>A: In many homes we are seeing a loss of communication and a major shift in the power balance in the family.
+
+The problem I have with this kind of critique is the stereotyping of the situation. For some reason, it sounds as if these Techno-critics have no better answer to the problems faced by technology than to draw a bleak picture of what a family is in times of rising technology. And while they have some valid points, all credibility is lost through the use of slogans, commercials for the book, and metaphore upon metaphore.
+
+> _Coping With Technology_ @WORK @HOME @PLAY 
+
+But okay, maybe this made much more sense 20 years ago. Who am I to judge that. It is interesting however to see how it relates to the problems of the internet. The look and feel of their homepage is very particular to the years between 1990 and 2000. A lot of elements on the page are blatantly commercial, trying to convince you of selling something. There are testimonials of different people that recommend the book, a link to _order your copy!!!_, pictures of the authors, resumes, and so the list goes on.  
+Now how do we compare this example with the current situation? For internet years, this web page is a dinosaur. It can't be compared anymore visually. This is why:
+
+-
+-
+-
+
+Forgive my inadequate knowledge of internet marketing, there must be so many ways in which this formula can be expanded. But for the sake of comparing the two approaches, it's important to spot one big change, the change from a kind of autonomous internet, to a practice relying totally on services and platforms of third parties. To make money online, you have to build an audience -the makeable audience-, and keep them triggered through social media.  
+
+CRITIQUE: Our attitude nowadays to the internet, what's it like? Does it inspire action or apathy? Maybe both? In what way?
+
+Just make life hell you know, hell on heaven
+
+___
+
+##CUT PIECE 2
+
+Nobody would move in the room, but it was hot and sweaty like Bikram Yoga. All and all, I can't tell you much about what's been going on, but it was insane. On a binge YouTube streak I snuck up some of the most insane 9/11. The alt-right meme page is hilarious. It's insanely racist, but KKK, what else do you have but your laughter?
+
+I like to go layers deep into Facebook profiles and just start liking the shit out of everybody. You know how they say you're always three handshakes away from Hitler? Well, guess I befriended Ivanka Trump solely through her enemies' profiles.
+
 
 
 <video autoplay="true" loop="true">

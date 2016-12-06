@@ -16,17 +16,17 @@ A moment of your time please, I am here to talk to you about the Internet's boun
 >Talking about the future is a polite way of saying what's wrong about the present
 >Benjamin Bratton
 
-Bruce Sterling argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense because these companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
+Bruce Sterling, writer of cyberpunk novels and design critic, argued in 2014 that it doesn't make sense to still talk about the internet. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense. These companies are now shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
 
-_Silicon_ Valley. It's interesting how this material came to stand for power. A material that puts your personal ideals behind the steering wheel. A material that supports bigger boobs and smaller computer chips. The Silicon has since long left Silicon Valley, but its legacy is still shaping the world.
+_Silicon_. A material that puts your personal ideals behind the steering wheel. A material that supports bigger boobs and smaller computer chips. The Silicon has since long left Silicon Valley, but what stayed behind is still shaping the world.
 
 So these are the giants that design and implement our services.
 
-Benjamin Bratton has another power structure in mind. He uses the metaphore of the ‘Stack’, which is a vertical division of separate layers that are interconnected. The Stack's layers from bottom up are Earth, Cloud, City, Address, Interface, User. Starting from Earth, ending at one person, you, me. 
+Benjamin Bratton has another power structure in mind. He uses the metaphore of the ‘Stack’, which is a vertical division of separate layers that are interconnected. The Stack's layers from bottom up are Earth, Cloud, City, Address, Interface, User. Starting from Earth, ending at one person. You, me. 
 
-GAFAM have a lot of opportunity to design exploits of the user's weaknesses. While we small-time designers, educated in art schools, were busy designing interfaces, their big-time designers backed by GAFAM's ideals of big data profit – were learning to implement social engineering knowledge into their interfaces. 
+With big power comes big responsibility. GAFAM have a lot of opportunity to design how we think, work, and play. While we – small-time designers educated in art schools – were busy designing interfaces, their big-time design teams backed by GAFAM's infrastructure and knowledge – were learning to implement social engineering knowledge into their interfaces. 
 
-Follow or die?
+Does that mean follow or die? Should designers pick one or the other side? Or is there a more hybrid, custom approach to design and what it can do. The shift of power from central government to the cloud is probably paralyzing and at the same time a catalyst. Are we over- or underestimating possibilities and power of the designer? 
 
 People love consistency. We say we want change, but we also want everything to remain the same. In the case of interface design the answer is _defaultism_. Defaultism is the term used to describe the happiness and wilingness of people to use an unchanged, working design. 
 
@@ -37,12 +37,15 @@ What is the balance between _comfort and surrender_? Between _default and custom
 What is the balance between _self-control and ignorance_?
 	Agency online, what a person can and cannot control.
 
-What are the consequences of a dysfunctioning internet? Which paradoxes do we face when using the internet?
+What are the consequences of a dysfunctioning internet? Which paradoxes do we face with the internet as an infrastructure and how do we deal with them?
 
 
 ___
 
 ##Trust
+
+Problem: How is trust established online?
+Answer: Blockchain is a possibility
 
 (The Renegade)
 
@@ -76,18 +79,25 @@ ___
 
 ##Control and Suffering  
 
+Problem: Social media takes more time than it should from people
+Answer: There are a lot of quasi solutions (Selfcontrol, Distractagone) but it seems also that some people are more susceptible to dependence. 
+It is tricky to call it an 'addiction' because it still is a social network. Time Well Spent - > Going towards design that does 'well' to people.
+
 (The gonzo)
 
-Nobody would move in the room, but it was hot and sweaty like Bikram Yoga. All and all, I can't tell you much about what's been going on, but it was insane. On a binge YouTube streak I snuck up some of the most insane 9/11. The alt-right meme page is hilarious. It's insanely racist, but KKK, what else do you have but your laughter?
-
-I like to go layers deep into Facebook profiles and just start liking the shit out of everybody. You know how they say you're always three handshakes away from Hitler? Well, guess I befriended Ivanka Trump solely through her enemies' profiles.
+Have you seen the Distractagone? 
+No I haven't. Can you explain?
+The Distractagone is a cube-shaped vault with a timer on it. It basically allows you to keep your phone locked inside for an X period of time. And during that time you are undistracted! It sounds like a great idea, Gonzo sarcastically put forward. But isn't this a forced solution? It's like hiding candy from children. That's never stopped them from taking the candy if they really wanted it.
 
 I have been listening to a Podcast of two net artists: Rafaël Rozendaal and Jeremy Bailey. It is nice to hear them quarrel about topics related to the internet, artificial intelligence, the idea of an archive, et cetera. Both are very interested in new developments in technology but they have very different approaches towards them. Rozendaal is a techno-pessimist, always waiting for new technology to crystallize before using it. Bailey is a techno-optimist. He adopts new techniques quickly. 
 
 What are the pros and cons of defaultism in interfaces?
 
 
-### Distraction Addiction 
+### Distraction Addiction / Destination Procrastination
+
+Problem: Do people like the distraction though? Will they accept Time Well Spent?
+Answer: ...
 
 If there is one thing that keeps coming back in the influence of the internet on personal life, it must be distraction. The infinite scroll, keeping us captive, autoplay that's on default on and _You Might Also Like_ this mug with a cat-face.
 
@@ -95,16 +105,38 @@ _And their eyes glazed over_
 
 Joelle Renstrom wrote a killer article. In the article the question if internet use is an addiction comes up. Her experience is remarkable because she teaches at Boston University, a very prestigious college. The trouble and work (and money) required to get in is apparently not enough to motivate students to leave their technological habits on the side in class. 
 
-### Destination Procrastination
-
 Get your body snatched!
 
+Her position in all of this is critical towards technology. 
+
+>“multitasking instead of failing to focus.”
+
+>“Technology demands a significant amount of time and attention and has conditioned them to not question it. It takes up more and more of their bandwidth, and the net effect is lobotomising.”
 
 
+And in this term I think there is a shift between the old and new generation. The inpatient millenial stands together with the outpatient Babyboomer on the sphere of the internet. The babyboomer spells doom while the younger generation is like “chill, grandpa.” And what a nice situation to observe. Never before has the internet been used by people of such different ages. All ages use the network. The youngest don't know a life without it, the generations between might still have a vague idea of life before the internet and the older generations may be struggling to cope with digital technologies. 
 
-___
+History is there to be ashamed of. Or at least, that's a common joke. When asked to see his browser history, someone might say, “haha, better not!” because it might expose some private sexual preferences they don't want to share.
 
-##Strategies from History
+I think this pattern is more than a little joke, though. A review of colonial influences, looking back at the mistakes of industry and realizing the long-lasting influences of religion serve as lessons for the present. 
+
+If we always remember only selectively we get misinformed. Erasing uncomfortable parts of history is not something we should be doing. Let's not forget that remembering is an important part of learning. 
+
+Fugue – (psychiatry) A state or period of loss of awareness of one's identity, often coupled with flight from one's usual environment, associated with certain forms of hysteria and epilepsy.
+
+In his piece “Double In Fugue” Robert Rapoport describes the Remembrancer of London[^remembrancer], a man that used to play a truly important economical part in the daily life of London’s _City_, the financial district. The remembrancer today serves a purely ceremonial function. 
+
+The parable shows how the old systems of finance clash with the new law of the market in the ceremonial presence of _The Remembrancer_.  
+
+>Paul Double has to embody a paradox.   
+
+>Double has begun to see, with the help of the quants, that in this emergent space there is no ‘corporate memory’.
+
+But, like the Dutch king, a ceremonial function is still a statement. 
+
+The Office was set up to act as the corporate memory and this is reflected today in his role of advising the City Corporation on constitutional issues
+
+-> The remembrancer of London and the financial district. Distruct, destruct, distract.
 
 Computers as Poison, the attitudes and stances towards networks back in the days compared to now
 
@@ -112,33 +144,46 @@ Many examples of the “dark side” of computers and internet use can be found.
 
 (piece about it's -sometimes uncanny- equal to today's situation and talk about if stuff came true or not)
 
-I I I, how does todays individualism relate to other, older ways of communicating?
+Atemporality -> how we see history now.
 
-
-
+[^remembrancer]: [http://rcpp.lensbased.net/autoitalia/robert-rapoport/](http://rcpp.lensbased.net/autoitalia/robert-rapoport/)
 
 ___
 
 ##Fleeting Time
 
-Going on the internet to lose a sense of time?
+
+Going on the internet to lose a sense of time? 
+
+The gambling story
 
 As an addict of video poker says: “(...) The more I gamble, the less I got about my chances. Wiser, but also weaker, less able to stop.”
 
 Is the internet an addiction? Is it a hypnosis? Is it a new medium with which we deal so much we just don't know how to handle it?
 
-Intentional suffering, voluntary suffering, self-harm, torture, self-conflict.
+Design as an addiction counselor. How are designs trying to shape this behaviour?
+
+Self-control (app) -> Charlie Stigler. Start from addictive quality of the internet to a person that just knows how to deal with it because he/she is not sensitive to the addictive part of it.
+
+A more sadistic and much less frequently used remedy is the Pavlov Poke. It basically shocks you when you stay on for a too long time. 
+
+This direct translation of an anti-barking collar is sadistic and works upon conditioning. The challenge is not how to condition the individual but how to influence the crowd without being cruel and using techniques from politics like perception management.
 
 Related to running, the _runner's high_, professional athletes professionaly suffering to expand their personal limits.
 
 ###Filter Troubles
 
+Perception management, customized to the person.
+
 I took matters into own hands. Or at least made some attempt at that. Bought a €10,- phone at Mediamarkt. Almost as cheap as a pack of cigarettes. I posted my phone number on the social media I frequent with a short message. But the weird thing is, that I have no idea who will read my message. The algorithms will decide.  
+
 This demonstrates simply how overly social media have become. It's discriminated the friends that don't like me — with a slight margin, finding out exactly how the algorithms work is a tough challenge[reference](reference)— and decided who gets to see my goodbye.
 
 ![Just-Me.png](http://downforeveryoneorjustme.com/)
 
 _Down For Everyone Or Just Me_ is a very reassuring page to be on. As the name implies, you can use the site to check if a website is down for you alone or for everyone.
+
+There should be a _News for everyone or just me_ site, where you can check your sources.
 
 ___
 
@@ -158,7 +203,7 @@ Bratton makes a case for design as immunisation. Design, he says, should not onl
 
 I don't know if we need the new wearables. But I do get the feeling that there is some overlap with the problem Bratton addresses towards TED and things like wearables and Smart objects. TED has faith in technology. But, Bratton says, not enough commitment to technology. It is a fetishization of the optimal condition, making any performance sub par worthless while this might not be the case.
 
-Calling objects 'smart' in itself is a strange practice, I think. Weren't watches already very well made devices before the smart watch came along? Smart is not for sale. 
+Calling objects 'smart' in itself is a strange practice, I think. Weren't watches already very well made devices before the smart watch came along? Smart is not for sale.
 
 [^benjamin]:[https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 
@@ -172,6 +217,21 @@ There are many movements where communities form without borders of nations but b
 People are 'syncing' like never before.
 
 The sentence describing Silicon Valley, the series: “In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success”.
+
+There is the monomyth, where one person tries to take on the world. 
+
+Now, there is the crowd-myth. And this myth is good because it supports a vision of a society. A mode of living _together_ but still having personal influence.
+
+Myths are not essentially false, they are just an ideal or theatrified version of reality. The use of myths is very real because it simplifies a thing that is too complex to grasp. But we should be aware _that_ we are already using myths, and that's what is the bad side of technological trust. 
+
+George Steiner. Marxism was a myth, psychoanalysis was a myth, what is the myth of design? 
+
+The unicorn myth, 
+
+Leonardo da Vinci (Homo universalis)
+
+And now the replacing myth should be that of the power of the network. Pioneers of this myth could be (maybe) Metahaven? Maybe? Larry Page? 
+
 
 
 ___
@@ -191,8 +251,6 @@ But: I wonder if this new urgent way of treating information is something we sho
 Invitations, jokes, maybe even friendships. But I would say that the internet offers also another ‘deep, reflective thought.’ Maybe the ways of the book are just over and people think in more ephemeral, associative ways. Ways that might have their own qualities. 
 
 A new understanding of the world.
-
-
 
 The disability to learn from humans in combination with the computer and depending on an extra digital layer does leave me with a sense of loss. I wouldn't be as disappointed if the internet we would use would have something really amazing to offer, _if the internet would be more like a real human being_. With flaws and abnormalities that would _not_ be coded away, debugged, and that would not simply be left behind for a newer version, because it couldn't be. An internet as a developing persona that would reflect some of the struggles that we humans face. Instead of connecting, we would be relating to the web.
 
@@ -222,58 +280,15 @@ What were his ideals? How did they clash with the ideals of society / government
 [^glazed]: https://aeon.co/essays/can-students-who-are-constantly-on-their-devices-actually-learn "And Their Eyes Glazed Over"  
 [^ulbricht]: http://art.freeross.org/ "Ross Ulbricht Release Website"
 
-
 Constant Dullaert's _Dulltech_ 
 
 ___
 
-##Conclusion
+##Ahead of time
 
+The idea of pre-commerce.
 
-Her position in all of this is critical towards technology. 
-
->“In Chongqing in China, sidewalks contain a special lane for people who can’t be bothered to look up from their phones. And in the German city of Augsburg, there are traffic signals on the ground for people who would otherwise endanger themselves by failing to notice red lights.”
-
->“multitasking instead of failing to focus.”
-
->“Technology demands a significant amount of time and attention and has conditioned them to not question it. It takes up more and more of their bandwidth, and the net effect is lobotomising.”
-
-##Technostress and a makeable audience
-
-And in this term I think there is a shift between the old and new generation. The inpatient millenial stands together with the outpatient Babyboomer on the sphere of the internet. The babyboomer spells doom while the younger generation is like “chill, grandpa.” And what a nice situation to observe. Never before has the internet been used by people of such different ages. All ages use the network. The youngest don't know a life without it, the generations between might still have a vague idea of life before the internet and the older generations may be struggling to cope with digital technologies. 
-
-It shows in different ways. An interesting page to visit is the website of _Technostress_ [ http://www.technostress.com/ ](http://www.technostress.com/)  . 
-
-In a Q and A, the authors describe the following situation: 
-
->Q: How is technology affecting the family?
->A: In many homes we are seeing a loss of communication and a major shift in the power balance in the family.
-
-The problem I have with this kind of critique is the stereotyping of the situation. For some reason, it sounds as if these Techno-critics have no better answer to the problems faced by technology than to draw a bleak picture of what a family is in times of rising technology. And while they have some valid points, all credibility is lost through the use of slogans, commercials for the book, and metaphore upon metaphore.
-
-> _Coping With Technology_ @WORK @HOME @PLAY 
-
-But okay, maybe this made much more sense 20 years ago. Who am I to judge that. It is interesting however to see how it relates to the problems of the internet. The look and feel of their homepage is very particular to the years between 1990 and 2000. A lot of elements on the page are blatantly commercial, trying to convince you of selling something. There are testimonials of different people that recommend the book, a link to _order your copy!!!_, pictures of the authors, resumes, and so the list goes on.  
-Now how do we compare this example with the current situation? For internet years, this web page is a dinosaur. Can it even be compared to internet culture of today? Let's speculate for a minute that Dr. Rosen and Dr. Weil would try to reach their audience online today.
-There would be two distinct paths they could take. The one option being comparable to the thing they did on their original page. 
-
-1. Make website
-2. Launch website
-3. Update website with relevant information
-
-Now this is all fine and dandy but I have the feeling they would rather go for the more mainstream approach:
-
-1. Set up a facebook page for events and updates on the book
-2. Go on instagram, post pictures of daily activities related to everything surrounding the book. Use hashtags.
-3. Link to personal twitter accounts
-4. Link to website
-
-Forgive my inadequate knowledge of internet marketing, there must be so many ways in which this formula can be expanded. But for the sake of comparing the two approaches, it's important to spot one big change, the change from a kind of autonomous internet, to a practice relying totally on services and platforms of third parties. To make money online, you have to build an audience -the makeable audience-, and keep them triggered through social media.  
-
-CRITIQUE: Our attitude nowadays to the internet, what's it like? Does it inspire action or apathy? Maybe both? In what way?
-
-Just make life hell you know, hell on heaven
-
+System Change Not Climate Change.
 
 ___
 
@@ -285,5 +300,15 @@ Technology has given us back some virtues: we might get paid for taking time to 
 And not, at the same time. Putting technology at the center of all of our problems is ignorant and distracting. Instead, we should be paying attention to people around us. Not paying people in Pakistan to increase our following. What kind of followers do you need? 
 
 We don't have all the pieces of the puzzle. But these pieces I put together. Maybe it was in a forced way, and probably I've misplaced some of the parts. But how much I like talking in metaphores, I want to tell you, thanks for reading. I hope you can use this.
+
+And diegetic!
+
+Diegesis (/ˌdaɪəˈdʒiːsɪs/; from the Greek διήγησις from διηγεῖσθαι, "to narrate") is a style of fiction storytelling that presents an interior view of a world in which:
+
+details about the world itself and the experiences of its characters are revealed explicitly through narrative
+the story is told or recounted, as opposed to shown or enacted.[1]
+In diegesis the narrator tells the story. The narrator presents the actions (and sometimes thoughts) of the characters to the readers or audience.
+
+Design should be hypocritical and apologetic in its stance towards technology. Meaning it should explain technology but approach it ambiguously, knowing that it is not knowing. Design should function. And its function is to debunk myths about so-called certainties. The machine, the network, the smart watches, they are not right, they are not wrong. The value judgement lies more and more with the user, which design still serves. But, design also serves itself and in this respect it could mirror more the technological dilemmas and problems of the infrastructure. In order to ‘fit’ better with the underlying personal, technological, glocal motives, let design mimic the Simian Army. Knock yourself out, be wrong, and recuperate. What it shouldn't do is to leave filter bubbles unpopped, to let fake news articles reign. The person is just one. The network is many.
 
 _If design lives on, this is how it should work to deal with corporate powers, third, fourth, fifth parties’ interests and, last but not least, the self._

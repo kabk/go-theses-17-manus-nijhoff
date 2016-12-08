@@ -1,3 +1,11 @@
+##Silvio Lorussio, _A Work Ethic Dystopia_
+
+Precarity is hidden and disguised. It’s not a label people use to define themselves. While in the Netherlands "the precariat" is mostly an academic term, in Italy the term is constantly used by news media with a not-so-veiled negative emphasis. You don’t hear people say "I’m a proud member of the precariat". In order to tackle precarity, openness and social cohesion are necessary.
+
+We need to take advantage of wit, irony and sarcarm to recombine our collective understanding of precarious conditions. This is what the entreprecariat should be about. Nick Srnicek and Alex Williams maintain that "changing the cultural consensus about the work ethic will mean taking actions at an everyday level, translating these medium-term goals into slogans, memes and chants." The entreprecariat must produce its own slogan, memes and chants.
+
+A novel series of tactics needs to be developed, but the fundamental mission is one: to construct solidarity under externalized precarity in order to reclaim agency. An ironically-detached, self-reflexive entrepreneurialism can help.
+
 ##Bruce Sterling, _Patently untrue: fleshy defibrillators and synchronised baseball are changing the future_
 
 Design fictions are fakes of a theatrical sort, but they're not wicked frauds or hoaxes intended to rob or fool people. A design fiction is a creative act that puts the viewer into a different conceptual space -- for a while. Then it lets him go. Design fiction has an audience, not victims.
@@ -10,17 +18,13 @@ Millenials want experiences, not things.
 
 The 400-year-old Westphalian System doesn't approve of my lifestyle, although it's increasingly common, especially among people half my age. It's stressful to live glocally. Not that I myself feel stressed by this. As long as I've got broadband, I'm perfectly at ease with the fact that my position on the planet's surface is arbitrary. It's the nation-state system that is visibly stressed by these changes – it's freaking out over currency flows, migration through airports, offshoring, and similar phenomena.
 
-
-
 ##Jeff Atwood, _Working With The Chaos Monkey_
 
 Every week that went by, we made our system a tiny bit more redundant, because we had to. Despite the ongoing pain, it became clear that Chaos Monkey was actually doing us a big favor by forcing us to become extremely resilient. Not tomorrow, not someday, not at some indeterminate "we'll get to it eventually" point in the future, but right now where it hurts.
 
-
-
 ##Balaji Srinivasan, _Software is Reorganizing the World_
 
-The concept of migrating our lives to the cloud is much more than a picturesque metaphor, and actually amenable to quantitative study. Though the separation between our bodies is still best characterized by the geographical distance between points on the surface of the earth, the distance between our minds is increasingly characterized by a completely different metric: the geodesic distance, the number of degrees of separation between two nodes in a social network. Importantly, this geodesic distance is just as valid a mathematical metric as the geographical. In fact, there are entire conferences devoted to cloud cartography, in which research groups from Stanford to Carnegie Mellon to MIT present the first maps of online social networks — mapping not nation states but states of mind.
+The concept of migrating our lives to the cloud is much more than a picturesque metaphor, and actually amenable to quantitative study. (...) In fact, there are entire conferences devoted to cloud cartography, in which research groups from Stanford to Carnegie Mellon to MIT present the first maps of online social networks — mapping not nation states but states of mind.
 
 Perhaps the single most important feature of these states of mind is the increasing divergence between our social and geographic neighbors, between the cloud formations of our heads and the physical communities surrounding our bodies. An infinity of subcultures outside the mainstream now blossoms on the Internet — vegans, body modifiers, CrossFitters, Wiccans, DIYers, Pinners, and support groups of all forms. Millions of people are finding their true peers in the cloud, a remedy for the isolation imposed by the anonymous apartment complex or the remote rural location.
 
@@ -32,12 +36,10 @@ Yet the technical prerequisites are already well underway. Machine translation o
 
 Technology is thus enabling arbitrary numbers of people from around the world to assemble in remote locations, without interrupting their ability to work or communicate with existing networks. In this sense, the future of technology is not really location-based apps; it is about making location completely unimportant.
 
-
-
-
 ##Benjamin Bratton – _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_
 
 T – E – D. 
+
 First, Technology. We're told that not only is change  accelerating, but that the pace of change  is accelerating.  
 In terms of the computational carrying-capacity at a planetary level, it is true. But at the same time — and in fact the two are related — we're also in a moment of cultural de-acceleration.  
 We invest our energies in futuristic information technologies, including our cars, but drive them home to kitsch architecture copied from the 18th century. The future on offer is one in which everything can change, so long as everything stays the same. We'll have Google Glass, but we'll still have business casual. This timidity is not our path to the future. This is incredibly conservative. And more gigaflops won't inoculate us. Because, if a problem is endemic to a system, then the exponential effects of Moore's law also amplify what's broken. It's more computation along the wrong curve, and I hardly think this is a triumph of Reason. 
@@ -48,8 +50,11 @@ Capitalism in theory is rocket ships, nanomedicine, Bono saving Africa. (Laughte
 Actually existing capitalism is Walmart jobs, McMansions, people living in sewers under Las Vegas, Ryan Seacrest. (Laughter).
 `Plus ecological devastation, government spying, crappy public transportation, and for-profit prisons.` And yet, the alternatives on offer range from basically what we have plus a little more Hayek, to what we have plus a little more Keynes. Why? The recent centuries have seen tremendous advances in improving the quality of life. But the paradox is that the system we have now — whatever you want to call it — is in the short term what makes these new technologies possible, but in the long term it's also what suppresses their full flowering. A new economic architecture is prerequisite. 
 'D' — Design. Perhaps our designers, instead of prototyping the same "change agent for good" projects over and over again, and then wondering why they aren't implemented at scale, we should acknowledge that design is not some magic answer. Design is very important, but for different reasons. 
-Getting excited about design is easy because, like talking about the future, it's more polite than dealing with the real white elephants in the room. Such as phones, drones and genomes. That's what we do here in San Diego and La Jolla. In addition to all of the amazingly  great things that these technologies do, they're also the basis of NSA spying, flying robots killing people, and the wholesale privatisation of biological life. That's also what we do. 
+
+Getting excited about design is easy because, like talking about the future, it's more polite than dealing with the real white elephants in the room. Such as phones, drones and genomes. That's what we do here in San Diego and La Jolla. In addition to all of the amazingly  great things that these technologies do, they're also the basis of NSA spying, flying robots killing people, and the wholesale privatisation of biological life. That's also what we do.
+
 So you see, the potential of these technologies is both wonderful and horrifying at the same time, and so to guide them towards a good future, design as "innovation" just isn't strong enough of an idea by itself. 
 `We need to talk a lot more about design as "immunisation,"` actively preventing certain "innovations" that we don't want from happening. So ... As for one clear take away, one magic idea, I don't really have one. That's kind of the point. 
 (Laughter) Perhaps I might venture that if our species were actually to solve its most dire problems, perhaps a lot of us in this room would be out of a job, or perhaps in jail. It's not as though we don't have a lot of important things to be talking about. We need a deeper discussion about the difference between digital cosmopolitanism and cloud feudalism. And towards that, a queer history of computer science, Alan Turing's birthday as a holiday. 
+
 I would like new maps of the world, ones not based on settler colonialism, legacy genomes, and bronze age myths, but something more … scalable. But TED today is not that. Our problems are not "puzzles" to be solved. This metaphor implies that all the necessary pieces are already on the table, just need to be rearranged and reprogrammed. It's not true. "Innovation" defined as "puzzles", as rearranging pieces and adding more processing power, is not some Big Idea that's going to disrupt the broken status quo — — that precisely is the broken status quo. One TED speaker said recently about his work, "Now that this boundary is removed, the only boundary left is our imagination." Wrong. If we really want transformation, we have to slog through the hard stuff — — the history, economics, philosophy, art, the ambiguities, and contradictions. Because focusing just on technology, or just on innovation, actually prevents transformation. We need to raise the level of general understanding to the level of complexity of the systems in which we are embedded and which are embedded in us. And this is not about "personal stories of inspiration". It's about the hard difficult work of demystification and reconceptualisation. More Copernicus, less Tony Robbins. At a societal level, the bottom line is that if we invest in things that make us feel good but which don't work, don't invest in things which don't make us feel good, but which may solve problems, then our fate is that in the long run it will just get harder and harder to feel good about not solving problems. And in this case, the placebo is not just ineffective — it's harmful. Because it takes your interest, and energy and outrage, and diverts into this black hole  of affectation. "Keep calm and carry on innovating" — is that the real message of TED? To me it's not inspirational, it's cynical. In the US, the rightwing has certain media channels that allow it to bracket reality. Other constituencies have TED.

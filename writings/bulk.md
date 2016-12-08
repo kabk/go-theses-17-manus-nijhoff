@@ -1533,6 +1533,15 @@ Nobody would move in the room, but it was hot and sweaty like Bikram Yoga. All a
 I like to go layers deep into Facebook profiles and just start liking the shit out of everybody. You know how they say you're always three handshakes away from Hitler? Well, guess I befriended Ivanka Trump solely through her enemies' profiles.
 
 
+___
+
+The effect technology can have on mankind is like the effect of religion. Smile to your neighbour. Now send a smiling emoji to your neighbour. People appreciate technological communications highly. We get intense satisfaction from using our machines that are so advanced and complex. But this effect can have paralyzing consequences. It can lead to not-questioning, auto-acceptance, auto correction. And that is bad. Designers should work on exposing the paralyzing hypnosis of technology. 
+
+God is dead, and so is technology. But that does not keep them from having a hell of an impact on our lives.
+
+The great thing about the internet is that when you think of an idea, there probably already are people doing it somewhere. Innovation and creativity have a place in the world.
+
+
 
 <video autoplay="true" loop="true">
 <source src="Chains/CHAIN.mp4" type="video/mp4">

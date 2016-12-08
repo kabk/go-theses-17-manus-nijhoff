@@ -1,16 +1,24 @@
 Topics
 
+##Optimization. For what good? Where to draw the line? For the gonzo, optimization is hedonism.
+
 - Oversimplification ≈ ignoring the complexity of our systems. Faith in technology instead of commitment to technology.
 - Distraction. Instead of information. Dealing with interruptive media. 
 - Filtering / editing. Done for you or by you. What does it do for you?
-- Time management. 
-- Optimization. For what good? Where to draw the line? For the gonzo, optimization is hedonism.
+- Time optimization. 
 
 Quasi-solutions to real problems. Like the Rsonic for smokers.
+
+
+
+
+#CONTROL AND QUESTION
+
 
 ##Introduction 
 
 >"Cover the window, please. These mountains give me no ideas."
+
 
 I am no authority on design and on the internet. But I have experience with both. And I have some views I want to put on paper. So bear with me for this ride. It won't be pretty, I hope.
 
@@ -65,8 +73,6 @@ Gonzo was the journalistic approach of writer Hunter S. Thompson to his stories.
 
 ##Complex, Big Internet
 
-There is no way we can talk about 'The Internet' anymore. This is like talking about The World. It just does not make sense anymore.
-
 The lobster screams its pain underwater. Though I and you are not sure if the lobster is in actual pain, we are sure that it is dying in miserable circumstances and we also know that it is involuntarily put in this boiling water and we also know that it is for the eater’s pleasure.
 
 Are we all just singing lobsters in the boiling pot of GAFAM?
@@ -76,6 +82,8 @@ Are we all just singing lobsters in the boiling pot of GAFAM?
 >If you're Nokia or HP or a Japanese electronics manufacturer, they stole all your oxygen.  There will be a whole lot happening among these five vast entities in 2013.  They never 		compete head-to-head, but they're all fascinated by "disruption."
 
 This statement, written in 2012, is very captivating. We deal more often with these companies then we do with our own governments. If you are a user of the internet, at least (GAFAM). The GAFAM syndicate’s grip on daily life is the new political power. It is more established than the chaotic politics all over Europe, or the chaotic politics over in the United States.
+
+There is no way we can talk about 'The Internet' anymore. This is like talking about The World. It just does not make sense anymore.
 
 Benjamin’s Stack exists of the following layers:
 
@@ -217,6 +225,9 @@ Outkast – Atliens
 Advantages of a managed time-approach. 
 
 Forecasting.
+
+Preventive surveillance. Silencing demonstrations before they even happen.
+
 Precommerce -> the possibility of customization
 
 The ones that are ahead of time decide for those who are lagging behind. Those will have to deal with the consequences of that. 

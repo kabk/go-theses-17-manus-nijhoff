@@ -31,20 +31,39 @@
 </head>
 <body>
 
-<span class="menu">
+<!-- <span class="menu">
 <p><a id="structure" class="active" onclick="loadPage('structure')">Structure, Sources</a></p>
 <p><a id="bulk" onclick="loadPage('bulk')">Bulk</a></p>
 <p><a id="thesis" onclick="loadPage('thesis')">Thesis</a></p>  
 <hr />
-</span>
+</span> -->
 
 <div class="load">
-  <!-- LOAD PAGES HERE -->
+  <div id="introduction"></div>
+
+  <div id="chapter-1"></div>
+
+  <div id="chapter-2"></div>
+
+  <div id="chapter-3"></div>
+
+  <div id="chapter-4"></div>
+  
+  <div id="chapter-5"></div>
+  
+  <div id="conclusion"></div>
+
 </div>
 
 <script type="text/javascript">
   $(document).ready(function(){
-    $('.load').load('writings/structure.html');
+    $('#introduction').load('writings/html/introduction.html');
+    $('#chapter-1').load('writings/html/chapter-as-I-walk-through-the-silicon-valley.html');
+    $('#chapter-2').load('writings/html/chapter-big-complex-web.html');
+    $('#chapter-3').load('writings/html/chapter-filter-troubles.html');
+    $('#chapter-4').load('writings/html/chapter-fleeting-time.html');
+    $('#chapter-5').load('writings/html/chapter-self.html');
+    $('#conclusion').load('writings/html/conclusion.html');
   });
 
   function loadPage(page) {

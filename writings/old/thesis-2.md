@@ -7,7 +7,7 @@ Topics
 - Filtering / editing. Done for you or by you. What does it do for you?
 - Time optimization. 
 
-Quasi-solutions to real problems. Like the Rsonic for smokers.
+Quasi-solutions to real problems. Relying on tech for tech. Like the Rsonic for smokers.
 
 
 
@@ -32,7 +32,7 @@ The connection between front-end and back-end, between less and more and more an
 
 The new focus is on productivity, making time for more work. We don't work efficiently but are constantly talking about efficiency.
 
-I don't want to untangle the wires. I want to show you the chaos that's happening all around us and that we're not that perfect. It's a miracle your wi-fi still works.
+It's not a miracle your wi-fi still works. It's amazing, and I have no idea how. But people made that happen, not the god Technology. I don't want to untangle the wires. I want to show you the chaos we're trying so hard to optimize.
 
 Ambient design, gonzo, we think we're solving problems but we're not? Apathy from technology?
 
@@ -48,7 +48,7 @@ I will use as much as I know about this freak-world of the internet to make some
 
 Looking into the back-end, the network servers and programs that run in the background, offers a strange view of the world. The cloud is servers spinning on a rack, interconnected with cables. 
 
-Wireless is only a half-truth. There are cables attached.
+Wireless is only a half-truth. There are strings attached.
 
 ##Reverence for Technology
 
@@ -108,7 +108,7 @@ Against oversimplification
 
 Design has to show complexity, and make it less complex.
 
-At Netflix server centers they have this approach called the Chaos Monkey. This basically shuts down random parts of their server infrastructure with the only reason to see if the system stays up. This could probably also be called the bacterial approach, since the system _needs_ these little destructions to survive, just like organisms are dependent on smaller creatures or bacteria to survive. 
+At Netflix server centers they have this approach called the Chaos Monkey. This basically shuts down random parts of their server infrastructure with the only reason to see if the system stays up. The system _needs_ these little destructions to survive, just like organisms are dependent on smaller creatures or bacteria to survive. 
 
 In 2012 Netflix released an open source version of the software, giving others access to the Simian Army. It would be very good to see a Chaos Monkey in real life. What would the Chaos Monkey approach to design mean? 
 

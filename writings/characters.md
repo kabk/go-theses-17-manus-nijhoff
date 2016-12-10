@@ -1,4 +1,4 @@
-#Control and question
+#Characters
 
 >♫  
 I'm serious as cancer when I say  
@@ -25,20 +25,20 @@ Secondly, many of the things I've learned from the internet is not by reading pa
 
 ##GONZO (GON)
 
-- **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binging around the internet and reports with a sometimes sarcastic, sometimes humourous point of view. They have a vast knowledge of subcultures, memes, visual archives.   
+- **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binge-browsing around the internet and reports with a sometimes sarcastic, sometimes humourous point of view. They have a vast knowledge of subcultures, memes, visual archives.   
 _This is the immersed mode of browsing_
 - Romantic, serendipitous, hedonist
 - Operating Systems: Mac or Windows (pref. for Mac), Android phone / broken iPhone from > 2 previous generation.
 - Connects to thesis from: Den Haag (DH)  
 
-##OPTIMIZER (OPT)
+##OPTIMO (OPT)
 - **The optimizer**: Using the network for the optimizer is not a problem. The optimizer has efficiently matched his or her habits to the system, making them a leading force and role model of the networked life. With a sharp eye for business opportunities, the optimizer uses hashtags to gain followers, sells articles via facebook groups, and has sold his/her startup companies for profit. A savvy manager.  
 _This is the utilitarian mode of browsing_ 
 - Pragmatic, managing, goal-driven
 - Operating Systems: Mac, iOS phone. Up to date. Nothing else
 - Connects to thesis from: Amsterdam (AMS)  
 
-##RENEGADE (REN)
+##THE RENEGADE (REN)
 - **The renegade**: Despises the network in its current state. Knows a lot about the history of the internet. A desillusioned person with a hawk eye's overview of the internet. The renegade is looking for the next network to explore. The current one is broken.  
 _This is the disinterested mode of browsing._
 - Idealist, eco-conscious, rigorous   

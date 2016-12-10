@@ -1,10 +1,10 @@
-As I walk through the Silicon Valley: 
+#As I walk through the Silicon Valley
 
-(INTRODUCING THE TECH INDUSTRY)
-
-Public Image
+##(INTRODUCING THE TECH INDUSTRY)
 
 Idea of GAFAM.
+
+Public Image
 
 TED - Reverence for technology instead of commitment to technology
 
@@ -16,3 +16,5 @@ Marked by visionaries / dictators.
 Zuck, Steve Jobs, Elon Musk. 
 
 Fetish of optimization leads to forced entrepreneurialism.
+
+___

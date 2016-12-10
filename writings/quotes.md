@@ -1,3 +1,42 @@
+## John Oliver, _Net Neutrality: Last Week Tonight with John Oliver (HBO)_
+
+The cable companies have figured out the great truth of America:
+If you want to do something evil, put it inside something boring.
+
+Net Neutrality ≠ Preventing Cable Company Fuckery
+
+
+##Brian Droitcour, _Why I hate Post-Internet Art_
+
+Post-internet says the same thing about the internet that post-modernism says
+about modernism. But isn’t that a little presumptuous? “What about what we mean
+when we say ‘Internet’ changed so drastically that we can speak of ‘post Internet’
+with a straight face?” asked Gene on his blog. I’d agree that it changed drastically
+but I’d also ask: Why assume that it can’t change again? The internet is always
+changing. The internet of five years ago was so unlike what it is now, to say nothing
+of the internet before social media, or the internet of twenty years ago, or the
+internet before the World Wide Web. Why insist that the changes are over?
+Artists who begin with the proposition that the phenomena of their world are
+boring and banal, who begin with an exasperated sigh, are going to produce art that
+is boring and banal, art that produces exasperated sighs. That was the case with a
+lot of conceptual art of the 1960s and 1970s, when artists explored the aesthetics
+of administration, producing charts and diagrams and photocopy texts that presented
+viewers with the particulars of bureaucracy. Sigh.
+
+(...)
+
+So post-internet is bad. But if we’re not post-, then where are we, when are
+we? What prefix can people who love labels use to situate themselves in history?
+Recently I’ve become enamored with Mikhail Epstein’s writing on proto-, which
+supposes that the modern age of humanity is over, and that sweeping changes to
+nature and technology herald the onset of a new, still nebulous era. Epstein writes:
+“The period we are entering is no longer a period after something: postcommunist,
+postmodernist, ‘postthis,’ or ‘postthat.’ The present era is ‘proto,’ but a preface
+to what, we do not know. Proto- is noncoercive, nonpredictive, and unaccountable:
+a mode of maybe. The future is a language without grammar, an unconscious without
+dreams, pure nothing. Inescapably the future becomes everything so as again and
+again to remain nothing.”
+
 ##Silvio Lorussio, _A Work Ethic Dystopia_
 
 Precarity is hidden and disguised. It’s not a label people use to define themselves. While in the Netherlands "the precariat" is mostly an academic term, in Italy the term is constantly used by news media with a not-so-veiled negative emphasis. You don’t hear people say "I’m a proud member of the precariat". In order to tackle precarity, openness and social cohesion are necessary.

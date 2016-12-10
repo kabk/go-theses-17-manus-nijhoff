@@ -23,6 +23,7 @@
 
 ##Primary
 
+- Aaron Swartz, _Sociology or Anthropology_, [http://www.aaronsw.com/weblog/socvanthro](http://www.aaronsw.com/weblog/socvanthro)
 - Silvio Lorusso, _A Work Ethic Dystopia_, [http://networkcultures.org/entreprecariat/work-ethic-dystopia/](http://networkcultures.org/entreprecariat/work-ethic-dystopia/)
 - Vinay Gupta, _Programmable Blockchains in Context_ [https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp](https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp)
 - Bruce Sterling, _Patently untrue: fleshy defibrillators and synchronised baseball are changing the future_, [http://www.wired.co.uk/article/patently-untrue](http://www.wired.co.uk/article/patently-untrue)
@@ -125,6 +126,8 @@
 
 ##Primary
 
+- (video) MIT surveillance video that led to Aaron Swartz's arrest [https://youtu.be/NSC0iC3cj2U](https://youtu.be/NSC0iC3cj2U)
+- (website) YouTube Spaces [https://www.youtube.com/yt/space/index.html](https://www.youtube.com/yt/space/index.html)
 - (video) Frog in a Pot of Water [https://youtu.be/svpsLZDgFK4](https://youtu.be/svpsLZDgFK4])
 - (movement) Time Well Spent [http://www.timewellspent.io/](http://www.timewellspent.io/)
 - (technology) Skype, _Skype Translate demo at Microsoft's Worldwide Partner Conference 2014_, [https://youtu.be/rek3jjbYRLo](https://youtu.be/rek3jjbYRLo)

@@ -4,47 +4,59 @@
 
 What's up guys, it's Optimo, and today we're going to talk about self-optimization!
 
-Soylent
+###Soylent
 
-REN: 
-Have any of you tried Soylent?
+REN:   
+Hey, I was talking to my friend who eats this stuff called Soylent. Have any of you tried it?
 
-GON:
-Soylent, the powder that replaces food! Not for me, I'll stick to real food, thanks.
+GON:  
+Soylent, the powder that replaces food! Not a big fan. Also it's not available in the Netherlands for now. I'll stick to my mom's boerenkool for now.
 
-OPT:
-Yeah, I'm using it. Alright, bear with me.
+OPT:  
+Yeah, I'm using it sometimes.
+Soylent replaces ‘regular food’. It comes in a powder to be mixed up with water and contains all of the nutrients a human body needs. If I am in a rush or uninspired to cook, this stuff helps.
 
-Soylent is a “regular food’ replacement. It comes in a powder to be mixed up with water and contains all of the nutrients a human body needs. If you are in a rush, or you are uninspired to cook, this stuff helps. It's also a more sustainable solution for the environment. The process of production takes calories from a very common algae culture, which can be grown efficiently. 
+REN:  
+So, I hear it's also a sustainable solution for the future of food. My first reaction was that if everyone would eat this food, the entire planet could be very well off. 
 
-REN:
-My first reaction was that if everyone would eat this food, the entire planet could be very well off. It's an efficient solution to food, but only when lots of people take it.
-
-GON:
+GON:  
 What is the secret of Soylent Green? 😈 [^people]
 
-OPT:
-Good one. The Soylent Green movie is actually based on a sci-fi novel from 1966 called _Make Room! Make Room!_[^room]. That book introduced a version of NYC in which overpopulation caused people to resort to Soylent (soy and lentil) and water on ration. The Soylent Green film took it one step further.. 
-All jokes aside though, I know it plays into the sentiment of science fiction. But science is also what makes this stuff possible. Rob Reinhardt, the man behind Soylent, has a vision of a world after food. He wants to make it independent from agriculture, eventually. When agriculture doesn't scale with human needs, which he says it will, this could be the thing to replace it. So it's not just convenient, it's also a step towards a solution for future food problems. According to a report called How To Feed The World 2050, the world will have 9.1 billion citizens that need food. We're going to need to improve things and optimize things and a lot of that comes from science and technology.
+OPT:  
+Good one, GON. The Soylent Green movie is actually based on a sci-fi novel from 1966 called _Make Room! Make Room!_[^room]. That book introduced a version of NYC in which overpopulation caused people to resort to Soylent (soy and lentil) and water on ration. The Soylent Green film took it one step further..  
 
+All jokes aside though. I know it plays into the sentiment of science fiction. But science is also what makes this stuff possible. Rob Rhinehart – the guy behind Soylent – has a vision of what he calls a world after food. He wants to make it independent from agriculture, eventually. When agriculture doesn't scale with human needs, which he says will happen, this could be the thing to replace it. So it's not just convenient, it's also a step towards a solution for future food problems. According to a report called _How To Feed The World 2050_, the world will have 9.1 billion citizens that need food. We're going to need to improve things and optimize things and a lot of that comes from science and technology. Soylent is made on the formula of nutritional value per dollar and it is very cost-effective.  
 
+GON:  
+Wow. You make it sound like this food will solve all the world's problems. What about the pleasure of eating? Won't you lose that? I've heard Soylent is kind of tasteless. I think this only works if you care purely about the nutritional values and not societal values, like enjoying a dinner together.
+The DIY site is quite striking. If I wouldn't know better I would have missed the fact that it was about food.. 
 
+OPT:  
+Yeah, that's true. I think the user base see food as a resource or a fuel instead of an experience. And that's totally fine. I think you shouldn't see it as a replacement for food, but rather an addition to your regular diet. Like Rob Rhinehart said, Soylent takes care of my needs through the week and I can eat well on the weekends. 
+There hasn't been such a complete food alternative in the past and now it's also open to development for people that are using it themselves.  
+
+REN:  
+In general I think they're on to something. Food habits have been changing for always. Why wouldn't we cheer this on? If the alternative is more of McD's, this is a step in the right direction. I love how the technology fuses here with real-life.
+
+The people behind Soylent are using their experiences as computer engineers and scientists to optimize food. In their view, everything is made of parts, everything can be broken down. So they looked just at what chemicals a human body needs and put that into one airtight solution. 
+
+What I'm really curious to see is where the DIY community[^diy] takes it from here. They seem to have recognized that what one company (Soylent) can do, they can do too, but more optimized to their own needs.
+
+GON:  
+This is like the first last step into alien territory. Every aspect of life is built to human needs, and soylent stands for this total solution, which claims to have the answer for all. It's synthetic food, right? That's pretty nihilistic. 
+
+OPT:  
+Well, that's the great thing about it! They claim synthetic is better than natural. Synthetic food means it can be optimized for _humans_. In that perspective it really is better food.
+
+REN:  
+You're absolutely right. Looking at the production process, they are handling the environment pretty consciously.
+
+GON:  
+I just want to stress that the rituals around food are getting lost from ordering in and using these super individualistic rations. There's one missing ingredient in Soylent if you ask me and that's love. ❤️ Really! It's more key to food than salt. I mean, would you serve this food to your friends? 
+
+##Deliveroo
 
 Soylent 2.0: Use Less, Do More
-
-Rob Reinhardt
-
-
-
-Free Your Body
-
-Oakland
-
-His goal is to make it independent of agriculture.
-
-Tendency to say design is better than nature, or synthetic is better than nature.
-
-Take this to take care of your needs and then eat well on the weekends.
 
 Total food replacements were on the market for years, bigger innovation might be the marketing.
 
@@ -59,3 +71,4 @@ Self-raising people. Nobody in history had such a crazy different generation. Or
 [^people]: Soylent Green is People!!! [https://youtu.be/9IKVj4l5GU4](https://youtu.be/9IKVj4l5GU4)
 [^room]: _Make Room! Make Room!_ on Wikipedia [https://en.wikipedia.org/wiki/Make_Room!_Make_Room!](https://en.wikipedia.org/wiki/Make_Room!_Make_Room!)
 [^community]: Soylent on Disqus [https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8](https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8)
+[^diy]: [https://diy.soylent.com/](https://diy.soylent.com/)

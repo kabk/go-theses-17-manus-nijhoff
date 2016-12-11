@@ -23,6 +23,8 @@ Secondly, many of the things I've learned from the internet is not by reading pa
 
 ##CAST
 
+Common goal: in the conclusion they will explain how they work together towards the common goal, which is developing an AI?
+
 ##GONZO (GON)
 
 - **The gonzo**: The gonzo uses the network with full enthousiasm but without joy or need for personal gains. They know the system is rotten and they don't feel responsible for it. The gonzo spends time binge-browsing around the internet and reports with a sometimes sarcastic, sometimes humourous point of view. They have a vast knowledge of subcultures, memes, visual archives.   

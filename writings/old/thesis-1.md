@@ -138,7 +138,7 @@ The Office was set up to act as the corporate memory and this is reflected today
 
 -> The remembrancer of London and the financial district. Distruct, destruct, distract.
 
-Computers as Poison, the attitudes and stances towards networks back in the days compared to now
+-Computers as Poison, the attitudes and stances towards networks back in the days compared to now
 
 Many examples of the “dark side” of computers and internet use can be found. In January 1985, some years even before the WWW, followers of Steward Brands's legacy of the Whole Earth Catalog, published an edition of their magazine _Whole Earth Review_ titled _Computers as Poison_. Subtitled _All panaceas become poison_
 

@@ -1,6 +1,6 @@
 ___
 
-##BULK
+## BULK
 
 This file comprises all writings I have done so far and is less or more edited. Follow the first link to see the research question, structure and sources.
 

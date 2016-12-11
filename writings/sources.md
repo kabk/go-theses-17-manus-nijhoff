@@ -23,6 +23,7 @@
 
 ##Primary
 
+- Tristan Harris, _How Technology Hijacks People's Minds – from a Magician and Google's Design Ethicist_, [https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qo18sc6z2](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qo18sc6z2)
 - Aaron Swartz, _Sociology or Anthropology_, [http://www.aaronsw.com/weblog/socvanthro](http://www.aaronsw.com/weblog/socvanthro)
 - Silvio Lorusso, _A Work Ethic Dystopia_, [http://networkcultures.org/entreprecariat/work-ethic-dystopia/](http://networkcultures.org/entreprecariat/work-ethic-dystopia/)
 - Vinay Gupta, _Programmable Blockchains in Context_ [https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp](https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp)
@@ -52,6 +53,8 @@
 
 ##Secondary
 
+- Duncan Cooper, _Yung Lean’s Second Chance_ [http://www.thefader.com/2016/06/16/yung-lean-warlord-interview](http://www.thefader.com/2016/06/16/yung-lean-warlord-interview)
+- Kristen V. Brown, _What GitHub Did to Kill Its Trolls_, [http://fusion.net/story/369325/how-to-stop-online-harassment/](http://fusion.net/story/369325/how-to-stop-online-harassment/)
 - Unknown Author, _Hands On: Skype Translator_, [https://youtu.be/vRh09hSCN40](https://youtu.be/vRh09hSCN40)
 - Unknown Author, _Brass bands playing acid house? Done that_, [https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures](https://www.theguardian.com/artanddesign/1999/jun/03/art.artsfeatures)
 - Tobias Stone, _History Tells Us What Will Happen Next With Brexit & Trump_, last checked 21 september [https://medium.com/@theonlytoby/- history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.mqqy6djl7](https://medium.com/@theonlytoby/- history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714#.mqqy6djl7)
@@ -69,6 +72,7 @@
 
 ##Primary
 
+- Cullen Hoback, _Terms and Conditions May Apply_, [https://vimeo.com/98094467](https://vimeo.com/98094467)
 - Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_ [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 - Tim Pychyl, _Teaching Talk: Helping Students Who Procrastinate_, [https://youtu.be/mhFQA998WiA](https://youtu.be/mhFQA998WiA)
 - Jeff Widman, _edgerank.net_, [http://edgerank.net/](http://edgerank.net/)
@@ -126,6 +130,7 @@
 
 ##Primary
 
+- (video) Soylent – Free Your Body [https://youtu.be/wEjBSvW3Lc4](https://youtu.be/wEjBSvW3Lc4)
 - (video) MIT surveillance video that led to Aaron Swartz's arrest [https://youtu.be/NSC0iC3cj2U](https://youtu.be/NSC0iC3cj2U)
 - (website) YouTube Spaces [https://www.youtube.com/yt/space/index.html](https://www.youtube.com/yt/space/index.html)
 - (video) Frog in a Pot of Water [https://youtu.be/svpsLZDgFK4](https://youtu.be/svpsLZDgFK4])

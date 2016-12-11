@@ -33,4 +33,25 @@ If you get stuck in a 'Monkey Trap' situation
 
 And always keep messing with things!
 
+##CONCLUSION OF THE CONCLUSION
+
+I just want to give this little bit of Benjamin Bratton for you:
+
+At a societal level, the bottom line is that if we invest in things that make us feel good but which don't work, don't invest in things which don't make us feel good, but which may solve problems, then our fate is that in the long run it will just get harder and harder to feel good about not solving problems.
+
+😪
+
+DESIGN IS JUST A TOOL. IN THE WRONG HANDS IT WILL DO WRONG THINGS. THE SILICON VALLEY OF DEATH DOESNOT HAVE THE ANSWER, BUT LOOKING AT THEM MAY GIVE SOME IDEAS. 
+
+We should be asking what the internet is distracting us from, not how the internet is distracting us. 
+
+For fuck sake, it's going to be a very difficult time for the arts. Right-winged politics took the USA, where Mr. Trump took a country by surprise. The biggest party in the Netherlands is racist and will take a lion's share in next February's election. Geert Wilders made public threats to the Morrocan community, he literally said he would CLEAN SHIP without specifiying what. This is harmful. Politicians need to specify what they mean, empty words lead to confusion.Have we really no alternative for this politics of anger?
+
+The internet's distracted us for a nice run. It was fun on there, but we should also really spend some time with people around us. See what they're up to. See what you can do together to have fun, or to help, maybe that's what this whole thesis was about. 
+
+A diversion into military equipment, disguised by sleek design, tempting with simple interfaces, catchy flashy sexuy sensual all of that but what if that doesn't matter anymore and you're not feeling good in the streets anymore. Everybody has a plan until they get hit in the face. By Big data, refugee crises, right wing politics flexing their muscles. And all the while we just want to learn to understand our peers better. Whatttttt has it come 2. 
+
+I'm going to sign off for a bit now, the internet is broken. But I'll be back in a day or two, because I can't really go without this thing.
+
+
 ___

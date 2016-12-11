@@ -1,41 +1,80 @@
+## Cullen Hoback, _Terms and Conditions May Apply_, [https://vimeo.com/98094467](https://vimeo.com/98094467)
+
+1356
+01:10:24,414 --> 01:10:26,214
+But they say if you put
+a frog in a pot of water
+
+1357
+01:10:26,216 --> 01:10:28,249
+And slowly turn up the heat,
+
+1358
+01:10:28,251 --> 01:10:32,454
+The frog'll just die,
+because it doesn't realize
+it's boiling.
+
+1359
+01:10:32,456 --> 01:10:36,825
+And I think that,
+like anything else,
+
+1360
+01:10:36,827 --> 01:10:39,828
+I think we're opting in
+a centimeter at a time,
+
+1361
+01:10:39,830 --> 01:10:43,264
+And, you know, pretty soon
+you' prerey far down the road,
+
+1362
+01:10:43,266 --> 01:10:48,170
+You look behind you
+and you sort of wonder
+how you got where you were.
+
+1363
+01:10:48,172 --> 01:10:50,906
+I think that's true.
+
+## Duncan Cooper, _Yung Lean’s Second Chance_ [http://www.thefader.com/2016/06/16/yung-lean-warlord-interview](http://www.thefader.com/2016/06/16/yung-lean-warlord-interview)
+
+For Swedes, American culture is simultaneously alluring and oppressive, Gud says. “We look at screens and we’re fed with American information, American music on the radio, American games, American everything. It's so vast and immersive, but it's also so infuriating what it does to the world.” After playing shows in America, he sees the place as “total anarchy, the worst of the worst and the best of the best,” especially compared to a small socialist country like Sweden. “As a foreigner, I feel like our approach to grabbing U.S. culture is just a part of making yourself heard, getting your presence felt.”
+
+But asserting yourself isn't easy, Gud says, when you come from a country where modesty is a deeply ingrained cultural value. “We have this very firm idea of just keeping quiet, being useful, and taking exactly what's yours — preferably a bit less.” That poses a particular challenge for someone interested in life as an international musician, where competitiveness and self-promotion can be key. One potential path, Gud suggests, is that of a “technical, educated, calculated producer like Max Martin,” a Swede whose work behind the scenes, assisting other artists, has made him one of music’s most prolific yet least public-facing hitmakers. Another, it appears, is Lean’s way: to borrow from a place with bigger egos. For a wannabe rapper from Sweden, perhaps, to do something new you have to first be a little bit something you’re not.
+
+
+## Nicholas Carr, _The Shallows_
+
+'What makes us most human, Weizenbaum had come to believe, is what is least computable about us—the connections between our mind and our body, the experiences that shape our memory and our thinking, our capacity for emotion and empathy. The great danger we face as we become more intimately involved with our computers—as we come to experience more of our lives through the disembodied symbols flickering across our screens—is that we’ll begin to lose our humanness, to sacrifice the very qualities that separate us from machines. The only way to avoid that fate, Weizenbaum wrote, is to have the self-awareness and the courage to refuse to delegate to computers the most human of our mental activities and intellectual pursuits, particularly “tasks that demand wisdom.'
+
+##Kristen V. Brown, _What GitHub Did to Kill Its Trolls_
+
+It was a difficult stance to take given the existing culture in Silicon Valley. GitHub, like so many tech companies, had long feared tamping down on what its users could say and do. Many techies feel that the internet is supposed to be open and free and that cracking down on even the most unseemly user behavior infringes on rights to free speech. Twitter, for example, had long refused to address its own problem with abuse, referring to itself as the “free speech wing of the free speech party.”
+
+“People were so dogmatic about open source,” said Sanchez. “It meant that it has to be open all the time and accessible to everyone without question.”
+
+“Any reasonable approach to governing online behavior will ask users to do at least some work to govern communities,” Matias told me. “When communities take on this work, we often get more accountability and responsiveness.”
+
+(Nathan Matias)
+
 ## John Oliver, _Net Neutrality: Last Week Tonight with John Oliver (HBO)_
 
-The cable companies have figured out the great truth of America:
-If you want to do something evil, put it inside something boring.
+The cable companies have figured out the great truth of America: If you want to do something evil, put it inside something boring.
 
 Net Neutrality ≠ Preventing Cable Company Fuckery
 
 
 ##Brian Droitcour, _Why I hate Post-Internet Art_
 
-Post-internet says the same thing about the internet that post-modernism says
-about modernism. But isn’t that a little presumptuous? “What about what we mean
-when we say ‘Internet’ changed so drastically that we can speak of ‘post Internet’
-with a straight face?” asked Gene on his blog. I’d agree that it changed drastically
-but I’d also ask: Why assume that it can’t change again? The internet is always
-changing. The internet of five years ago was so unlike what it is now, to say nothing
-of the internet before social media, or the internet of twenty years ago, or the
-internet before the World Wide Web. Why insist that the changes are over?
-Artists who begin with the proposition that the phenomena of their world are
-boring and banal, who begin with an exasperated sigh, are going to produce art that
-is boring and banal, art that produces exasperated sighs. That was the case with a
-lot of conceptual art of the 1960s and 1970s, when artists explored the aesthetics
-of administration, producing charts and diagrams and photocopy texts that presented
-viewers with the particulars of bureaucracy. Sigh.
+Post-internet says the same thing about the internet that post-modernism says about modernism. But isn’t that a little presumptuous? “What about what we mean when we say ‘Internet’ changed so drastically that we can speak of ‘post Internet’ with a straight face?” asked Gene on his blog. I’d agree that it changed drastically but I’d also ask: Why assume that it can’t change again? The internet is always changing. The internet of five years ago was so unlike what it is now, to say nothing of the internet before social media, or the internet of twenty years ago, or the internet before the World Wide Web. Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs. That was the case with a lot of conceptual art of the 1960s and 1970s, when artists explored the aesthetics of administration, producing charts and diagrams and photocopy texts that presented viewers with the particulars of bureaucracy. Sigh.
 
 (...)
 
-So post-internet is bad. But if we’re not post-, then where are we, when are
-we? What prefix can people who love labels use to situate themselves in history?
-Recently I’ve become enamored with Mikhail Epstein’s writing on proto-, which
-supposes that the modern age of humanity is over, and that sweeping changes to
-nature and technology herald the onset of a new, still nebulous era. Epstein writes:
-“The period we are entering is no longer a period after something: postcommunist,
-postmodernist, ‘postthis,’ or ‘postthat.’ The present era is ‘proto,’ but a preface
-to what, we do not know. Proto- is noncoercive, nonpredictive, and unaccountable:
-a mode of maybe. The future is a language without grammar, an unconscious without
-dreams, pure nothing. Inescapably the future becomes everything so as again and
-again to remain nothing.”
+So post-internet is bad. But if we’re not post-, then where are we, when are we? What prefix can people who love labels use to situate themselves in history? Recently I’ve become enamored with Mikhail Epstein’s writing on proto-, which supposes that the modern age of humanity is over, and that sweeping changes to nature and technology herald the onset of a new, still nebulous era. Epstein writes: “The period we are entering is no longer a period after something: postcommunist, postmodernist, ‘postthis,’ or ‘postthat.’ The present era is ‘proto,’ but a preface to what, we do not know. Proto- is noncoercive, nonpredictive, and unaccountable: a mode of maybe. The future is a language without grammar, an unconscious without dreams, pure nothing. Inescapably the future becomes everything so as again and again to remain nothing.”
 
 ##Silvio Lorussio, _A Work Ethic Dystopia_
 

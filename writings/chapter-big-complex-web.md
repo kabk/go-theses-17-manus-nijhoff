@@ -1,11 +1,11 @@
-#COMPLEX WEB
+# COMPLEX WEB, BORING INTERNET
 
 REN:  
 So Silicon Valley is where the ideals of optimization have taken flight. Now, one of the places where optimization makes a huge difference is the back-end of big services and platforms. For instance Netflix or Amazon. The cloud is servers spinning on a rack, interconnected with cables. Wireless is only a half-truth. There are strings attached.
 
 Services designed for our daily lives, things like Uber, Deliveroo, Maps, have all been designed with the objective of ‘scalability’ in mind. Scalability means that these systems will get better when they grow. These systems optimize by growth. So as they exist, we can now ask: _is bigger better?_
 
-##The Chaos Monkey
+## The Chaos Monkey
 
 GON:  
 True story: Netflix has been releasing monkeys inside their server centers that wreak havoc and shut down parts of their systems. It started with one monkey, but soon an entire legion of apes was formed, each one trained to break another part of the servers.
@@ -15,12 +15,11 @@ In 2012 Netflix released an open source version of this Simian Army. Now everyon
 
 At Netflix server centers they have this approach called the Chaos Monkey. This basically shuts down random parts of their server infrastructure with the only reason to see if the system stays up. The system _needs_ these little destructions to survive, just like organisms are dependent on smaller creatures or bacteria to survive. 
 
-##DAO
+## DAO
 
 1. Explain blockchain
 2. Explain ethereum
-3. Explain DAO crash
-4. Speculate.
+3. Explain DAO crash from exploit
 
 This has some heavy implications. What if you disagree with a system? If even kicking over that system means that it can learn and regenerate? It's a scary thought. What can you do to be subversive?
 
@@ -28,9 +27,7 @@ Well, like X said, there are still errors to exploit. And I think you should alw
 
 Advantages of distributed networks.
 
-DAO fiasco.
-
-##Kiva
+## Kiva
 
 OPT:  
 I love watching this video of the sorting robots in Amazon's warehouses.[^kiva] The Amazon services that use the chaos sorting approach. By making the 
@@ -43,13 +40,15 @@ At Amazon, the warehouses no longer store items categorically. Rather, the objec
 
 So what all of these examples suggest is that the bigger a system gets, the more chaos it needs to survive. Order has its limits when it goes too far. 
 
-##The Remembrancer
+## The Remembrancer
 
-More noisy walks
+Explain the ceremonial function. Is that the function left for us?
+
+More noisy walks. -> Corporate pressure.
 
 Reverence / humble attitude in the face of technology.
 
-The siren server.
+Regular users should know that all of our tech can fail. The world as a beta test. Alpha's have had their time. More diversity and more failures for more commitment. We are in a way the problem of the tech because of impatience. In order to help ourselves, we should help the community of tech, and have a better link between the two. Move towards each other.
 
 [^kiva]: [https://youtu.be/quWFjS3Ci7A](https://youtu.be/quWFjS3Ci7A)
 [^pick]: [https://youtu.be/6KRjuuEVEZs](https://youtu.be/6KRjuuEVEZs)

@@ -60,9 +60,7 @@ Soylent 2.0: Use Less, Do More
 
 Total food replacements were on the market for years, bigger innovation might be the marketing.
 
-Productivity apps
-
-YouTube's top tier program: YouTube spaces
+YouTube's top tier program: YouTube spaces.
 
 Please make sure to like and subscribe and as always thanks for watching!
 

@@ -13,3 +13,13 @@ Beautifully enough, the expensive taste bit of the quote is a little bit less tr
 - Fake It till you make it, a direct result of American culture?
 
 Moby dealing with the failures of tech in smart phones in ”Are You Lost In The World Like Me?”
+
+## The Remembrancer
+
+Explain the ceremonial function. Is that the function left for us?
+
+More noisy walks. -> Corporate pressure.
+
+Reverence / humble attitude in the face of technology.
+
+<footer></footer>

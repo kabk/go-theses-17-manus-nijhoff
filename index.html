@@ -39,6 +39,8 @@
 </span> -->
 
 <div class="load">
+  <div id="title"></div>
+
   <div id="introduction"></div>
 
   <div id="chapter-1"></div>
@@ -51,7 +53,7 @@
   
   <div id="chapter-5"></div>
 
-  <div id="chapter-6"></div>
+  <!-- <div id="chapter-6"></div> -->
   
   <div id="conclusion"></div>
 
@@ -59,13 +61,14 @@
 
 <script type="text/javascript">
   $(document).ready(function(){
+    $('#title').load('writings/html/title.html');
     $('#introduction').load('writings/html/introduction.html');
     $('#chapter-1').load('writings/html/chapter-as-I-walk-through-the-silicon-valley.html');
     $('#chapter-2').load('writings/html/chapter-big-complex-web.html');
     $('#chapter-3').load('writings/html/chapter-filter-troubles.html');
     $('#chapter-4').load('writings/html/chapter-fleeting-time.html');
     $('#chapter-5').load('writings/html/chapter-self.html');
-    $('#chapter-6').load('writings/html/chapter-in-the-arts.html');
+    // $('#chapter-6').load('writings/html/chapter-in-the-arts.html');
     $('#conclusion').load('writings/html/conclusion.html');
   });
 

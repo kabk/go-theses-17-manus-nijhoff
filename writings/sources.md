@@ -10,6 +10,7 @@
 - Steven Levy, _In The Plex: How Google Thinks, Works, and Shapes Our Lives_
 - George Steiner, _Nostalgia for the Absolute_, 1974
 - Douglas Coupland, _Shopping In Jail: Ideas, Essays, and Stories for the Increasingly Real Twenty‑First Century_, 2013
+- Karen Archey and Robin Peckham, _Art Post-Internet: INFORMATION / DATA_, 2014
 
 ##Secondary
 
@@ -23,6 +24,7 @@
 
 ##Primary
 
+- Alex van de Sande, _How To Build Server Less Applications for Mist_ [https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/](https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/)
 - Tristan Harris, _How Technology Hijacks People's Minds – from a Magician and Google's Design Ethicist_, [https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qo18sc6z2](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qo18sc6z2)
 - Aaron Swartz, _Sociology or Anthropology_, [http://www.aaronsw.com/weblog/socvanthro](http://www.aaronsw.com/weblog/socvanthro)
 - Silvio Lorusso, _A Work Ethic Dystopia_, [http://networkcultures.org/entreprecariat/work-ethic-dystopia/](http://networkcultures.org/entreprecariat/work-ethic-dystopia/)
@@ -72,6 +74,7 @@
 
 ##Primary
 
+- Laura Poitras, _Citizenfour_, [http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi](http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi)
 - Cullen Hoback, _Terms and Conditions May Apply_, [https://vimeo.com/98094467](https://vimeo.com/98094467)
 - Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_ [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 - Tim Pychyl, _Teaching Talk: Helping Students Who Procrastinate_, [https://youtu.be/mhFQA998WiA](https://youtu.be/mhFQA998WiA)
@@ -130,6 +133,8 @@
 
 ##Primary
 
+- (video) Mark Zuckerberg talks privacy controversies at D8 (2010)
+, [https://youtu.be/GczC7q5NPrw](https://youtu.be/GczC7q5NPrw)
 - (video) Soylent – Free Your Body [https://youtu.be/wEjBSvW3Lc4](https://youtu.be/wEjBSvW3Lc4)
 - (video) MIT surveillance video that led to Aaron Swartz's arrest [https://youtu.be/NSC0iC3cj2U](https://youtu.be/NSC0iC3cj2U)
 - (website) YouTube Spaces [https://www.youtube.com/yt/space/index.html](https://www.youtube.com/yt/space/index.html)

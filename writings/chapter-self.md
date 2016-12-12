@@ -1,7 +1,8 @@
-#Self
+# Personal perfection
 
-##(OPTIMIZING SELF)
+## (OPTIMIZING SELF)
 
+OPT:
 What's up guys, it's Optimo, and today we're going to talk about self-optimization!
 
 ###Soylent
@@ -24,6 +25,8 @@ What is the secret of Soylent Green? 😈 [^people]
 
 OPT:  
 Good one, GON. The Soylent Green movie is actually based on a sci-fi novel from 1966 called _Make Room! Make Room!_[^room]. That book introduced a version of NYC in which overpopulation caused people to resort to Soylent (soy and lentil) and water on ration. The Soylent Green film took it one step further..  
+
+![Make Room! Make Room!](img/make-room.jpg)
 
 All jokes aside though. I know it plays into the sentiment of science fiction. But science is also what makes this stuff possible. Rob Rhinehart – the guy behind Soylent – has a vision of what he calls a world after food. He wants to make it independent from agriculture, eventually. When agriculture doesn't scale with human needs, which he says will happen, this could be the thing to replace it. So it's not just convenient, it's also a step towards a solution for future food problems. According to a report called _How To Feed The World 2050_, the world will have 9.1 billion citizens that need food. We're going to need to improve things and optimize things and a lot of that comes from science and technology. Soylent is made on the formula of nutritional value per dollar and it is very cost-effective.  
 
@@ -52,21 +55,26 @@ REN:
 You're absolutely right. Looking at the production process, they are handling the environment pretty consciously.
 
 GON:  
-I just want to stress that the rituals around food are getting lost from ordering in and using these super individualistic rations. There's one missing ingredient in Soylent if you ask me and that's love. ❤️ Really! It's more key to food than salt. I mean, would you serve this food to your friends? 
+I just want to stress that the rituals around food are getting lost from ordering in and using these super individualistic rations. There's one missing ingredient in Soylent if you ask me and that's love. ❤️ Really! Friendships and relationships are kept through eating together. It's more key to food than salt. I mean, would you serve this food to your friends? 
 
-##Deliveroo
+## Interface and User connection
 
-Soylent 2.0: Use Less, Do More
+OPT:  
+It's crazy that, when you order something from Amazon, you never realize the extremely complicated industry behind the process. In front of all of these complex infrastructures are the increasingly simple interfaces and seamless payment procedures. And companies are working hard to keep it that way. The comfort of the user is everywhere a key part of the selling formula. Amazon Dash is probably the most striking example of this.
 
-Total food replacements were on the market for years, bigger innovation might be the marketing.
+Dash is a button you order from Amazon. Every button is dedicated to one single product with a specific order size. Once you have the Dash button in your house, one press will order a single serve of that product at Amazon, which will be delivered soon thereafter.
 
-YouTube's top tier program: YouTube spaces.
+![Amazon Dash x Red Bull](img/dash-red-bull.jpg) 
 
-Please make sure to like and subscribe and as always thanks for watching!
+Voila, a subscription to Red Bull. Just like the milkman back in the days, you now can expect a Red Bull servant on your doorstep whenever you want. 
 
-Self-raising people. Nobody in history had such a crazy different generation. Or?
+People have hacked this little device already to do all sorts of things. From playing a video to setting the mood by dimming lights in the house, to whatever you can imagine a remote control to do.
+
+But here again Bratton's design as immunisation can be applied. Do we really need this? 
 
 [^people]: Soylent Green is People!!! [https://youtu.be/9IKVj4l5GU4](https://youtu.be/9IKVj4l5GU4)
 [^room]: _Make Room! Make Room!_ on Wikipedia [https://en.wikipedia.org/wiki/Make_Room!_Make_Room!](https://en.wikipedia.org/wiki/Make_Room!_Make_Room!)
 [^community]: Soylent on Disqus [https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8](https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8)
 [^diy]: [https://diy.soylent.com/](https://diy.soylent.com/)
+
+<footer></footer>

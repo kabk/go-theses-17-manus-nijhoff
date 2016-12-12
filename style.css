@@ -151,6 +151,12 @@ h1 {
 	letter-spacing: -1px;
 }
 
+	#control-and-question {
+	line-height: 110px;
+	font-size: 122px;
+	font-weight: 100;		
+	}
+
 #control-and-question-think-outside-the-bubble {
 	padding-left: 0 !important;
 	margin: 10px 0;
@@ -219,13 +225,13 @@ hr {
 	margin: 24px 0;
 }
 
-video {
+/*video {
 	position: fixed;
 	top: 0;
 	right: 0;
 	opacity: 0.5;
 	z-index: -999;
-}
+}*/
 
 .header-section-number {
 	display: none;
@@ -244,6 +250,10 @@ video {
 	color: #26e00d;
 }
 
+#fbpurity {
+	display: none;
+}
+
 /**/
 /*PRINT STYLES*/
 /**/
@@ -257,7 +267,7 @@ video {
 		background-size: 30px;
 	}
 
-	video, #structure, #section a, #bulk, #thesis, hr {
+	iframe, #structure, #section a, #bulk, #thesis, hr {
 		display: none;
 	}
 
@@ -279,17 +289,22 @@ video {
 
 	}
 
-	#candle {
-		margin-left: -12px;
+	#fbpurity {
+		display: block;
 	}
 
-	#control-and-question-think-outside-the-bubble {
+	#candle {
+		margin-left: -12px;
 	}
 
 	#eco-text:after {
 		content: '  You have decided to print. Do not forget to plant a tree.';
 		font-size: 12px;
 		color: #f00;
+	}
+
+	footer {
+		page-break-after: always;
 	}
 
 }

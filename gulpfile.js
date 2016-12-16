@@ -116,7 +116,7 @@ gulp.task('watch', function () {
   // gulp.watch('src/fonts/*.{ttf,otf}"', ['font']);
 
   // Watch markdown files
-  gulp.watch('writings/*.md', ['markdown-watch']); 
+  // gulp.watch('writings/*.md', ['markdown-watch']); 
 });
 
 // Analyze CSS
@@ -126,7 +126,7 @@ gulp.task('parker', function () {
 });
 
 // Default Task
-gulp.task('default', ['watch', 'browser-sync', 'markdown']);
+gulp.task('default', ['watch', 'browser-sync']);
 
 function sassErrorAlert(error) {
   notify.onError({

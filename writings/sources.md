@@ -43,7 +43,7 @@
 - Gabriel Goh, _Image Synthesis from Yahoo's open\_nsfw_, [https://open_nsfw.gitlab.io/](https://open_nsfw.gitlab.io/)
 - Silvio Lorusso, _The Competitive Aesthetics of Failure_, [http://silviolorusso.com/the-competitive-aesthetics-of-failure/](http://silviolorusso.com/the-competitive-aesthetics-of-failure/)
 - Olivia Solon, _Is our world a simulation? Why some scientists say it's more likely than not_, [https://www.theguardian.com/technology/2016/oct/11/- simulated-world-elon-musk-the-matrix](https://www.theguardian.com/technology/2016/oct/11/- simulated-world-elon-musk-the-matrix)
-- Bruce Sterling & Jon Lebkowsky: _State of the World 2016_, [http://www.well.com/conf/inkwell.vue/topics/487/Bruce-Sterling-Jon-Lebkowsky-Sta-page01.html](http://www.well.com/conf/inkwell.vue/topics/487/Bruce-Sterling-Jon-Lebkowsky-Sta-page01.html)
+- Bruce Sterling & Jon Lebkowsky: _State of the World 2016_, [<well class="com"></well>/conf/inkwell.vue/topics/487/Bruce-Sterling-Jon-Lebkowsky-Sta-page01.html](http://www.well.com/conf/inkwell.vue/topics/487/Bruce-Sterling-Jon-Lebkowsky-Sta-page01.html)
 - ALEXIS C. MADRIGAL, _Bruce Sterling on Why It Stopped Making Sense to Talk About 'The Internet' in 2012_, [http://www.theatlantic.com/technology/archive/2012/12/- ](http://www.theatlantic.com/technology/archive/2012/12/-bruce-sterling-on-why-it-stopped-making-sense-to-talk-about-the-internet-in-2012/266674/ )
 - Wilhelm Hofmann and Lotte Van Dillen, _Desire: The New Hot Spot in Self-Control Research_, 2012
 - Joelle Renstrom, _And their eyes glazed over_, [https://aeon.co/essays/can-students-who-are-constantly-on-their-devices-actually-learn](https://aeon.co/essays/can-students-who-are-constantly-on-their-devices-actually-learn)

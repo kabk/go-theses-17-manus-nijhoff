@@ -17,7 +17,21 @@
 * {
 	color: #e0e0e8;
 	text-rendering: optimizeLegibility;
-	max-width: 75ch;
+}
+
+body {
+	margin: 0;
+	padding: 0; 
+}
+
+*::selection {
+	background: transparent;
+}
+
+.wrapper {
+	position: absolute;
+	left: 8vw;
+	max-width: 75ch !important;
 }
 
 table {
@@ -132,7 +146,6 @@ a#structure, a#thesis, a#bulk {
 	text-transform: uppercase;
 }
 
-
 a#structure:before, a#thesis:before, a#bulk:before {
 	content: '';
 }
@@ -151,11 +164,11 @@ h1 {
 	letter-spacing: -1px;
 }
 
-	#control-and-question {
+#control-and-question {
 	line-height: 110px;
 	font-size: 122px;
 	font-weight: 100;		
-	}
+}
 
 #control-and-question-think-outside-the-bubble {
 	padding-left: 0 !important;
@@ -225,13 +238,13 @@ hr {
 	margin: 24px 0;
 }
 
-/*video {
+video {
 	position: fixed;
 	top: 0;
 	right: 0;
 	opacity: 0.5;
 	z-index: -999;
-}*/
+}
 
 .header-section-number {
 	display: none;
@@ -241,7 +254,6 @@ hr {
 	width: 20px;
 	height: 20px;
 	display: inline-block;
-
 }
 
 #eco-text:after {
@@ -253,6 +265,173 @@ hr {
 #fbpurity {
 	display: none;
 }
+
+p.notifications {
+	position: fixed;
+	top: -14px;
+	font-size: 10px;
+	background-color: blue;
+	display: block;
+	border-radius: 1px;
+	padding: 2px 3px; 
+}
+
+p.notifications.people {
+	position: absolute;
+	left: 22px;
+}
+
+p.notifications.quotes {
+	position: absolute;
+	left: 57px;
+}
+
+p.notifications.world {
+	position: absolute;
+	left: 88px;
+}
+
+.tooltip {
+	position: absolute;
+	top: 48px;
+}
+
+.tooltip.world {
+	right: 130px;
+}
+
+.tooltip.quotes {
+	right: 163px;
+}
+
+.tooltip.people {
+	right: 196px;
+}
+
+.tooltip img {
+	width: 15px;
+	height: auto;
+}
+
+.slot-machine {
+	position: fixed;
+	width: 230px;
+	height: 260px;
+	background-color: white;
+	right: 120px;
+	top: 55px;
+	border-radius: 5px;
+	background-image: url(experiment/services/img/dpr.jpg);
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.icons {
+	position: fixed;
+	width: 100px;
+	right: 120px;
+	top: 15px;
+}
+
+.icons img {
+	position: relative;
+	float: left;
+	display: inline-block;
+	margin: 0 4px;
+}
+
+
+/**/
+/*LANDING PAGE*/
+/**/
+
+.landing {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	width: 100vw ;
+	height: 100vh;
+	background: black;
+	z-index: 100;
+	flex-wrap: nowrap;
+	padding-top: 28vh;
+}
+
+.landing .l {
+	padding: 0;
+	margin: 0; 
+	height: 50vmin;
+	overflow-y: scroll;
+	/*border-radius: 20px;*/
+	-webkit-clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+}
+
+.landing .m {
+	padding: 0;
+	margin: 0; 
+	height: 50vmin;
+	overflow-y: scroll;
+	-webkit-clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+}
+
+.landing .r {
+	padding: 0;
+	margin: 0; 
+	height: 50vmin;
+	overflow-y: scroll;
+	-webkit-clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+clip-path: polygon(0 0, 35% 14%, 15% 0, 83% 0, 67% 14%, 100% 0, 100% 100%, 65% 50%, 86% 100%, 15% 100%, 35% 50%, 0 100%);
+}
+
+.landing h1 {
+	padding: 0 !important;
+	background: white; 
+	font-size: 50vmin;
+	line-height: 50vmin;
+	/*border-radius: 20px;*/
+}
+
+
+/*COLORS L*/
+.l h1:nth-child(3n) {
+	background: #BFBFC7;
+}
+.l h1:nth-child(3n+1) {
+	background: #5C5C5C;
+}
+.l h1:nth-child(3n+2) {
+	background: #272727;
+}
+
+/*COLORS M*/
+.m h1:nth-child(3n) {
+	background: #272727;
+}
+.m h1:nth-child(3n+1) {
+	background: #BFBFC7;
+}
+.m h1:nth-child(3n+2) {
+	background: #5C5C5C;
+}
+
+/*COLORS R*/
+.r h1:nth-child(3n) {
+	background: #5C5C5C;
+}
+.r h1:nth-child(3n+1) {
+	background: #272727;
+}
+.r h1:nth-child(3n+2) {
+	background: #BFBFC7;
+}
+
+.l::-webkit-scrollbar, .m::-webkit-scrollbar, .r::-webkit-scrollbar {
+	display: none;
+}
+
 
 /**/
 /*PRINT STYLES*/
@@ -267,7 +446,7 @@ hr {
 		background-size: 30px;
 	}
 
-	iframe, #structure, #section a, #bulk, #thesis, hr {
+	.slot-machine-wrapper, .icons, video, iframe, #structure, #section a, #bulk, #thesis, hr {
 		display: none;
 	}
 
@@ -286,7 +465,6 @@ hr {
 		border: 1px solid black;
 		border-spacing: 10px 10px;
 		margin: 24px auto; 
-
 	}
 
 	#fbpurity {

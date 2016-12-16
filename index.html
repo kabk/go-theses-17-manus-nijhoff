@@ -36,6 +36,30 @@
 
 <!-- SLOT MACHINE / TITLE PAGE -->
 
+<div class="profiles">
+  
+  <div id="gonzo">
+    <img class="avatar" src="https://spellchek.files.wordpress.com/2013/12/silhouette.jpg"/>
+    <p class="slug">GON</p>
+    <p class="description">Gonzo is in his mid twenties. Based in The Hague (NL), he dropped out of design school and a Computer Science college degree to work on his art. Child of a mother and father that are supportive of his life choices. He has a job working at an electronics store. Via a message board for app developers he met Optimo.</p>
+  </div>
+
+  <div id="renegade">
+    <img class="avatar" src="https://spellchek.files.wordpress.com/2013/12/silhouette.jpg"/>
+    <p class="slug">REN</p>
+    <p class="description">She is the hardest one to reach. No one really knows who she is but she has been a moderator of the forum for more than 20 years now. It's known that The Renegade has worked as an engineer in the tech industry of the USA and that she's based in Berlin, with her partner Alex.
+    </p>
+  </div>
+
+  <div id="optimo">
+    <img class="avatar" src="https://spellchek.files.wordpress.com/2013/12/silhouette.jpg"/>
+    <p class="slug">OPT</p>
+    <p class="description">Optimo is a man, 32 years old. He lives and works in Amsterdam as a Human Resources manager for the public transport company of the city. In his spare time he enjoys going for a run or visiting galleries in the city. And most of all he likes to spend time on little programming projects. On the message board, Optimo and Gonzo also meet The Renegade.
+    </p>
+  </div>
+  
+</div>
+
 <div class="landing">
 
     <div class="l">
@@ -235,16 +259,36 @@
 </video>
 
 <script type="text/javascript">
+
+// A self playing slot machine that unlocks the characters of the play.
+// Could go as far as only showing the text that is unlocked.
+
   $(document).ready(function(){
+
+     var gonzo, optimo, renegade;
+
+     console.log(gonzo,optimo,renegade);
 
      function scrollToElement(col, el, ms) {
       var speed = (ms) ? ms : 600;
       
       $(col).animate({
-        scrollTop: 184 + $(el).offset().top 
-      }, {
-        duration: speed,
-        easing: "easeInOutCirc"
+        scrollTop: -80 + $(el).offset().top 
+      }, speed, "easeInOutCirc", function(){
+        // finished spinning, if there is a winner, reveal profiles
+        console.log( col +'finished spinning');
+        if( gonzo === 1 ){
+          $('#gonzo img').attr('src', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nVMlNEc_nu-BlGaZe-MUT02Ry6zjEr2MN7_gces0eS_gtCVg_ynYPhw').addClass('winner');
+          $('#gonzo .description').show();
+        } 
+        if( optimo === 1 ){
+          $('#optimo img').attr('src', 'https://pbs.twimg.com/profile_images/494501654926864384/w7zi0zhc.jpeg').addClass('winner');
+          $('#optimo .description').show();
+        } 
+        if ( renegade === 1 ) {
+          $('#renegade img').attr('src', 'http://downloadablesuicide.com/wp-content/uploads/2010/02/renegade-sarah-shepard.jpg').addClass('winner');
+          $('#renegade .description').show();
+        }
       });
 
     }
@@ -256,6 +300,7 @@
     setInterval(function(){
 
       setTimeout(function(){
+        $('.landing h1').removeClass();
         let result1 = randomInterval(1, 42),
             result2 = randomInterval(1, 42),
             result3 = randomInterval(1, 42);
@@ -297,35 +342,38 @@
           console.log('right: t');
         }
 
-        // bCondition1 && (bCondition2 || bCondition3) == !(!bCondition1 || !bCondition2 && !bCondition3)
-
 
         // if REN
         if(result1 % 3 === 0 && (result2 + 2) % 3 === 0 && (((result3 + 1) % 3 === 0) || ((result3) % 3 === 0)) ){
-          console.log('WINNER WINNER CHICKEN RENEGADE');
+          return optimo = 1;
         }
 
         // if OPT
         if((result1 + 1) % 3 === 0 && (result2) % 3 === 0 && (result3 + 2) % 3 === 0){
-          console.log('WINNER WINNER CHICKEN OPTIMO');
+          return gonzo = 1;
         }        
 
         // if GON
         if((result1 + 2) % 3 === 0 && (result2 + 1) % 3 === 0 && (((result3 + 1) % 3 === 0) || ((result3) % 3 === 0)) ){
-          console.log('WINNER WINNER CHICKEN GONZO');
+          return renegade = 1;
         }
 
       }, 1000);
 
-        scrollToElement('.l', 'h1:nth-child(1)', 1000);
-        scrollToElement('.m', 'h1:nth-child(1)', 1000);
-        scrollToElement('.r', 'h1:nth-child(1)', 1000);
+        scrollToElement('.l', 'h1:nth-child(1)', 1500);
+        scrollToElement('.m', 'h1:nth-child(1)', 1500);
+        scrollToElement('.r', 'h1:nth-child(1)', 1500);
 
     }, 10000);
 
       scrollToElement('.l', 'h1:nth-child('+randomInterval(1,42)+')', 3000);
       scrollToElement('.m', 'h1:nth-child('+randomInterval(1,42)+')', 6000);
       scrollToElement('.r', 'h1:nth-child('+randomInterval(1,42)+')', 4000);
+
+
+
+
+
 
     // Load content
 

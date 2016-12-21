@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "FournierMT-Regular";
+    src: url("FournierMT-Regular.eot");
+    src: url("FournierMT-Regular.eot?#iefix") format("embedded-opentype"),
+         url("FournierMT-Regular.woff2") format("woff2"),
+         url("FournierMT-Regular.woff") format("woff"),
+         url("FournierMT-Regular.ttf") format("ttf"),
+         url("FournierMT-Regular.svg#FournierMT-Regular") format("svg");
+    font-style: normal;
+    font-weight: regular;
+}

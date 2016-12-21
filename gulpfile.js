@@ -5,19 +5,17 @@ const gulp            = require('gulp'),
       plumber         = require('gulp-plumber'),
       cssnano         = require('gulp-cssnano'),
       sass            = require('gulp-sass'),
+      fontgen         = require('gulp-fontgen'),
       notify          = require('gulp-notify'),
-      imagemin        = require('gulp-imagemin'),
       markdown        = require('gulp-markdown'),
+      imagemin        = require('gulp-imagemin'),
       pngquant        = require('imagemin-pngquant'),
       changed         = require('gulp-changed'),
       parker          = require('gulp-parker'),
-      fontgen         = require('gulp-fontgen'),
       browserify      = require('browserify'),
       source          = require('vinyl-source-stream'),
       buffer          = require('vinyl-buffer'),
-      hbsfy           = require("hbsfy").configure({extensions: ["html"]}),
       browserSync     = require('browser-sync').create();
-
 
 // Build javascript
 gulp.task('scripts', function () {
@@ -25,7 +23,6 @@ gulp.task('scripts', function () {
   return browserify('./src/js/app.js', {
       debug: true
     })
-    .transform(hbsfy)
     .bundle()
     .pipe(source('app.min.js'))
     .pipe(buffer())
@@ -89,9 +86,10 @@ gulp.task('markdown', function () {
       smartypants: true,
       smartLists: true
     }))
-    .pipe(gulp.dest('writings/html'))
+    .pipe(gulp.dest('./html'))
 })
 
+// Reload HTML on markdown change
 gulp.task('markdown-watch', ['markdown'], function(done){
   browserSync.reload();
   done();
@@ -100,23 +98,28 @@ gulp.task('markdown-watch', ['markdown'], function(done){
 // Watch for changes in files
 gulp.task('watch', function () {
 
-  // // Watch .js files
+  // Watch .js files
   gulp.watch('src/js/*.js', ['scripts']);
 
-  // // Watch .html files
+  // Watch .html files
   gulp.watch('*.html', browserSync.reload);
 
-  // // Watch .scss files
-  // gulp.watch('src/style/**/*.scss', ['sass']);
+  // Watch .scss files
+  gulp.watch('src/style/**/*.scss', ['sass']);
 
-  // // Watch images
-  // gulp.watch('src/img/*', ['images']);
+  // Watch images
+  gulp.watch('src/img/*', ['images']);
 
-  // // Watch fonts
-  // gulp.watch('src/fonts/*.{ttf,otf}"', ['font']);
+  // Watch fonts
+  gulp.watch('src/fonts/*.{ttf,otf}', ['font']);
 
-  // Watch markdown files
-  // gulp.watch('writings/*.md', ['markdown-watch']); 
+  // Watch markdown
+  // gulp.watch('src/writings/*.md', ['markdown']);
+
+  // Watch markdown and reload HTML
+  // gulp.watch('src/writings/*.md', ['markdown-watch']);
+
+
 });
 
 // Analyze CSS
@@ -126,7 +129,7 @@ gulp.task('parker', function () {
 });
 
 // Default Task
-gulp.task('default', ['watch', 'browser-sync']);
+gulp.task('default', ['scripts', 'sass', 'watch', 'browser-sync', 'images', 'font']);
 
 function sassErrorAlert(error) {
   notify.onError({

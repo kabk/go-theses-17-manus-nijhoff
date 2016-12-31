@@ -352,12 +352,10 @@ p.notifications.world {
 .profiles-wrapper {
 	width: 100%;
 	display: flex;
+	margin-top: -5vh;
 	justify-content: space-around;
-	position: fixed;
-	background-color: red;
 	bottom: 0;
 	z-index: 9999;
-	display: none;
 }
 
 .profiles-wrapper img {
@@ -365,12 +363,12 @@ p.notifications.world {
 	height: 50px;
 	border-radius: 50%;
 	margin: 20px auto;
-	opacity: 0.5;
+	opacity: 1;
 	vertical-align: middle; 
 }
 
 #gonzo, #renegade, #optimo {
-	width: 400px;
+	width: 22vw;
 }
 
 .profiles-wrapper .slug {
@@ -380,34 +378,33 @@ p.notifications.world {
 }
 
 .profiles-wrapper .description {
-	display: none;
+	color: rgba(255, 255, 255, 0);
 }
 
 .landing-wrapper {
-	position: fixed;
-	background-color: #6e6e73;
+	position: relative;
+	margin-top: -5vh;
+	background-color: blue;
 	z-index: 100;
-	display: none;
+	width: 100vw;
+	height: 100vh;
 }
 
 .landing {
+	margin: 5vh auto 10vh auto;
+	width: 66vw;
+	height: auto;
 	display: flex;
-	justify-content: center;
-	width: 100vw ;
-	height: 100vh;
+	justify-content: space-around;
 	padding-top: 0;
 	flex-wrap: nowrap;
 }
 
-/*.landing h1, .landing .r, .landing .m {
-	top: 10vh;
-}*/
-
 .landing .l {
 	padding: 0;
 	margin: 0; 
-	height: 400px;
-	overflow-y: scroll;
+	height: 33vw;
+	overflow-y: hidden;
 	/*-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);
 	clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);*/
 }
@@ -415,8 +412,8 @@ p.notifications.world {
 .landing .m {
 	padding: 0;
 	margin: 0; 
-	height: 400px;
-	overflow-y: scroll;
+	height: 33vw;
+	overflow-y: hidden;
 	/*-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);
 	clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);*/
 }
@@ -424,8 +421,8 @@ p.notifications.world {
 .landing .r {
 	padding: 0;
 	margin: 0; 
-	height: 400px;
-	overflow-y: scroll;
+	height: 33vw;
+	overflow-y: hidden;
 	/*-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);
 	clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);*/
 }
@@ -433,15 +430,26 @@ p.notifications.world {
 .landing h1 {
 	padding: 0 !important;
 	background: white; 
-	font-size: 400px;
-	line-height: 400px;
+	font-size: 33vw;
+	line-height: 33vw;
 }
 
 .landing h1 {
 	padding: 0 !important;
 	background: white; 
-	font-size: 400px;
-	line-height: 400px;
+	font-size: 33vw;
+	line-height: 33vw;
+}
+
+.landing-wrapper #spin p {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	color: #fff;
+	font-size: 20px;
+	line-height: 20px;
+	z-index: 99999;
+	display: block;
 }
 
 .debug {
@@ -487,15 +495,26 @@ p.notifications.world {
 
 /*ANIMATIONS*/
 
-.winner {
-	-webkit-animation: glowAnimate 1s 3; /* Safari 4.0 - 8.0 */
-	animation: glowAnimate 1s 3;	
+.spin {
+	-webkit-animation: spin 1s infinite; /* Safari 4.0 - 8.0 */
+	animation: spin 1s infinite;	
 }
 
-@keyframes glowAnimate {
-	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(9,0,255,0); -moz-box-shadow: 0px -2px 115px 36px rgba(9,0,255,0); box-shadow: 0px -2px 115px 36px rgba(9,0,255,0);}
-	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(9,0,255,1); -moz-box-shadow: 0px -2px 115px 36px rgba(9,0,255,1); box-shadow: 0px -2px 115px 36px rgba(9,0,255,1);}
+.winner {
+	-webkit-animation: win 1s infinite; /* Safari 4.0 - 8.0 */
+	animation: win 1s infinite;		
 }
+
+@keyframes spin {
+	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); box-shadow: 0px -2px 115px 36px rgba(255,0,0,0);}
+	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); box-shadow: 0px -2px 115px 36px rgba(255,0,0,1);}
+}
+
+@keyframes win {
+	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); box-shadow: 0px -2px 115px 36px rgba(255,255,0,0);}
+	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); box-shadow: 0px -2px 115px 36px rgba(255,255,0,1);}
+}
+
 
 /**/
 /*PRINT BUTTON*/
@@ -513,8 +532,11 @@ p.notifications.world {
 /**/
 
 #webcam {
-	width: 700px;
-	height: auto;
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100vh;
 	display: block;
 	margin: 0 auto;
 	z-index: 999999;
@@ -523,6 +545,21 @@ p.notifications.world {
 	background-position: center;
 	background-repeat: no-repeat;
 	filter: grayscale(1);
+	opacity: 1;
+	animation: webcam 100s infinite;
+	z-index: -10;
+}
+
+@keyframes webcam {
+
+	0% { opacity: 0 }
+	20% {  opacity: .1 }
+	33% {  opacity: .03 }
+	54% {  opacity: .05 }
+	76% {  opacity: .15 }
+	88% {  opacity: .02 }
+	100% { opacity:  0 }
+
 }
 
 /**/
@@ -530,6 +567,10 @@ p.notifications.world {
 /**/
 
 @media print {
+
+	@page { 
+		size: portrait;  
+	}
 
 	body {
 		background-color: rgba(255, 255, 255, 0);
@@ -616,6 +657,26 @@ p.notifications.world {
 		text-indent: 0;
 	}
 
+	.pagenumbers p {
+		position: absolute;
+		text-align: right;
+		right: 0;
+		top: 0;
+		line-height: 10px;
+		font-size: 7px;
+		text-decoration: underline;
+		opacity: 0.5;
+	}
+
+	.pagenumbers span:nth-of-type(10n) {
+		opacity: 1 !important;
+	}
+
+	.pagenumbers span:nth-of-type(10n):after {
+		content: 'px';
+	}
+
+
 	#unknown-1, #unknown-2, #webcam {
 		display: block;
 		margin: 0 auto; 
@@ -648,6 +709,11 @@ p.notifications.world {
 	}
 
 	#webcam {
+		position: relative;
+		width: 700px !important;
+		animation: none;
+		min-width: 0;
+		min-height: 0;
 		opacity: 0.7;
 	}
 

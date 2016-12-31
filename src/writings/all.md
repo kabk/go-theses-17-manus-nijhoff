@@ -293,7 +293,9 @@ Regular users should know that all of our technology can fail. The world as a be
 [^kiva]: _Amazon warehouse robots_, [https://youtu.be/quWFjS3Ci7A](https://youtu.be/quWFjS3Ci7A)
 [^pick]: _A Day in the Life of a Kiva Robot_, [https://youtu.be/6KRjuuEVEZs](https://youtu.be/6KRjuuEVEZs)
 
-<footer></footer># Filter Troubles 
+<footer></footer>
+
+# Filter Troubles 
 
 ## OPTIMIZING COMMUNITIES
 
@@ -397,7 +399,9 @@ I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the ha
 
 [^other]: Jonas Lund and Sebastian Scheming, _Other People Also Bought_, last checked 19 september [http://otherpeoplealsobought.com/](http://otherpeoplealsobought.com/)
 
-<footer></footer>#Fleeting Time
+<footer></footer>
+
+#Fleeting Time
 
 ##(OPTIMIZING TIME)
 

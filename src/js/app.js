@@ -5,6 +5,7 @@
   var gonzo, optimo, renegade
   var result1, result2, result3
   var spinning = 0
+  var clicked
 
   global.$ = require('jquery')
 
@@ -136,19 +137,33 @@
 
   function showNotifications() {
 
-  	var clicked = $(event.currentTarget).attr('class');
+    // check current clicked element
+    var current = $(this).attr('class')
+  	console.log(clicked, current)
 
-  	console.log('clicked')
+    if(current === clicked && $('.slot-machine-wrapper').is(':visible') ) {
+      $('.slot-machine-wrapper').hide()
+    } else {
+      $('.slot-machine-wrapper').show()
+    }
+    
+    clicked = current
 
-  	$('.slot-machine-wrapper').show()
-
-  	if(clicked === 'people') {
+  	if(current === 'people') {
       	$('.tooltip').removeClass().addClass('tooltip people')
-  	} else if( clicked === 'quotes' ) {
+  	} else if( current === 'quotes' ) {
       	$('.tooltip').removeClass().addClass('tooltip quotes')
-  	} else if (clicked === 'world' ) {
+  	} else if (current === 'world' ) {
       	$('.tooltip').removeClass().addClass('tooltip world')
   	} 
+
+  }
+
+  function hideNotifications() {
+
+    console.log('hide')
+
+    $('.slot-machine-wrapper').hide()
 
   }
 
@@ -256,7 +271,8 @@
 
 	    $('#all').load('html/print.html', printStyles)
 
-	    $('.people, .quotes, .world').on('mousedown', showNotifications)
+	    $('.people, .quotes, .world').on('click', showNotifications)
+      $('.wrapper').not('.icons').on('click', hideNotifications)
 
       $('#print').on('click', print)
 

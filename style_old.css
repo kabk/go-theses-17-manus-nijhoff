@@ -328,6 +328,7 @@ p.notifications.world {
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
+	display: none;
 }
 
 .icons {
@@ -495,12 +496,12 @@ p.notifications.world {
 
 /*ANIMATIONS*/
 
-.spin {
+/*.spin {*/
 	-webkit-animation: spin 1s infinite; /* Safari 4.0 - 8.0 */
 	animation: spin 1s infinite;	
 }
 
-.winner {
+/*.winner {*/
 	-webkit-animation: win 1s infinite; /* Safari 4.0 - 8.0 */
 	animation: win 1s infinite;		
 }

@@ -9,29 +9,56 @@
 
   global.$ = require('jquery')
 
+
+  var somefunction = require('./somefunction.js');
+somefunction();
+  window.jQuery = $;
+
   function randomInterval (min, max) {
   	console.log('randomInterval called')
     return Math.floor(Math.random() * (max - min + 1) + min)
   };
 
   function scrollToElement (col, el, ms) {
+
+
+
     console.log('scrollToElement called. Going to: ' + $(el).offset().top)
 
     // $(el).addClass('debug')
 
     var speed = (ms) ? ms : 600
 
-    $(col).animate({
-      scrollTop: $(el).position().top
-    }, speed, 'swing')
-  
+
+    return new Promise(function(resolve, reject){
+        $(col).animate({
+          scrollTop: $(el).position().top
+      }, speed, 'swing', resolve);
+    });
+
   }
 
-  function resetScroll(col, el, ms){	
+
+  function isElementInViewport (el) {
+
+      //special bonus for those using jQuery
+      if (typeof jQuery === "function" && el instanceof jQuery) {
+          el = el[0];
+      }
+
+      var rect = el.getBoundingClientRect();
+
+      return (
+          rect.top >= 0 &&
+          rect.left >= 0 &&
+          rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+          rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+      );
+  }
+
+
+  function resetScroll(col, el, ms){
     console.log('resetScroll called')
-
-    checkResult(winner)
-
     var speed = (ms) ? ms : 600
 
     $(col).animate({
@@ -122,6 +149,7 @@
   	console.log('spin called');
 
 	  	setTimeout(function(){
+            checkResult(winner)
 	  		resetScroll('.l, .m, .r', 'h1:nth-child(1)', 400)
 	  	}, 10000)
 
@@ -129,9 +157,14 @@
       result2 = randomInterval(min, max),
       result3 = randomInterval(min, max)
 
-	    scrollToElement('.l', '.l h1:nth-child(' + (result1 + 1) + ')', randomInterval(2000, 4000))
-	    scrollToElement('.m', '.m h1:nth-child(' + (result2 + 1) + ')', randomInterval(3000, 6000))
-	    scrollToElement('.r', '.r h1:nth-child(' + (result3 + 1) + ')', randomInterval(5000, 8000))
+	    var p1 = scrollToElement('.l', '.l h1:nth-child(' + (result1 + 1) + ')', randomInterval(2000, 4000))
+	    var p2 = scrollToElement('.m', '.m h1:nth-child(' + (result2 + 1) + ')', randomInterval(3000, 6000))
+	    var p3 = scrollToElement('.r', '.r h1:nth-child(' + (result3 + 1) + ')', randomInterval(6000, 8000))
+
+        Promise.all([p1, p2, p3]).then(function(){
+            console.log('spinning done!!')
+            checkResult(winner)
+        });
 
   }
 
@@ -146,7 +179,7 @@
     } else {
       $('.slot-machine-wrapper').show()
     }
-    
+
     clicked = current
 
   	if(current === 'people') {
@@ -155,7 +188,7 @@
       	$('.tooltip').removeClass().addClass('tooltip quotes')
   	} else if (current === 'world' ) {
       	$('.tooltip').removeClass().addClass('tooltip world')
-  	} 
+  	}
 
   }
 
@@ -173,7 +206,7 @@
 
     $('p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author').each(function( index ){
       if ( $(this).attr('class') === 'gon' || $(this).attr('class') === 'opt' || $(this).attr('class') === 'ren' ) {
-        currentClass = $(this).attr('class')  
+        currentClass = $(this).attr('class')
       } else {
         $(this).addClass(currentClass + ' ' + 'no-indent')
       }
@@ -184,14 +217,14 @@
   function webcam() {
 
     var webcam = document.getElementById('webcam')
-    var constraints = { 
-            audio: false, 
-            video: { 
-                width: { max: 1.5 }, 
+    var constraints = {
+            audio: false,
+            video: {
+                width: { max: 1.5 },
                 height: { max: 1 },
                 frameRate: { ideal: 10, max: 15 },
-                facingMode: "user" 
-            } 
+                facingMode: "user"
+            }
           }
 
     // Get access to the camera!
@@ -248,7 +281,7 @@
   function checkCookie() {
       var user = getCookie("firstname")
       if (user != "") {
-          
+
       } else {
           user = prompt("Please enter your first and last name:", "");
           if (user != "" && user != null) {
@@ -267,14 +300,21 @@
 
       userInfo()
 
-      console.log(document.getElementById('test'))
-
 	    $('#all').load('html/print.html', printStyles)
 
 	    $('.people, .quotes, .world').on('click', showNotifications)
-      $('.wrapper').not('.icons').on('click', hideNotifications)
+        $('.wrapper').not('.icons').on('click', hideNotifications)
 
-      $('#print').on('click', print)
+        $(window).on('scroll', function(){
+
+            $('.footnoteRef').each(function(){
+                var isVisible = isElementInViewport(this);
+                if(isVisible){
+                    console.log(this);
+                }
+            })
+
+        })
 
       $('#spin').on('click', function(){
         if(spinning === 0){
@@ -283,8 +323,8 @@
           spin(1, 42)
         } else {
           console.log('wait...')
-        }          
-      })        
+        }
+      })
 
   })
 

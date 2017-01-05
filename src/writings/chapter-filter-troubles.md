@@ -1,77 +1,57 @@
 # Filter Troubles 
 
-## OPTIMIZING COMMUNITIES
+Optimo and the Renegade discuss the  politics of filtering content. Gonzo dreams of exploring new horizons.
 
 REN:  
-A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing, so let's discuss the makeable online community.
-
-## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
-
-GON:  
-I'm a big fan of Reddit. It's a social news platform spanning about every topic you can imagine. Sports, politics, help groups, the full monty. It's called social news for its ranking system. Users upvote or downvote news that they find good or interesting and earn karma points for participating in the community. 
+A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing. That's fundamentally different. It means we have influence from the bottom up. Me personally, I'm a big fan of Reddit. It's a social news platform spanning about every topic you can imagine.
 
 OPT:  
-I never got around to using Reddit. The interface just isn't comfortable for me.
-
-GON:  
-It takes some patience to get into it, but once you're in there you'll wonder how you ever did without it! 
+I never got around to using Reddit. The interface isn't comfortable for me.
 
 REN:  
-Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz. At a very young age he was already involved in developing the web feed format RSS and the Markdown publishing format. He was an activist for freedom of speech online and he co-founded Reddit. 
+It takes some patience to get into it. Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz, who was one of its founders. As a teenager he was already involved in developing internet technologies like the web feed format RSS and the Markdown publishing format. He cared deeply about the impact the internet has on society and the freedoms it could support. Swartz set up the Creative Commons License together with law professor Lawrence Lessig and wrote the _Guerilla Open Access Manifesto_[^manifesto].
 
-He also was an activist. Someone who cared about the societal impact of the internet. While studying at MIT, Swartz had access to the JSTOR database. Swartz, who also constituted the Creative Commons License together with Lawrence Lessig, believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
+While studying at MIT, Swartz had access to the JSTOR database. Swartz believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
 
 ![Swartz in the JSTOR Server Room](img/aaron-swartz.png)
 
-The FBI knew Swartz from another case where he published documents of PACER[^pacer]. When they suspected him of wanting to puclish JSTOR documents they installed a camera in the server room and caught him on tape. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself, leaving no note.  
+The FBI knew Swartz from another case where he published legal documents of PACER[^pacer]. When they suspected him of wanting to publish JSTOR documents the FBI installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself under the pressure, leaving no note.  
 
-OPT:  
-How is this relevant?
+Aaron Swartz called himself a sociologist. In one of many blog posts[^blog] he writes that criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's take Reddit and compare that to Facebook, the platform become institute. The one nearly everyone seems to use.
 
-REN:  
-Well, it shows that he was an extremely intelligent and commited guy, that really had some ideas about public information. 
-
-Aaron Swartz called himself a sociologist. In one of his blog posts[^blog] he writes that institutes shape culture. He says criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's look at Reddit, and maybe compare it to FB.
-
-GON:  
-On Reddit, the system in place relies on a kind of direct democracy. It works with a voting system that works two ways. You can vote up and down. But it doesn't exclude all downvoted posts. There is a category for controversial posts which features content that have a small difference between up- and downvotes. Subreddits are there for specific topics. 
+## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
 
 REN:  
-It's content comes from users. The moderators are users and it seems to work. Unlike social networks that want your information to feed you back your own preferences into algorithms, the community learns from each other. 
-
-One element that makes it work I think is choice of content. On reddit, you decide what subreddits you subscribe to. Subreddits work around topics, not people. That's the first thing you do when you use the site. You subscribe to smaller communities on this huge message board system. The content comes first, and the people on the site make the discussion. 
-
-That leads to another aspect which makes reddit so succesful. In the process of delivering content to you, the advertisements stay out of your feed. The platform is essentially non-commercial. 
-
-GON:  
-I think the discussion part of it. Reddit trusts people! Which is a key element in open discussion, new ideas, critique, etc. I think design can learn from this basic element of trust. In many media that are prepared by graphic designers, the audience gets messages dumbed down so much that it almost misses its initial point. Trust your audience, ppl.
-
-In the end, reddit does a much better job in connecting people, and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own circles, which happens more often in Facebook's community. Ironically, all of our close friends are connected via Facebook while we meet new people on reddit. 
-
-Where reddit's content is filtered by people, Facebook uses algorithms. Reddit can be weird not because reddit is weird but becaue people are weird. Facebook has a lot of censorship and a new kind of content-picking. You only see stuff that is relevant to you.
-
-## EdgeRank
+Almost all of Reddit's posted content comes directly from users. A subbreddit is a community that is dedicated to one particular interest. You decide which subreddits you subscribe to. There are human moderators looking over their subreddits to keep order. Content can be up- or downvoted by users. The order of content in your feed is sorted by explicit votes from users. There is a special feed for controversy, where posts with a close up and down ratio are shown.    
 
 OPT:  
 So how does Facebook filter their content?
 
 REN:  
-Facebook works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is called an Edge. Every Edge gets a value, based on three things. Affinity score, weight and time. Nobody knows exactly how, but based on those values the items come into your newsfeed. 
+Where Reddit's content is filtered by people in a fairly direct way, Facebook uses algorithms. Facebook's feed works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is a so called Edge. Each Edge gets a value that is based on three things. Affinity score, weight and time. In practice, this means that each post is competing for a spot in your news feed. Already in 2007, 60 out of 30,000 possible stories were shown daily to users of Facebook[^wow].
 
-It has very serious consequences, especially because this means that if your edge doesn't score well, no one will see it.
+Facebook specialized this personalization process over the years. It's so good they had to start randomizing the process more because people were creeped out by the precision of the feed. The company furthermore is very keen on personalizing more than just the feed. Advertisements, location based content, third parties' apps, they all work with pre-knowledge of your behaviours as user. 
 
-So if you're looking through the filters of Facebook, these get echoed back to you. Guy Debord, an artist from the Situationist movement, went on trips to get lost. While he got lost, he would study the city. He called this psychogeography.  
+From a design point of view, the following is key: While Facebook boasts that it is _people-centric_[^people], Reddit does a much better job at _involving_ people. Facebook is comfortable, slick, personalized. Reddit less so, but it makes for a wider playing field. The user has more personal influence on what he/she sees. That influence makes the user feel like an explorer, not a spectator.
 
-Dériving on Facebook would be much less interesting than in the city. If you do it as yourself. You will just get stuck in loops of familiar people, familiar stories and links, it's really limiting.
+Facebook puts trust in technology, Reddit puts trust in people. As a designer these trust issues come up when working with digital media. Designers are always working for someone. The goal should not be to always please the people with the money, but to empower those who have vision, and to be a part of making something meaningful to people on a personal, not corporate scale. 
 
-_Other People Also Bought_[^other] is a really interesting artwork by Jonas Lund, it starts from one article on eBay and then moves to the next automatically recommende item. This would be much more targeted today than it would be in 2013 when they made this.
+In the end, Reddit does a much better job in connecting people and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own browsing behaviour, which happens more often in Facebook's community. The old design credo “Less is more” is applicable here in the way that less influence from above gives people more freedom to explore. Ironically, our close friends are connected via Facebook while we meet unknown people by common interest on Reddit. 
 
-The reinforcing effect is what I think is kind of scary. In a Science article in 2008[^carr-2], Evans noted that automated information-filtering tools, such as search engines, tend to serve as amplifiers of popularity, quickly establishing and then continually reinforcing a consensus about what information is important and what isn’t.
+## The Dérive
 
-## Fluff Buster's Purity
+GON:  
+This reminds me of something. Guy Debord, an artist from the international Situationist movement from the 50s on, defined the action of the dérive[^derive]. Literally translating to _drift_, the dérive is a type of getting lost, wandering aimlessly for periods ranging from several hours to several days or even weeks, only guided by urban space and observing the psychological states it invoked. It is a way of studying the emotional effects the city has. He called this _psychogeography_[^psychogeography]. 
 
-OPT:  
-I'm using this tool recently for Facebook that's called F.B. Purity. You can block keywords from your newsfeed. Not really liking it, it looks very Web 2.0. Facebook's interface is always changing so the tool can be pretty buggy.
+![A number of findings from the dérive were bundled into an anti-book in collaboration with Asger Jorn. The anti-book covers were made out of sandpaper, destroying every book that came in contact with it.](../img/anti-book.jpg)
+
+REN:  
+If you would dérive on Facebook, wouldn't it be infinitely less interesting than in the city? There is no way of escaping your own influence, unlike the city where you can be anonymous. You would get stuck in loops of familiar people, familiar stories and links. 
+
+GON:  
+Not entirely. I think the dérive could get new life in the digital context. Debord mentions the narrow experience citizens have of the city of Paris. The dérive is used to escape exactly that. Scrolling down the news feed is a type of wandering that is guided by Facebook's intentions. This _is_ the narrow experience that needs escaping. Imagine ‘going out’ online like you would IRL. Not to another party, but to another social media service. Your Instagram gang visiting the world of Reddit.
+
+And it is getting easier to change the behaviour of your personal Facebook experience. I'm using this tool recently for Facebook called F.B. Purity. I like the idea of it. You can block certain keywords from your newsfeed and customize how Facebook looks. It looks very old school though, and Facebook's interface is always changing so the tool can be pretty buggy.
 
 <figure id="fbpurity">
 <img src="img/f-b-purity.png"/>
@@ -81,18 +61,22 @@ I'm using this tool recently for Facebook that's called F.B. Purity. You can blo
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2VdNHiqOi2M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 REN:  
-Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stiuff usually do it on their own time and without any payment from anyone! This dude is focussing on the essentials to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath. It's fucking DIY!
+Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stuff usually do it on their own time and without any payment from anyone! This dude is focussing on the essentials to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath.
 
 OPT:  
-No, I think I'll give up on it. It takes me too much time to manually add the list items. I want someone or something to do that for me. It shouldn't be that hard, right?
-
-REN:  
-I'm not too sure about that. I don't think this guy has a big team or a lot of resources to develop it as professionally as a Silicon Valley startup would. But in that is a lot of value, this person is an idealist. It's underground and independent. 
+No, I think I'd never use that. User experience is key. It takes me too much time to manually add the list items. I want someone or something to do that for me. I use another tool called Detox[^detox] when I want to work. It fills my feed with news from selected sources so when I do flip over to Facebook, I won't get distracted by the daily food-shot of my neighbour.
 
 GON:   
-I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the hacks and stooges. 'Cause this is still showing the cracks in the pavement, right? Still showing that people notice that they aren't in control, and this is one way of taking it back, even when it is just a bit.
+You gotta love these efforts, right? Hail the clumsy solutions, the hacks and stooges.
+
+REN:  
+I like the F.B. Purity more than Detox. Detox seems cool but only works as a replacement. Purity let's you customize the entire feed. It's underground and independent. 
+
+Funny though, that also while a lot of parties try to make a profit online, there are so many free solutions to the problems that come with that. And the design solutions that used to be clumsy have become slick-looking. As the corporate internet grows more professional, so do its counter-movements. 
 
 [^pacer]: Public Access to Court Electronic Records
+
+[^manifesto]: Aaron Swartz, Guerilla Open Access Manifesto, [https://ia600808.us.archive.org/17/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf](https://ia600808.us.archive.org/17/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
 
 [^blog]: Aaron Swartz, _Sociology or Anthropology_, [http://www.aaronsw.com/weblog/socvanthro](http://www.aaronsw.com/weblog/socvanthro)
 
@@ -101,5 +85,15 @@ I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the ha
 [^carr-2]: Nicholas Carr, _The Shallows, What The Internet Is Doing To Our Brains_
 
 [^other]: Jonas Lund and Sebastian Scheming, _Other People Also Bought_, last checked 19 september [http://otherpeoplealsobought.com/](http://otherpeoplealsobought.com/)
+
+[^derive]: Guy Debord, _Theory of the Dérive_, 1958 [http://www.bopsecrets.org/SI/2.derive.htm](http://www.bopsecrets.org/SI/2.derive.htm)
+
+[^people]: _Mark Zuckerberg talks privacy controversies at D8 (2010)_ [https://youtu.be/GczC7q5NPrw](https://youtu.be/GczC7q5NPrw)
+
+[^wow]: admin, _Facebook’s News Feed Knows What You Did Last Summer_[http://www.adweek.com/socialtimes/facebook%E2%80%99s-news-feed-knows-what-you-did-last-summer/211479?red=if](http://www.adweek.com/socialtimes/facebook%E2%80%99s-news-feed-knows-what-you-did-last-summer/211479?red=if)
+
+[^psychogeography]: More precisely, psychogeography is defined as “The study of the specific effects of the geographical environment (whether consciously organized or not) on the emotions and behavior of individuals” [http://www.cddc.vt.edu/sionline/si/definitions.html](http://www.cddc.vt.edu/sionline/si/definitions.html)
+
+[^detox]: [http://usedetox.com/index.html](http://usedetox.com/index.html)
 
 <footer></footer>

@@ -276,6 +276,10 @@ p.notifications {
 	padding: 2px 3px; 
 }
 
+.notifications.people, .notifications.quotes, .notifications.world {
+	display: none;
+}
+
 p.notifications.people {
 	position: absolute;
 	left: 22px;
@@ -292,23 +296,23 @@ p.notifications.world {
 }
 
 .tooltip {
-	right: -100000px;
-	position: absolute;
-	top: -9px;
+	right: -80px;
+	position: fixed;
+	top: 45px;
 	z-index: 99999;
 	width: 20px;
 }
 
 .tooltip.world {
-	right: 8px;
+	right: 128px;
 }
 
 .tooltip.quotes {
-	right: 41px;
+	right: 161px;
 }
 
 .tooltip.people {
-	right: 74px;
+	right: 194px;
 }
 
 .tooltip img {
@@ -316,20 +320,30 @@ p.notifications.world {
 	height: auto;
 }
 
-.slot-machine-wrapper {
+.notifications-wrapper {
 	position: fixed;
-	width: 230px;
-	height: 260px;
+	width: 400px;
+	height: 580px;
 	background-color: white;
 	right: 120px;
 	top: 55px;
 	border-radius: 5px;
-	background-image: url(experiment/services/img/dpr.jpg);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 	display: none;
+	overflow: scroll;
 }
+
+.notifications-wrapper .content {
+	height: 100px;
+	margin: 1px 4px;
+	border: 1px solid black;
+} 
+
+.notifications-wrapper .content:first-of-type {
+	margin: 4px 4px 1px 4px;
+} 
 
 .icons {
 	position: fixed;
@@ -598,7 +612,7 @@ p.notifications.world {
 		max-width: 100% !important;
 	}
 
-	.profiles-wrapper, .landing-wrapper, .slot-machine-wrapper, .icons, video:not(#webcam), iframe, #structure, #section a, #bulk, #thesis, #print, hr {
+	.profiles-wrapper, .landing-wrapper, .notifications-wrapper, .icons, video:not(#webcam), iframe, #structure, #section a, #bulk, #thesis, #print, hr {
 		display: none !important;
 	}
 

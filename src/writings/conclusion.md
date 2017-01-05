@@ -1,10 +1,10 @@
 #CONCLUSION
 
-Thanks for reading. I know it wasn't a comfortable ride. The conversations of Optimo, Gonzo and the Renegade still take some editing, cutting and pasting to come across better.
-
 In my research I've been all over the place. Now I want to distill some of the things I've learned.
 
 People are often totally self-responsible for what they do and have to design their life with technology. Some pitfalls come from technology that designers, but also just people should be aware of. 
+
+
 
 - Oversimplification. Very handy in programming, not so handy IRL (In Real Life). Trust your audience, they have an imagination. They don't read barcodes, they read stories, ideas, jokes. 
 - Distraction for the sake of distraction. 

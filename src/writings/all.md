@@ -5,7 +5,17 @@ ___
 
 Manus Nijhoff, GOVT4A
 
-<footer></footer>Mon Dec 12 11:06:00 2016
+<footer></footer>#Table of contents
+
+- ## Introduction
+- ## Abstract
+- ## Chapter 1: As I Walk Through the Silicon Valley
+- ## Chapter 2: Big, Complex Web
+- ## Chapter 3: Filter Troubles
+	- ## The Parable of Sweating Mark Zuckerberg
+- ## Chapter 4: Fleeting Time
+- ## Chapter 5: Self
+- ## Conclusion
 
 Logged in:
 Gonzo (GON), Optimo (OPT), The Renegade (REN)
@@ -67,7 +77,24 @@ This team never met up IRL yet. For a couple of years, they have been discussing
 
 [^wiki]: History of the Internet on Wikipedia, [https://en.wikipedia.org/wiki/History_of_the_Internet](https://en.wikipedia.org/wiki/history_of_the_Internet)  
 
-<footer></footer>GON:  
+<footer></footer>#Abstract
+
+This thesis is a scripted discussion between three characters: Gonzo, Optimo and the Renegade. These represent attitudes towards technology I have interpreted from people in design, technology and journalism. They discuss problems that occur in the overlap between designer and user with applications that have emerged from the internet in the last decades. The chapters move from a general overview into more specific issues towards the end of the thesis, inspecting different scales of influence. The influence of the designer is constantly questioned by looking critically at problems, as well as their proposed solutions.  
+
+##As I Walk Through the Silicon Valley
+Silicon Valley is world leader with its big commercial technology companies. These companies’ impact on daily life is substantial. Data is traded with cooperations and passed through to government for surveillance. On the personal level, a new ideal of success has come to be, where technological mastery equals progress. How does that ideal influence design and does it work?   
+
+##Big Complex Web
+The systems supporting and supported by the internet are an enormous new reality. In looking at technology, understanding or not understanding the driving forces is a new problem. Users are being kept in the unknown with extremely simplified interfaces. At the same time, the back-end (supporting systems) are so complex that their makers start to develop a new, more biological attitude towards it. How do designers deal with this new complexity?  
+
+##Filter Troubles
+Social media are the human heart of the internet’s technological body. The characters discuss and compare Reddit and Facebook in order to weigh their pros and cons. Personalization means less personal influence over what one sees but is at the same time impossible to avoid. Looking also at the histories of how these two social networks emerged, paradoxes emerge and raise the question how an online community should be designed.  
+
+##Fleeting Time
+For a long time, researchers have been discussing whether internet addiction should be considered real. Whether this is the case remains unclear. In interface design however, designers oftentimes use techniques that provoke behaviours which come back in other addictions. The characters discuss and compare multiple tools and movements that have been designed to help users in their struggle with online media use.
+
+##Self Sufficient
+Personal efficiency has been fueled on by services from the internet. A look into two products in the food industry offers again some paradoxes of influence. This time the product and its consumers. First is a powder food replacement which is designed to be as efficient as possible for the human body and is also developed for a more sustainable future of food. Second is Amazon’s Dash project, an internet of things application which lets consumers order food with the push of one button. The optimization advantages of both are discussed. What is better for users? What allows user influence? GON:  
 So, how's life?
 
 OPT:   
@@ -293,16 +320,12 @@ Regular users should know that all of our technology can fail. The world as a be
 [^kiva]: _Amazon warehouse robots_, [https://youtu.be/quWFjS3Ci7A](https://youtu.be/quWFjS3Ci7A)
 [^pick]: _A Day in the Life of a Kiva Robot_, [https://youtu.be/6KRjuuEVEZs](https://youtu.be/6KRjuuEVEZs)
 
-<footer></footer>
+<footer></footer># Filter Troubles 
 
-# Filter Troubles 
-
-## OPTIMIZING COMMUNITIES
+## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
 
 REN:  
 A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing, so let's discuss the makeable online community.
-
-## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
 
 GON:  
 I'm a big fan of Reddit. It's a social news platform spanning about every topic you can imagine. Sports, politics, help groups, the full monty. It's called social news for its ranking system. Users upvote or downvote news that they find good or interesting and earn karma points for participating in the community. 
@@ -311,39 +334,24 @@ OPT:
 I never got around to using Reddit. The interface just isn't comfortable for me.
 
 GON:  
-It takes some patience to get into it, but once you're in there you'll wonder how you ever did without it! 
+It takes some patience to get into it, but once you're in there you'll wonder how you ever did without it.
 
 REN:  
-Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz. At a very young age he was already involved in developing the web feed format RSS and the Markdown publishing format. He was an activist for freedom of speech online and he co-founded Reddit. 
-
-He also was an activist. Someone who cared about the societal impact of the internet. While studying at MIT, Swartz had access to the JSTOR database. Swartz, who also constituted the Creative Commons License together with Lawrence Lessig, believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
+Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz. At a very young age he was already involved in developing the web feed format RSS and the Markdown publishing format. He was an activist for freedom of speech online and he co-founded Reddit. He cared about the societal impact of the internet. While studying at MIT, Swartz had access to the JSTOR database. Swartz, who also constituted the Creative Commons License together with Lawrence Lessig, believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
 
 ![Swartz in the JSTOR Server Room](img/aaron-swartz.png)
 
-The FBI knew Swartz from another case where he published documents of PACER[^pacer]. When they suspected him of wanting to puclish JSTOR documents they installed a camera in the server room and caught him on tape. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself, leaving no note.  
+The FBI knew Swartz from another case where he published documents of PACER[^pacer]. When they suspected him of wanting to publish JSTOR documents they installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself, leaving no note.  
 
-OPT:  
-How is this relevant?
+Aaron Swartz called himself a sociologist. In one of his blog posts[^blog] he writes that institutes shape culture. He says criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's look at Reddit, and compare that to Facebook, a platform more of us use.
 
-REN:  
-Well, it shows that he was an extremely intelligent and commited guy, that really had some ideas about public information. 
+On Reddit, the system in place relies on a kind of direct democracy. There is a voting system that works two ways. A post can be up- and downvoted. The posts with the most upvotes make it to the top of the feed. There is also a category for controversial posts which features content that has a small difference between up- and downvotes. 
 
-Aaron Swartz called himself a sociologist. In one of his blog posts[^blog] he writes that institutes shape culture. He says criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's look at Reddit, and maybe compare it to FB.
+Reddit's content comes from users. There are human moderators who are users themselves. Unlike social networks that want your information to feed you back your own preferences into algorithms, the community learns from each other.
 
-GON:  
-On Reddit, the system in place relies on a kind of direct democracy. It works with a voting system that works two ways. You can vote up and down. But it doesn't exclude all downvoted posts. There is a category for controversial posts which features content that have a small difference between up- and downvotes. Subreddits are there for specific topics. 
-
-REN:  
-It's content comes from users. The moderators are users and it seems to work. Unlike social networks that want your information to feed you back your own preferences into algorithms, the community learns from each other. 
-
-One element that makes it work I think is choice of content. On reddit, you decide what subreddits you subscribe to. Subreddits work around topics, not people. That's the first thing you do when you use the site. You subscribe to smaller communities on this huge message board system. The content comes first, and the people on the site make the discussion. 
+One element that makes it work I think is choice of content. On Reddit, you decide what subreddits you subscribe to. A subbreddit is a subcommunity that is dedicated to one particular interest. So the content comes first, and the people on the site make the discussion. 
 
 That leads to another aspect which makes reddit so succesful. In the process of delivering content to you, the advertisements stay out of your feed. The platform is essentially non-commercial. 
-
-GON:  
-I think the discussion part of it. Reddit trusts people! Which is a key element in open discussion, new ideas, critique, etc. I think design can learn from this basic element of trust. In many media that are prepared by graphic designers, the audience gets messages dumbed down so much that it almost misses its initial point. Trust your audience, ppl.
-
-In the end, reddit does a much better job in connecting people, and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own circles, which happens more often in Facebook's community. Ironically, all of our close friends are connected via Facebook while we meet new people on reddit. 
 
 Where reddit's content is filtered by people, Facebook uses algorithms. Reddit can be weird not because reddit is weird but becaue people are weird. Facebook has a lot of censorship and a new kind of content-picking. You only see stuff that is relevant to you.
 
@@ -365,6 +373,13 @@ _Other People Also Bought_[^other] is a really interesting artwork by Jonas Lund
 
 The reinforcing effect is what I think is kind of scary. In a Science article in 2008[^carr-2], Evans noted that automated information-filtering tools, such as search engines, tend to serve as amplifiers of popularity, quickly establishing and then continually reinforcing a consensus about what information is important and what isn’t.
 
+GON:  
+I think the discussion part of it. Reddit trusts people! Which is a key element in open discussion, new ideas, critique, etc. I think design can learn from this basic element of trust. In many media that are prepared by graphic designers, the audience gets messages dumbed down so much that it almost misses its initial point. 
+
+In the end, Reddit does a much better job in connecting people, and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own circles, which happens more often in Facebook's community. Ironically, all of our close friends are connected via Facebook while we meet new, unknown people by interest on Reddit. 
+
+The internet is a very good tool for linking and indexing personal preference and 
+
 ## Fluff Buster's Purity
 
 OPT:  
@@ -378,7 +393,7 @@ I'm using this tool recently for Facebook that's called F.B. Purity. You can blo
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2VdNHiqOi2M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 REN:  
-Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stiuff usually do it on their own time and without any payment from anyone! This dude is focussing on the essentials to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath. It's fucking DIY!
+Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stuff usually do it on their own time and without any payment from anyone! This dude is focussing on the essentials to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath. It's fucking DIY!
 
 OPT:  
 No, I think I'll give up on it. It takes me too much time to manually add the list items. I want someone or something to do that for me. It shouldn't be that hard, right?
@@ -399,9 +414,7 @@ I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the ha
 
 [^other]: Jonas Lund and Sebastian Scheming, _Other People Also Bought_, last checked 19 september [http://otherpeoplealsobought.com/](http://otherpeoplealsobought.com/)
 
-<footer></footer>
-
-#Fleeting Time
+<footer></footer>#Fleeting Time
 
 ##(OPTIMIZING TIME)
 

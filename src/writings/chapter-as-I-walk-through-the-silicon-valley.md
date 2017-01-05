@@ -1,21 +1,9 @@
-GON:  
-So, how's life?
-
-OPT:   
-Easy, and with you?
-
-GON:  
-Good, I just finished a marathon viewing of game developers conferences. 
-
-REN:  
-Always something on the horizon with you. What else do you have in store?
+The Renegade and Gonzo outline the characteristics of Silicon Valley. Optimo sees the bright side. 
 
 # As I walk through the Silicon Valley
 
-## (INTRODUCING THE TECH INDUSTRY)
-
 GON:  
-Have you seen the new HBO series Silicon Valley? I can totally recommend it. If you're interested in the birthplace of GAFAM and the insane climate there, it's worth watching.
+Have you seen the new HBO series Silicon Valley? I can totally recommend it. If you're interested in the birthplace of GAFAM and the insane business climate there, it's worth watching.
 
 > “In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success”.  
 > Description of HBO comedy series _Silicon Valley_ 
@@ -23,7 +11,7 @@ Have you seen the new HBO series Silicon Valley? I can totally recommend it. If 
 OPT:  
 What's GAFAM?
 
-REN:  
+GON:  
 Bruce Sterling, writer of cyberpunk novels and design critic, argued in 2014 that it doesn't make sense to still talk about the internet[^sterling]. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense. These companies have been shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
 
 I was overthinking this quote. These are the people setting our defaults, right? Let's call it defaultism. People love consistency. We say we want change, but we also want everything to remain the same. Defaultism describes the happiness and wilingness of people to use an unchanged, working design without question. 
@@ -58,9 +46,7 @@ OPT:
 So, besides GAFAM, what else is happening in the Silicon Valley?
 
 REN:  
-There is a big startup culture. A startup is essentialy nothing more than a beginning company. In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
-
-Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. Or lost. The pace of business is high.
+There is a big startup culture. A startup is essentialy nothing more than a beginning company. Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. Or lost. The pace of business is high. In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
 
 These startups are often funded with money from Venture capitalists or Angel Investors. VC's are institutions, Angel Investors are individuals who put their money in the company and act as a kind of business mentor.
 

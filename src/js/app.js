@@ -8,20 +8,18 @@
   var clicked
 
   global.$ = require('jquery')
+  // Referencing jquery to be recognized from loading from module
+  window.jQuery = $
 
-
-  var somefunction = require('./somefunction.js');
-somefunction();
-  window.jQuery = $;
-
+  // var somefunction = require('./somefunction.js');
+  // somefunction()
+  
   function randomInterval (min, max) {
   	console.log('randomInterval called')
     return Math.floor(Math.random() * (max - min + 1) + min)
   };
 
   function scrollToElement (col, el, ms) {
-
-
 
     console.log('scrollToElement called. Going to: ' + $(el).offset().top)
 
@@ -37,7 +35,6 @@ somefunction();
     });
 
   }
-
 
   function isElementInViewport (el) {
 
@@ -168,26 +165,42 @@ somefunction();
 
   }
 
+  function notifyUp(lastClass, thisId) {
+    $('.notifications.' + lastClass + '').show().html(function(i, val){
+      return val * 1 + 1
+    })
+    // check for matching element
+    var el = $('.notifications-wrapper').find("[data-link='" + thisId + "']")
+    el.addClass('unlocked')
+
+  }
+
+
   function showNotifications() {
 
     // check current clicked element
     var current = $(this).attr('class')
   	console.log(clicked, current)
 
-    if(current === clicked && $('.slot-machine-wrapper').is(':visible') ) {
-      $('.slot-machine-wrapper').hide()
+    if(current === clicked && $('.notifications-wrapper').is(':visible') ) {
+      $('.notifications-wrapper, .tooltip').hide()
     } else {
-      $('.slot-machine-wrapper').show()
+      $('.notifications-wrapper, .tooltip').show()
     }
 
     clicked = current
 
+    $('.content').hide()
+
   	if(current === 'people') {
       	$('.tooltip').removeClass().addClass('tooltip people')
+        $('.people > .content.unlocked').show()
   	} else if( current === 'quotes' ) {
       	$('.tooltip').removeClass().addClass('tooltip quotes')
+        $('.quotes > .content.unlocked').show()
   	} else if (current === 'world' ) {
       	$('.tooltip').removeClass().addClass('tooltip world')
+        $('.world > .content.unlocked').show()
   	}
 
   }
@@ -196,7 +209,7 @@ somefunction();
 
     console.log('hide')
 
-    $('.slot-machine-wrapper').hide()
+    $('.notifications-wrapper').hide()
 
   }
 
@@ -204,7 +217,7 @@ somefunction();
 
     var currentClass
 
-    $('p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author').each(function( index ){
+    $('p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author, .notifications').each(function( index ){
       if ( $(this).attr('class') === 'gon' || $(this).attr('class') === 'opt' || $(this).attr('class') === 'ren' ) {
         currentClass = $(this).attr('class')
       } else {
@@ -303,14 +316,31 @@ somefunction();
 	    $('#all').load('html/print.html', printStyles)
 
 	    $('.people, .quotes, .world').on('click', showNotifications)
-        $('.wrapper').not('.icons').on('click', hideNotifications)
+      $('.wrapper').not('.icons').on('click', hideNotifications)
 
         $(window).on('scroll', function(){
 
             $('.footnoteRef').each(function(){
-                var isVisible = isElementInViewport(this);
+                var isVisible = isElementInViewport(this)
                 if(isVisible){
-                    console.log(this);
+                  if(!$(this).hasClass('done')){
+                    
+                    // check which extra class
+                    var lastClass = $(this).attr('class').split(' ').pop();
+                    var thisId = $(this).attr('id')
+
+                    if( lastClass === 'people' ){
+                      console.log(lastClass)
+                      notifyUp(lastClass, thisId)
+                    } else if ( lastClass === 'quotes' ) {
+                      console.log(lastClass)
+                      notifyUp(lastClass, thisId)
+                    } else if ( lastClass === 'world' ) {
+                      console.log(lastClass)
+                      notifyUp(lastClass, thisId)
+                    }
+                    $(this).addClass( 'done' ) 
+                  }
                 }
             })
 

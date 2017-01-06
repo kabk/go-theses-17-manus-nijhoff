@@ -57,6 +57,31 @@ You're absolutely right. Looking at the production process, they are handling th
 GON:  
 I just want to stress that the rituals around food are getting lost from ordering in and using these super individualistic rations. There's one missing ingredient in Soylent if you ask me and that's love. ❤️ Really! Friendships and relationships are kept through eating together. It's more key to food than salt. I mean, would you serve this food to your friends? 
 
+## SMART
+
+REN:  
+Pants
+
+GON:
+Alright, let's see. Athos. Raised $35 million[^tech] in November 2015 and are working on smart pants.
+
+> “Athos. Building a better human machine.”  
+> Scott Anderson, Director of Athletic Training at Stanford University
+
+A company from the United States called Athos is now selling wearables (wearable technology) that use small EEG sensors to measure muscle activity and give you real-time information about your sports routine. It uses science to convince and athletes to model for their commercials.
+
+![Athos pants](img/athos-pants.png)
+
+Benjamin Bratton is professor of visual arts and director of the center for design and geopolitics at the University of California, San Diego. 
+
+In 2013 he gave a very insightful talk at TEDx San Diego[^bratton]. TED is a non-profit organization that originated in California. They organize conferences where speakers talk about their personal involvement in Technology, Entertainment and Design (T-E-D) and more. Usually a TED speaker will give an insight into a technology they are developing, a project they initiated with a focus how that helps society. The format is key to their existence. Videos have to be under 18 minutes long so they can be uploaded and watched by a big audience online.
+
+Benjamin Bratton used the stage to critique the format TED uses. He argued that TED is not really critical towards technology. Instead, the institution books speakers that tell incredible stories of how technology changes the world while these visions do not always come true. He calls this ‘toying with technoradicalism.’ Bratton says TED has _faith in_ technology but not enough _commitment to_ technology. The institute puts too much emphasis on the optimal condition. It lacks sharp critique.
+
+Instead, Bratton makes a case for design as immunisation. Design, he says, should not only focus on innovation but also on making ourselves immune for the things we don't need.
+
+I don't know if we need the new pants from Athos. But the problem Bratton addresses towards TED and things like wearables and the Internet of Things do make me take a double take. What's the use of knowing exactly what each muscle does? The makers as well as users of technology put heaps of faith in the products, especially when they appear smart. 
+
 ## Interface and User connection
 
 OPT:  
@@ -66,15 +91,25 @@ Dash is a button you order from Amazon. Every button is dedicated to one single 
 
 ![Amazon Dash x Red Bull](img/dash-red-bull.jpg) 
 
-Voila, a subscription to Red Bull. Just like the milkman back in the days, you now can expect a Red Bull servant on your doorstep whenever you want. 
-
 People have hacked this little device already to do all sorts of things. From playing a video to setting the mood by dimming lights in the house, to whatever you can imagine a remote control to do.
 
 But here again Bratton's design as immunisation can be applied. Do we really need this? 
 
+
+
+
+
+
 [^people]: Soylent Green is People!!! [https://youtu.be/9IKVj4l5GU4](https://youtu.be/9IKVj4l5GU4)
+
 [^room]: _Make Room! Make Room!_ on Wikipedia [https://en.wikipedia.org/wiki/Make_Room!_Make_Room!](https://en.wikipedia.org/wiki/Make_Room!_Make_Room!)
+
 [^community]: Soylent on Disqus [https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8](https://discourse.soylent.com/t/i-heard-there-was-a-shortage-of-soylent-i-have-some-1-5-i-need-to-sell/26524/8)
+
 [^diy]: [https://diy.soylent.com/](https://diy.soylent.com/)
+
+[^tech]: [https://techcrunch.com/2015/11/18/athos-pushes-up-to-51-million-in-the-bank-with-funding-from-chamath-palhapitayas-socialcapital/](https://techcrunch.com/2015/11/18/athos-pushes-up-to-51-million-in-the-bank-with-funding-from-chamath-palhapitayas-socialcapital/)
+
+[^bratton]: Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_, [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 
 <footer></footer>

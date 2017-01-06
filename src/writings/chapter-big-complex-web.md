@@ -1,87 +1,78 @@
-# COMPLEX WEB, BORING INTERNET
+# BIG, COMPLEX WEB
 
-The Renegade and Gonzo are amazed by the complexity of the internet. With Optimo, they talk about the way users and designers can deal with this complexity.
+The Renegade and Gonzo are amazed by the complexity of the internet. They discuss ways companies handle work behind the screens and wonder if we can learn from that. With Optimo, they talk about the way users and designers can deal with this complexity.
 
-## fascination with big systems
-
-Systems have gotten really big. It is fascinating
-
-## robots
+## THE SHAPE OF THE CLOUD
 
 GON:  
-I love watching this video of the sorting robots in Amazon's warehouses. How they find their own way through the warehouse is super satisfying to watch. The precision is amazing.[^kiva]
-
-At Amazon, the warehouses no longer store items sorted in any way. Rather, the objects are placed on the shelves according to what's _fastest_. Robots carry moving shelves that bring the items needed to ‘pick-workers’ that take the items out of the closets and pack them for sending. The robot finds its own way through the warehouse. This way they can process an order from click to send sometimes in less than 15 minutes. And Amazon has 21 million different items for sale. It doesn't need walk space so the warehouse is more densely populated with goods. Scalable as hell.
-
-> “Pick, scan, pack. We try to simplify their life and hide the technology. All Kiva Pick workers are happy pick workers.” [^pick]
-
-![The Amazon picking process](img/amazon-picker.jpg)
+The scale of the internet is something mind-boggling. Everytime I use the internet, I'm surprised it works.
 
 REN:  
-It's really beautiful. The only thing about it that is a shame, is how users are being kept in the dark
-
-REN:  
-Okay. I'm just saying: the internet is always changing, and it's easy to think it's always the giant versus the tiny developer or user or designer. It's is very uninspiring. It doesn't make sense. 
-
-
-
-## post-internet sentiment
-
-GON:  
-That sentiment reminds me of this critique that Brian Droitcour has about Post-Internet art.[^droitcour] Things can change, as long as there are some people with some real ideas, and that keep an open mind to changes.
-
-> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
-> — Brian Droitcour
-
-
-
-## centralization issues
-
-Silicon Valley has come to stand for a centralization of tech-power. In June 2013, Edward Snowden, a former employee of defense contractor Booz Allen Hamilton leaked a great amount of files of the United State's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using this data. Governments like this centralized power because it's easy access for them.
-
-This is a dark side of a centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is the access to Silicon Valley's major servers, where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. 
-
-![PRISM, the NSA's monitoring project explained. Here we see which companies provided data to the NSA](img/prism.jpg) 
-
-GON:  
-This has some heavy implications. What if you disagree with that? If even kicking over that system means that it can learn from its mistakes and regenerate? It's great if you own that server, but what about all of us that don't? What can you do to be subversive?
-
-REN:  
-One of the problems is the centralized network. An alternative could be a distributed network. A centralized network has a big, central server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, all files are stored on parts of the network. 
-
-I've been following the developments of Bitcoin - a cryptocurrency - and with that, the blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives. It's complex, but that's the gist of it.[^blockchains]
-
-I'm not really convinced that this will solve the entire centralisation of power issue. Blockchains are also being developed by banks, that want to use it in a closed system. 
+I agree. The back end is the place where it all happens. What happens there is the really amazing part of the internet. The back end are the hidden processes, the calculations and programs running for front end services.
 
 OPT:  
-But that's unavoidable. Lots of institutions have private networks, they need those. If we say internet should be open it does not mean it can't be private.
+Tech companies develop products with scalability in mind. Scalability is the ability of a system to become more efficient or optimal when its application grows. Take for example a search engine. The more content it searches, the more interesting the search engine is for its users. Google for ten things is not as useful as Google for a million things, and this becomes more true the bigger we go. How scaling works technically can be extremely complex, so as a user we almost never see processes behind our actions. We see the front end of a process in the shape of an interface, the work happens in The Cloud. 
 
-I'm just curious to see what will happen on smaller scale, how people will use distributed networks and if they can replace parts of centralised networks that don't work. 
+GON:  
+It's so weird they call the back end ‘The Cloud’. That's misleading users: The Cloud is physical. It is server farms, interconnected via cables. I say wireless is only a half-truth when there are strings attached. 
 
+## ROBOTS SERVING HUMANS
 
+OPT:  
+I love watching this video[^kiva] of the sorting robots in Amazon's warehouses. How they find their own way through the warehouse is marvelous to see.
 
+<figure id="kiva">
+<img src="../../img/kiva.png"/>
+<figcaption>The Kiva robots are a good example of how software has shaped the physical world. These robots are an essential part of the Amazon delivery chain and boost delivery speed.</figcaption>
+</figure>
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/quWFjS3Ci7A?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Now, one of the places where scalability makes a huge difference is the back-end of big services and platforms. For instance Netflix or Amazon. Those companies have gigantic server structures to make their service possible. They call it The Cloud. The Cloud is servers spinning on a rack, interconnected via cables. Wireless is only a half-truth. There are strings attached.
+The warehouses no longer store items sorted for humans. Instead, the objects are placed on the shelves according to what is fastest. The system knows what shelves carries which item, the robots carry those shelves to ‘pick-workers’ that take the items out of the shelves and pack them for sending. The robot finds its own way through the warehouse. They can do this without bumping into other robots or human beings. 
 
+This way they can process an order from click to send sometimes in less than 15 minutes. Amazon has 21 million different items for sale. The warehouse needs less walking space, because humans don't need to walk through aisles anymore. This operation is scalable as hell.
 
+You'll see the worker doesn't have to do much of anything anymore. The entire system is developed to make human work as simple as possible.
+
+> “Pick, scan, pack. We try to simplify their life and hide the technology. All Kiva Pick workers are happy pick workers.”
+> Mick Mountz, CEO of Kiva Systems [^pick]
+
+![In this image, the effect of the robotic system on the job of an Amazon pick worker is shown. Effectively, the employee only has to reach an arm out, and the robot has brought the item ready for retrieval.](img/amazon-picker.jpg)
+
+REN:  
+Wow, I wouldn't want to be one of those. Let me play with the code of those bots, though.
+
+GON:  
+Amazing about this is the system itself. It's impressive how they got all of this to run so smoothly. Even though the pick workers have a bit of a boring job, the comparison is easily made with picking stuff from trees, how nice of a job was that? And this means less hard work. Less bending over, reaching, easy money, no? 
+
+## CENTRALIZATION ISSUES
+
+REN:  
+So, let's talk big safety problems now. In June 2013, Edward Snowden, who worked for the NSA-affiliated defense contractor Booz Allen Hamilton leaked a great amount of files of the USA's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using back doors to big service providers on the internet.
+
+This is a dark side of a big centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is the access to Silicon Valley's major servers, where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. Governments like this centralized power because it's easy access for them. 
+
+The structure of the internet hasn't changed much since the beginning. Files are stored on a central server, for instance one from Google. When using Google, all traffic runs through that server and all information is in one place.
+
+![One of the slides of the NSA that Ed Snowden released. Here we see which companies provided data to the NSA](img/prism.jpg) 
+
+REN:  
+It's a pretty serious problem. As designers, we should be aware of these kind of issues in the media. And I think we should start at the very root of the problem. One of the problems is the centralized network. 
+
+An alternative could be a distributed network. A centralized network has a big, central server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, files are stored on parts of the network. 
+
+I've been following the developments of Bitcoin - a cryptocurrency - and with that, the Blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives.[^blockchains] 
+
+In a direct way, this does not solve any problems. But it allows for new beginnings, and a new type of internet which is more equal and distributed, instead of controlled centrally by one or a handful of parties.
 
 ## The Chaos Monkey
 
-OPT:  
-True story: Netflix has been releasing monkeys[^simian] inside their server centers that wreak havoc and shut down parts of their systems. It started with one monkey, but soon an entire legion of apes was formed, each one trained to break another part of the servers. In 2012 Netflix released an open source version of this Simian Army[^simian-open].
-
-![Netflix' Simian Army](img/simian-army.png)
-
-GON:  
-Sounds interesting... Are you talking about this ‘Simian Army’ thing?
-
 REN:  
-Yeah, exactly. Oh, I should mention this is a metaphor, right? The software suite contains different programs that shut down different things. The approach is called “Chaos Monkey”.
-
 The Chaos Monkey periodically takes subsystems out of commision and sees how it responds. The idea is to lower the gap between how Netflix expects the system to work and how the system actually works. In biology this is how you learn about a living thing. Actively trying to mutate it is a biological technique.
 
 A lot of programming is now what we call procedural. Basically what that means is for the programmer to predict enough states so the computer can do the calculation. If this happens, do that.
+
+![Netflix' Simian Army](img/simian-army.png)
 
 With deep learning comes another, probabalistic reasoning system. If I see this input, I _think_ I should do that. 
 
@@ -126,16 +117,20 @@ Regular users should know that all of our technology can fail. The world as a be
 
 
 
+[^kiva]: _Amazon warehouse robots_, [https://youtu.be/quWFjS3Ci7A](https://youtu.be/quWFjS3Ci7A)
 
-
+[^pick]: Mick Mountz, _A Day in the Life of a Kiva Robot_, [https://youtu.be/6KRjuuEVEZs](https://youtu.be/6KRjuuEVEZs)
 
 [^simian]: Jon Brodkin, _Netflix attacks own network with “Chaos Monkey” – and now you can too_ [http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/](http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/)
+
 [^simian-open]: (software) Netflix, _Simian Army_, [https://github.com/Netflix/SimianArmy](https://github.com/Netflix/SimianArmy)
+
 [^a16z]: (podcast) a16z Podcast: _It's Complicated_ [https://soundcloud.com/a16z/complexity](https://soundcloud.com/a16z/complexity)
+
 [^nsa]: Google Edward Snowden, it's everywhere. For a really good insight in his position against big NSA there is an amazing documentary: Laura Poitras, _Citizenfour_, [http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi](http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi)
+
 [^blockchains]: Vinay Gupta, _Programmable Blockchains in Context_ [https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp](https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp)
+
 [^droitcour]: Karen Archey and Robin Peckham, _Art Post-Internet: INFORMATION / DATA_, 2014
-[^kiva]: _Amazon warehouse robots_, [https://youtu.be/quWFjS3Ci7A](https://youtu.be/quWFjS3Ci7A)
-[^pick]: _A Day in the Life of a Kiva Robot_, [https://youtu.be/6KRjuuEVEZs](https://youtu.be/6KRjuuEVEZs)
 
 <footer></footer>

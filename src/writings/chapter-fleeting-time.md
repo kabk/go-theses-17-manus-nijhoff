@@ -1,8 +1,14 @@
 #Fleeting Time
 
-##(OPTIMIZING TIME)
+Optimo calls social media addictive. Gonzo doesn't want to accept, the Renegade backs Optimo up.
 
-GON:
+##(OPTIMIZING TIME)
+ 
+> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
+> — Brian Droitcour [^droitcour]
+
+
+OPT:
 Alright, so I was reading about machine gambling in Vegas[^schull] and I saw lots of parallels to the internet. Check it out: machine gambling developers are always trying to optimize the time people stay on their device. It doesn't even matter how much they win / lose. As long as they keep coming and come for long amounts of time, these companies keep gaining. 
 
 The crazy thing is that it does not stop there. They are all-inclusive strategies. Using the architecture of the casinos, the layout of the city. It all contributes to this magical abbreviation: T.O.D., _Time On Device_.
@@ -13,7 +19,7 @@ REN:
 So you can call social media an addiction?
 
 OPT:  
-It is tricky to call it an 'addiction' because it still is a social network. Would you say you're addicted to your friends?
+Yes
 
 GON:  
 No, but I would say some media have been made so tempting to use that it's almost impossible not to. 

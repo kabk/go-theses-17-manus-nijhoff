@@ -60,11 +60,11 @@ It's very interesting to show the builder's side of the story to users. But I th
 
 ## Decentralization
 
-Silicon Valley has come to stand for a centralization of tech-power. In June 2013, Edward Snowden, a former employee of defense contractor Booz Allen Hamilton leaked a great amount of files of the United State's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using this data.
+Silicon Valley has come to stand for a centralization of tech-power. In June 2013, Edward Snowden, a former employee of defense contractor Booz Allen Hamilton leaked a great amount of files of the United State's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using this data. Governments like this centralized power because it's easy access for them.
 
-This is the dark side of a centralized internet. One part of that is the strong influence of the United States' secret service, which may be strong. But another thing that made it possible for the NSA to spy on the world is the access they had to Silicon Valley's major servers, where personal data was stored. Microsoft, Facebook, Google, Skype, you name it. 
+This is a dark side of a centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is the access to Silicon Valley's major servers, where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. 
 
-![PRISM slide explaining which companies provided data](img/prism.jpg) 
+![PRISM, the NSA's monitoring project explained. Here we see which companies provided data to the NSA](img/prism.jpg) 
 
 ## Blockchain
 

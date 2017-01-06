@@ -1,0 +1,9 @@
+#The Parable of Sweating Mark Zuckerberg
+
+Mark Zuckerberg outsmarted his private coding tutors since the '90s without breaking a sweat. In high school Mark Zuckerberg was the captain of his fencing team. Sweating was something you did behind the mask, faceless, or after the action. Mark Zuckerberg sat cool and dry in his dormitory in 2004 when he launched TheFacebook. Early summer 2007 and Mark Zuckerberg still kept his cool even as he sat in court weighed on by accusations of stealing the idea for Facebook.  
+
+But at the All Things Digital conference in 2010, Mark Zuckerbergs armpits were sweating in his hoodie. Sat in the hot seat, he answered questions about Facebook’s privacy issues.
+
+“Why don’t you take off the hoodie?” — Facebook started out as so much fun, he thought, but it just got so big, and now he was responsible for so many people. He didn’t know where to look. “But I never take off the hoodie.” — “Well, can you explain what this instant personalization thing is about?” — Making the world more open and connected, sweating Mark Zuckerberg thought. How naïve, he thought. “Maybe I should take off the hoodie.” 
+
+It’s okay, sweating Mark Zuckerberg. Take it off. We all sweat sometimes.

@@ -1,58 +1,75 @@
-The Renegade and Gonzo discover the influence of Silicon Valley's technology. 
-
 # As I walk through the Silicon Valley
 
+Optimo has been asked to work at a startup company called Athos and is considering moving from Europe to the Valley. The three characters together map out the sphere of influence of Silicon Valley. 
+ 
 GON:  
-Bruce Sterling, writer of cyberpunk novels and design critic, argued in 2014 that it doesn't make sense to still talk about the internet[^sterling]. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense. These companies have been shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is. And they all have their offices in Silicon Valley, a neighbourhood in San Francisco, California.
+So, what made the Silicon Valley to such an important center of technology? Why there? 
 
+OPT:  
+It's located in the South bay of San Francisco, California. The nickname Silicon Valley comes from the material used to make those chips. 
 
+GON:  
+Ghe he. Silicon supports bigger boobs and smaller computer chips. 
 
-I was overthinking this quote. These are the people setting our defaults, right? We users say we want influence, but we mainly want everything to just work. We want consistent, working design. 
+OPT:  
+😂 ... The production of chips has since long moved from Silicon Valley – mainly to Asia – but what stayed were the high-tech companies. Silicon Valley is now a booming ecosystem of innovation companies right now. And, GAFAM are all based in Silicon Valley.
+
+GAFAM is a term coined by Bruce Sterling, a design critic and writer of cyberpunk novels. In the design discourse, since the beginning of the internet, people have been looking for words to describe the phenomena. He argued in 2014 that it doesn't make sense to still talk about _the internet_[^sterling] but that we should instead talk about _GAFAM_ – Google, Amazon, Facebook, Apple and Microsoft: Silicon Valley's giant technology corporations. 
+
+## CORPORATE CULTURE
+
+REN:  
+That makes perfect sense. Software originating from the Silicon Valley is distributed across the globe and influences how we work, play and think. And more than that. It's a place of technological innovation which is connected to almost all aspects of life. Business, healthcare, travel, leisure, marketing. 
+
+The reach of Silicon Valley is world wide. The geographic place matters, but much more so the ideals that come from it. This because a lot of people are looking at the Silicon Valley culture as an example for their businesses. 
+
+The American Dream, a climate with lots of competition, little government support, I'm not really sure what to attribute the American individualism to, but I think it's very obvious in the culture of Silicon Valley. There seems to be a large focus on personal development. That anyone can be anything. That ideal is amazing and attractive. 
+
+And it sells technology very well, because they are good at shaping technology in ways that are very interesting to human beings.
+
+There is a big ‘startup’ culture. A startup is actually nothing more than a beginning company, but as a term has come to stand for fast-growing. Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. The pace of business is high. 
+
+In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
+
+These startups are often funded with money from Venture capitalists or Angel Investors. VC's are institutions, Angel Investors are individuals who put their money in the company and act as a kind of business mentor.
+
+![Video still from Silvio Lorusso's <em>Fake It Till You Make It</em>[^fake-it] that shows footage of two start-up founders that both were driven entrepreneurs in Silicon Valley and both committed suicide while leading their tech startup.](../img/Fake-it.png)
+
+The startup culture is subject of much media attention. Demographics [^work-ethic]
+
+REN:  
+You should question if you want to work in this way. I think it's bad to overly focus on growth. If you decide to go to Silicon Valley, remember it's a business thing, first of all, only then a human enterprise.
+
+## IN THE HANDS OF DEFAULT SETTERS
+
+We users say we want influence, but we mainly want everything to just work. We want consistent, working design. 
 
 In the beginning of the internet, people were customizing everything. They wanted to touch every page with their own style. The whole idea of stylesheets[^stylesheets] was to have a _personal_ stylesheet, which you could use on every page on the internet. Instead, pages would start to offer their own stylesheets. And after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, _because they work_.
 
-##IN THE HANDS OF THE DEFAULT SETTERS
-
-REN:  
+:  
 So, let's talk more about where the defaults come from, because they go way beyond just the looks of a website. In fact, that's only the first place you see it happening.
 
 One of the places where defaultism is harmful instead of helpful is in the User Agreement[^hoback]. That legal document that pops up when you install software or make online purchases. It's full of important information about what data providers are gathering and what they are allowed to do with it. 
 
 Nobody reads it because the texts are long, full of formalities, et cetera. Silicon Valley has found out one thing soon enough: when you want to do something evil, wrap it into something boring. And so with the promise of free service, you accept. But to what? You don't know. That kind of default can be really harmful. An extraordinary example of this practice was Gamestation.co.uk's 2010 April Fool's prank[^soul]. They added some text to their User Agreement that transfers the user's soul to the company. 
 
-> BY PLACING AN ORDER VIA THIS WEB SITE ON THE FIRST DAY OF THE FOURTH MONTH OF THE YEAR 2010 ANNO DOMINI, YOU AGREE TO GRANT US A NON TRANSFERABLE OPTION TO CLAIM, FOR NOW AND FOR EVER MORE, YOUR IMMORTAL SOUL. SHOULD WE WISH TO EXERCISE THIS OPTION, YOU AGREE TO SURRENDER YOUR IMMORTAL SOUL, AND ANY CLAIM YOU MAY HAVE ON IT, WITHIN 5 (FIVE) WORKING DAYS OF RECEIVING WRITTEN NOTIFICATION FROM GAMESATION.CO.UK OR ONE OF ITS DULY AUTHORIZED MINIONS.
+> SHOULD WE WISH TO EXERCISE THIS OPTION, YOU AGREE TO SURRENDER YOUR IMMORTAL SOUL, AND ANY CLAIM YOU MAY HAVE ON IT, WITHIN 5 (FIVE) WORKING DAYS OF RECEIVING WRITTEN NOTIFICATION FROM GAMESATION.CO.UK OR ONE OF ITS DULY AUTHORIZED MINIONS.
 
 In this case, 7500 people transferred their souls, free of charge. 
 
 After signing the only thing you can do is await the consequences. But realize that these documents are made to be uncomfortable to read. This here is a kind of fraud. It's an unfair game, so _don't be sorry you've lost it._ But anyways, my point is that you should always be aware of the interests of providers. And in the case of Silicon Valley, that's big business. The big corporates in SV make profits from data we generate for them by using their ‘free’ services and accepting these agreements. 
 
 GON:  
-Yeah, so Silicon Valley is the capital of the Land of the Semi-Free and the Home of the Business-Savy. Let's take a look at the core of all this.
+Yeah, so Silicon Valley is the capital of the Land of the Semi-Free and the Home of the Business-Savy. Let's go into the smart home, and discover their corporate culture.
 
-## WHERE IS THE HAND THAT FEEDS US?
-
-The computer chip manufacterers are what made the Valley what it is. That industry has since long left Silicon Valley, but what stayed behind is still shaping the world. Right now, GAFAM are all based in Silicon Valley.
-
-GON:  
-Silicon. The material that supports bigger boobs and smaller computer chips. 
+## SMART
 
 REN:  
 I see Silicon Valley as the Hollywood of technology. Comfortably situated on the West Coast of the United States, it is a birthplace that exports amazing things. Technology where Hollywood exported movies. And while movies were already of a huge influence on our culture, the technology wave is much more customized and designed for the individual. All of your personal desires and needs will be satisfied by your personal computer and then the smartphone and then the smart home. At least that is the promise.   
 
-The promise, the American Dream! A climate with lots of competition, little or no government support, I'm not really sure what to attribute the American individualism to, but I think it's very obvious in the culture of Silicon Valley. There's this focus on personal development. That anyone can be anything. That ideal is amazing and attractive. 
+Silicon valley the show
 
-And it sells technology very well, because they are good at shaping technology in ways that are very interesting to human beings.
-
-## IN WHICH DIRECTION IS THE HAND POINTED?
-
-REN:  
-There is a big startup culture. A startup is essentialy nothing more than a beginning company. Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. Or lost. The pace of business is high. In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
-
-These startups are often funded with money from Venture capitalists or Angel Investors. VC's are institutions, Angel Investors are individuals who put their money in the company and act as a kind of business mentor.
-
-![Video still from Silvio Lorusso's Fake It Till You Make It[^fake-it] that shows footage of two start-up founders that both were driven entrepreneurs in Silicon Valley and both committed suicide while leading their tech startup.](../img/Fake-it.png)
-
-The startup culture is subject of much media attention. [^work-ethic]
+![A sponsored map of the Silicon Valley. ](../../img/silicon-maps.png)
 
 REN:  
 Pants
@@ -95,6 +112,8 @@ I don't know if we need the new pants from Athos. But the problem Bratton addres
 
 [^carr]: Nicholas Carr, _The Shallows, What The Internet Is Doing To Our Brains_
 
-[^bratton]: Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_ [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+[^bratton]: Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_, [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+
+[^netflix-culture]: Reed Hastings, _Culture_, [http://www.slideshare.net/reed2001/culture-1798664/124-We_keep_improvingour_culture_as](http://www.slideshare.net/reed2001/culture-1798664/124-We_keep_improvingour_culture_as)
 
 <footer></footer>

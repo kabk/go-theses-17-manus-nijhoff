@@ -9,13 +9,13 @@ Manus Nijhoff, GOVT4A
 
 - ## Introduction
 - ## Abstract
-- ## Chapter 1: As I Walk Through the Silicon Valley
+- ## Chapter 1: As I Walk Through the Silicon Valley 
 - ## Chapter 2: Big, Complex Web
-- ## Chapter 3: Filter Troubles
-	- ## The Parable of Sweating Mark Zuckerberg
+- ## Chapter 3: Filter Troubles ✔︎
+	- ## The Parable of Sweating Mark Zuckerberg ✔︎
 - ## Chapter 4: Fleeting Time
 - ## Chapter 5: Self
-- ## Conclusion
+- ## ConclusionMon Dec 12 11:06:00 2016
 
 Logged in:
 Gonzo (GON), Optimo (OPT), The Renegade (REN)
@@ -94,76 +94,78 @@ Social media are the human heart of the internet’s technological body. The cha
 For a long time, researchers have been discussing whether internet addiction should be considered real. Whether this is the case remains unclear. In interface design however, designers oftentimes use techniques that provoke behaviours which come back in other addictions. The characters discuss and compare multiple tools and movements that have been designed to help users in their struggle with online media use.
 
 ##Self Sufficient
-Personal efficiency has been fueled on by services from the internet. A look into two products in the food industry offers again some paradoxes of influence. This time the product and its consumers. First is a powder food replacement which is designed to be as efficient as possible for the human body and is also developed for a more sustainable future of food. Second is Amazon’s Dash project, an internet of things application which lets consumers order food with the push of one button. The optimization advantages of both are discussed. What is better for users? What allows user influence? GON:  
-So, how's life?
+Personal efficiency has been fueled on by services from the internet. A look into two products in the food industry offers again some paradoxes of influence. This time the product and its consumers. First is a powder food replacement which is designed to be as efficient as possible for the human body and is also developed for a more sustainable future of food. Second is Amazon’s Dash project, an internet of things application which lets consumers order food with the push of one button. The optimization advantages of both are discussed. What is better for users? What allows user influence? # As I walk through the Silicon Valley
 
-OPT:   
-Easy, and with you?
-
+Optimo has been asked to work at a startup company called Athos and is considering moving from Europe to the Valley. The three characters together map out the sphere of influence of Silicon Valley. 
+ 
 GON:  
-Good, I just finished a marathon viewing of game developers conferences. 
-
-REN:  
-Always something on the horizon with you. What else do you have in store?
-
-# As I walk through the Silicon Valley
-
-## (INTRODUCING THE TECH INDUSTRY)
-
-GON:  
-Have you seen the new HBO series Silicon Valley? I can totally recommend it. If you're interested in the birthplace of GAFAM and the insane climate there, it's worth watching.
-
-> “In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success”.  
-> Description of HBO comedy series _Silicon Valley_ 
+So, what made the Silicon Valley to such an important center of technology? Why there? 
 
 OPT:  
-What's GAFAM?
-
-REN:  
-Bruce Sterling, writer of cyberpunk novels and design critic, argued in 2014 that it doesn't make sense to still talk about the internet[^sterling]. That we should instead talk about GAFAM – Google, Amazon, Facebook, Apple and Microsoft. This makes perfect sense. These companies have been shaping the internet in very real ways. If you are not using one of GAFAM's services, your neighbor or government is.  
-
-I was overthinking this quote. These are the people setting our defaults, right? Let's call it defaultism. People love consistency. We say we want change, but we also want everything to remain the same. Defaultism describes the happiness and wilingness of people to use an unchanged, working design without question. 
-
-In the beginning of the internet, people were customizing everything, wanting to touch every part with their own style. Hell, the whole idea of stylesheets – code to stylize web pages – was to have a _personal_ stylesheet, which you could use on every page on the internet. Instead, pages would offer their own stylesheets. Now after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, _because they work_. Defaultism has become common practice. 
+It's located in the South bay of San Francisco, California. The nickname Silicon Valley comes from the material used to make those chips. 
 
 GON:  
-Now you mention it, it's actually pretty strange that we're all so well-synced. You would think there would be as much diversity as there are people.
+Ghe he. Silicon supports bigger boobs and smaller computer chips. 
+
+OPT:  
+😂 ... The production of chips has since long moved from Silicon Valley – mainly to Asia – but what stayed were the high-tech companies. Silicon Valley is now a booming ecosystem of innovation companies right now. And, GAFAM are all based in Silicon Valley.
+
+GAFAM is a term coined by Bruce Sterling, a design critic and writer of cyberpunk novels. In the design discourse, since the beginning of the internet, people have been looking for words to describe the phenomena. He argued in 2014 that it doesn't make sense to still talk about _the internet_[^sterling] but that we should instead talk about _GAFAM_ – Google, Amazon, Facebook, Apple and Microsoft: Silicon Valley's giant technology corporations. 
+
+## CORPORATE CULTURE
 
 REN:  
-Well, let's talk more about the people setting the defaults, because they go way beyond just the looks of a website. In fact, that's only the first place you see it happening.
+That makes perfect sense. Software originating from the Silicon Valley is distributed across the globe and influences how we work, play and think. And more than that. It's a place of technological innovation which is connected to almost all aspects of life. Business, healthcare, travel, leisure, marketing. 
 
-One of the places where defaultism is very harmful is in the User Agreement. That's essentially a legal document you should read before acccepting to cooperate. Nobody reads it of course, and so in the light of using a free service, you accept. But to what? You don't know. And that kind of default can be really harmful.
+The reach of Silicon Valley is world wide. The geographic place matters, but much more so the ideals that come from it. This because a lot of people are looking at the Silicon Valley culture as an example for their businesses. 
 
-I may generalize a bit when I say Silicon Valley cooperates with the United States authorities. But GAFAM does. They will give the United States military access to basically any data stored on their servers. The United States likes this centralized power because it's easy access for them.[^centralized]
-
-And the only thing you can do is weep and regret. But realize that these documents are made to be uncomfortable to read. This here is a kind of extortion. It's an unfair game, so _don't be sorry you've lost it._ 
-
-The computer chip manufacterers are what made the Valley what it is. That industry has since long left Silicon Valley, but what stayed behind is still shaping the world. Right now, GAFAM are all based in Silicon Valley.
-
-GON:  
-Silicon. The material that supports bigger boobs and smaller computer chips. 
-
-REN:  
-I see Silicon Valley as the Hollywood of technology. Comfortably situated on the West Coast of the United States, it is a birthplace that exports amazing things. Technology where Hollywood exported movies. And while movies were already of a huge influence on our culture, the technology wave is much more customized and designed for the individual. All of your personal desires and needs will be satisfied by your smartphone. At least that is the promise.   
-
-The promise, the American Dream! A climate with lots of competition, little or no government support, I'm not really sure what to attribute the American individualism to, but I think it's very obvious in the culture of Silicon Valley. There's this focus on personal development. That anyone can be anything. That ideal is amazing and attractive. 
+The American Dream, a climate with lots of competition, little government support, I'm not really sure what to attribute the American individualism to, but I think it's very obvious in the culture of Silicon Valley. There seems to be a large focus on personal development. That anyone can be anything. That ideal is amazing and attractive. 
 
 And it sells technology very well, because they are good at shaping technology in ways that are very interesting to human beings.
 
-OPT:  
-So, besides GAFAM, what else is happening in the Silicon Valley?
+There is a big ‘startup’ culture. A startup is actually nothing more than a beginning company, but as a term has come to stand for fast-growing. Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. The pace of business is high. 
 
-REN:  
-There is a big startup culture. A startup is essentialy nothing more than a beginning company. In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
-
-Lots of startups in the technology sector compete for a place in the market. And because technology is big business, there is a lot of money to be won. Or lost. The pace of business is high.
+In Silicon Valley there is a strong belief that startups can disrupt the market. Disruption is a marketing term where your product changes the market completely instead of just competing with the existing products or services on that market.
 
 These startups are often funded with money from Venture capitalists or Angel Investors. VC's are institutions, Angel Investors are individuals who put their money in the company and act as a kind of business mentor.
 
-Silvio Lorusso, an Italian artist, designer, and researcher based in Rotterdam, made a striking portrait where he made a supercut of two Silicon Valley founders that both commited suicide.[^video] The basis of the problem of these two men is what he calls the entreprecariat. The entreprecariat is a fusion of entrepreneurialism and the precariat. It's a broad term to describe struggling entrepreneurs. I think his take on Silicon Valley's startup culture painfully shows a darker side of startup culture.
+![Video still from Silvio Lorusso's <em>Fake It Till You Make It</em>[^fake-it] that shows footage of two start-up founders that both were driven entrepreneurs in Silicon Valley and both committed suicide while leading their tech startup.](../img/Fake-it.png)
+
+The startup culture is subject of much media attention. Demographics [^work-ethic]
+
+REN:  
+You should question if you want to work in this way. I think it's bad to overly focus on growth. If you decide to go to Silicon Valley, remember it's a business thing, first of all, only then a human enterprise.
+
+## IN THE HANDS OF DEFAULT SETTERS
+
+We users say we want influence, but we mainly want everything to just work. We want consistent, working design. 
+
+In the beginning of the internet, people were customizing everything. They wanted to touch every page with their own style. The whole idea of stylesheets[^stylesheets] was to have a _personal_ stylesheet, which you could use on every page on the internet. Instead, pages would start to offer their own stylesheets. And after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, _because they work_.
+
+:  
+So, let's talk more about where the defaults come from, because they go way beyond just the looks of a website. In fact, that's only the first place you see it happening.
+
+One of the places where defaultism is harmful instead of helpful is in the User Agreement[^hoback]. That legal document that pops up when you install software or make online purchases. It's full of important information about what data providers are gathering and what they are allowed to do with it. 
+
+Nobody reads it because the texts are long, full of formalities, et cetera. Silicon Valley has found out one thing soon enough: when you want to do something evil, wrap it into something boring. And so with the promise of free service, you accept. But to what? You don't know. That kind of default can be really harmful. An extraordinary example of this practice was Gamestation.co.uk's 2010 April Fool's prank[^soul]. They added some text to their User Agreement that transfers the user's soul to the company. 
+
+> SHOULD WE WISH TO EXERCISE THIS OPTION, YOU AGREE TO SURRENDER YOUR IMMORTAL SOUL, AND ANY CLAIM YOU MAY HAVE ON IT, WITHIN 5 (FIVE) WORKING DAYS OF RECEIVING WRITTEN NOTIFICATION FROM GAMESATION.CO.UK OR ONE OF ITS DULY AUTHORIZED MINIONS.
+
+In this case, 7500 people transferred their souls, free of charge. 
+
+After signing the only thing you can do is await the consequences. But realize that these documents are made to be uncomfortable to read. This here is a kind of fraud. It's an unfair game, so _don't be sorry you've lost it._ But anyways, my point is that you should always be aware of the interests of providers. And in the case of Silicon Valley, that's big business. The big corporates in SV make profits from data we generate for them by using their ‘free’ services and accepting these agreements. 
 
 GON:  
-Phew, that's heavy. Let's do something fun now. I like to play a game sometimes. Name anything and see if there's a startup in Silicon Valley working on something that connects to that. 
+Yeah, so Silicon Valley is the capital of the Land of the Semi-Free and the Home of the Business-Savy. Let's go into the smart home, and discover their corporate culture.
+
+## SMART
+
+REN:  
+I see Silicon Valley as the Hollywood of technology. Comfortably situated on the West Coast of the United States, it is a birthplace that exports amazing things. Technology where Hollywood exported movies. And while movies were already of a huge influence on our culture, the technology wave is much more customized and designed for the individual. All of your personal desires and needs will be satisfied by your personal computer and then the smartphone and then the smart home. At least that is the promise.   
+
+Silicon valley the show
+
+![A sponsored map of the Silicon Valley. ](../../img/silicon-maps.png)
 
 REN:  
 Pants
@@ -188,35 +190,95 @@ Instead, Bratton makes a case for design as immunisation. Design, he says, shoul
 
 I don't know if we need the new pants from Athos. But the problem Bratton addresses towards TED and things like wearables and the Internet of Things do make me take a double take. What's the use of knowing exactly what each muscle does? The makers as well as users of technology put heaps of faith in the products, especially when they appear smart. 
 
-Calling objects 'smart' in itself is a strange practice, I think. Weren't watches already very well made devices before the smart watch came along? How smart is it to buy a smart phone? Isn't it kind of stupid to keep on calling a little machine that can only do things it is programmed to do - smart?
+## We put faith in SV, SV puts faith in technology, but everything is based on: speculation
+
+[^stylesheets]: Code to determine the look of web pages
+
+[^soul]: _7,500 Online Shoppers Accidentally Sold Their Souls To Gamestation_ [http://www.huffingtonpost.com/2010/04/17/gamestation-grabs-souls-o_n_541549.html](http://www.huffingtonpost.com/2010/04/17/gamestation-grabs-souls-o_n_541549.html)
 
 [^sterling]: Alexis C. Madrigal, _Bruce Sterling on Why It Stopped Making Sense to Talk About 'The Internet' in 2012_, [http://www.theatlantic.com/technology/archive/2012/12/- ](http://www.theatlantic.com/technology/archive/2012/12/-bruce-sterling-on-why-it-stopped-making-sense-to-talk-about-the-internet-in-2012/266674/ )
 
-[^video]: Silvio Lorusso, _A Work Ethic Dystopia_, [http://networkcultures.org/entreprecariat/work-ethic-dystopia/](http://networkcultures.org/entreprecariat/work-ethic-dystopia/)
+[^fake-it]: Silvio Lorusso, _Fake It Till You Make It_, 2016 [https://vimeo.com/151528608](https://vimeo.com/151528608)
+
+[^work-ethic]: Silvio Lorusso, _A Work Ethic Dystopia_, [http://networkcultures.org/entreprecariat/work-ethic-dystopia/](http://networkcultures.org/entreprecariat/work-ethic-dystopia/)
 
 [^tech]: [https://techcrunch.com/2015/11/18/athos-pushes-up-to-51-million-in-the-bank-with-funding-from-chamath-palhapitayas-socialcapital/](https://techcrunch.com/2015/11/18/athos-pushes-up-to-51-million-in-the-bank-with-funding-from-chamath-palhapitayas-socialcapital/)
 
-[^centralized]: Cullen Hoback, _Terms and Conditions May Apply_, [https://vimeo.com/98094467](https://vimeo.com/98094467)
+[^hoback]: Cullen Hoback, _Terms and Conditions May Apply_, [https://vimeo.com/98094467](https://vimeo.com/98094467)
 
 [^carr]: Nicholas Carr, _The Shallows, What The Internet Is Doing To Our Brains_
 
-[^bratton]: Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_ [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
+[^bratton]: Benjamin Bratton, _New Perspectives - What's Wrong with TED Talks? Benjamin Bratton at TEDxSanDiego 2013 - Re:Think_, [https://youtu.be/Yo5cKRmJaf0](https://youtu.be/Yo5cKRmJaf0)
 
-<footer></footer>OPT:  
-Are we still building this webapp? What do we begin with?
+[^netflix-culture]: Reed Hastings, _Culture_, [http://www.slideshare.net/reed2001/culture-1798664/124-We_keep_improvingour_culture_as](http://www.slideshare.net/reed2001/culture-1798664/124-We_keep_improvingour_culture_as)
 
-REN:  
-If we make anything for the internet and we want to make profit, we should be scalable.
+<footer></footer># COMPLEX WEB, BORING INTERNET
+
+The Renegade and Gonzo are amazed by the complexity of the internet. With Optimo, they talk about the way users and designers can deal with this complexity.
+
+## fascination with big systems
+
+Systems have gotten really big. It is fascinating
+
+## robots
 
 GON:  
-Scalable?
+I love watching this video of the sorting robots in Amazon's warehouses. How they find their own way through the warehouse is super satisfying to watch. The precision is amazing.[^kiva]
 
-# COMPLEX WEB, BORING INTERNET
+At Amazon, the warehouses no longer store items sorted in any way. Rather, the objects are placed on the shelves according to what's _fastest_. Robots carry moving shelves that bring the items needed to ‘pick-workers’ that take the items out of the closets and pack them for sending. The robot finds its own way through the warehouse. This way they can process an order from click to send sometimes in less than 15 minutes. And Amazon has 21 million different items for sale. It doesn't need walk space so the warehouse is more densely populated with goods. Scalable as hell.
+
+> “Pick, scan, pack. We try to simplify their life and hide the technology. All Kiva Pick workers are happy pick workers.” [^pick]
+
+![The Amazon picking process](img/amazon-picker.jpg)
 
 REN:  
-Services designed for our daily lives – things like Uber, Deliveroo, Maps – have all been designed with the objective of ‘scalability’ in mind. Scalability means that these systems will get better when they grow. They optimize by growth. So as they exist, we can now ask: does the system scale well? If the answer is yes, it's usually profitable.
+It's really beautiful. The only thing about it that is a shame, is how users are being kept in the dark
+
+REN:  
+Okay. I'm just saying: the internet is always changing, and it's easy to think it's always the giant versus the tiny developer or user or designer. It's is very uninspiring. It doesn't make sense. 
+
+
+
+## post-internet sentiment
+
+GON:  
+That sentiment reminds me of this critique that Brian Droitcour has about Post-Internet art.[^droitcour] Things can change, as long as there are some people with some real ideas, and that keep an open mind to changes.
+
+> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
+> — Brian Droitcour
+
+
+
+## centralization issues
+
+Silicon Valley has come to stand for a centralization of tech-power. In June 2013, Edward Snowden, a former employee of defense contractor Booz Allen Hamilton leaked a great amount of files of the United State's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using this data. Governments like this centralized power because it's easy access for them.
+
+This is a dark side of a centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is the access to Silicon Valley's major servers, where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. 
+
+![PRISM, the NSA's monitoring project explained. Here we see which companies provided data to the NSA](img/prism.jpg) 
+
+GON:  
+This has some heavy implications. What if you disagree with that? If even kicking over that system means that it can learn from its mistakes and regenerate? It's great if you own that server, but what about all of us that don't? What can you do to be subversive?
+
+REN:  
+One of the problems is the centralized network. An alternative could be a distributed network. A centralized network has a big, central server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, all files are stored on parts of the network. 
+
+I've been following the developments of Bitcoin - a cryptocurrency - and with that, the blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives. It's complex, but that's the gist of it.[^blockchains]
+
+I'm not really convinced that this will solve the entire centralisation of power issue. Blockchains are also being developed by banks, that want to use it in a closed system. 
+
+OPT:  
+But that's unavoidable. Lots of institutions have private networks, they need those. If we say internet should be open it does not mean it can't be private.
+
+I'm just curious to see what will happen on smaller scale, how people will use distributed networks and if they can replace parts of centralised networks that don't work. 
+
+
+
+
 
 Now, one of the places where scalability makes a huge difference is the back-end of big services and platforms. For instance Netflix or Amazon. Those companies have gigantic server structures to make their service possible. They call it The Cloud. The Cloud is servers spinning on a rack, interconnected via cables. Wireless is only a half-truth. There are strings attached.
+
+
 
 ## The Chaos Monkey
 
@@ -262,54 +324,24 @@ There's a couple of ways of dealing with big computing. Two are we either freak 
 OPT:  
 It's very interesting to show the builder's side of the story to users. But I think users should also know the abuse that can happen with a huge network. 
 
-## Decentralization
 
-Silicon Valley has come to stand for a centralization of tech-power. In June 2013, Edward Snowden, a former employee of defense contractor Booz Allen Hamilton leaked a great amount of files of the United State's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using this data.
 
-This is the dark side of a centralized internet. One part of that is the strong influence of the United States' secret service, which may be strong. But another thing that made it possible for the NSA to spy on the world is the access they had to Silicon Valley's major servers, where personal data was stored. Microsoft, Facebook, Google, Skype, you name it. 
 
-![PRISM slide explaining which companies provided data](img/prism.jpg) 
 
-## Blockchain
 
-GON:  
-This has some heavy implications. What if you disagree with that? If even kicking over that system means that it can learn from its mistakes and regenerate? It's great if you own that server, but what about all of us that don't? What can you do to be subversive?
 
-REN:  
-One of the problems is the centralized network. An alternative could be a distributed network. A centralized network has a big, central server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, all files are stored on parts of the network. 
 
-I've been following the developments of Bitcoin - a cryptocurrency - and with that, the blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives. It's complex, but that's the gist of it.[^blockchains]
 
-I'm not really convinced that this will solve the entire centralisation of power issue. Blockchains are also being developed by banks, that want to use it in a closed system. 
-
-OPT:  
-But that's unavoidable. Lots of institutions have private networks, they need those. If we say internet should be open it does not mean it can't be private.
-
-REN:  
-Exactly. I'm just saying: the internet is always changing, and some people are stuck inside this attitude where it is always the giant versus the tiny developer or user or designer. It's is very uninspiring. It doesn't make sense. I'm just curious to see what will happen on smaller scale, how people will use distributed networks and if they can replace parts of centralised networks that don't work. 
-
-GON:  
-That sentiment reminds me of this critique that Brian Droitcour has about Post-Internet art.[^droitcour] Things can change, as long as there are some people with some real ideas, and that keep an open mind to changes that may seem weird or unconventional.
-
-> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
-> — Brian Droitcour
-
-## Amazon's robots
-
-OPT:  
-Talking about art: I love watching this video of the sorting robots in Amazon's warehouses. How they find their own way through the warehouse is super satisfying to watch. The precision is amazing.[^kiva]
-
-At Amazon, the warehouses no longer store items sorted in any way. Rather, the objects are placed on the shelves according to what's _fastest_. Robots carry moving shelves that bring the items needed to ‘pick-workers’ that take the items out of the closets and pack them for sending. The robot finds its own way through the warehouse. This way they can process an order from click to send sometimes in less than 15 minutes. And Amazon has 21 million different items for sale. It doesn't need walk space so the warehouse is more densely populated with goods. Scalable as hell.
-
-> “Pick, scan, pack. We try to simplify their life and hide the technology. All Kiva Pick workers are happy pick workers.” [^pick]
-
-![The Amazon picking process](img/amazon-picker.jpg)
 
 ## The Scale of Chaos
 
-What all of these examples suggest is that the bigger a system gets, that it needs some chaos to survive. 
-
 Regular users should know that all of our technology can fail. The world as a beta test. Alpha's have had their time. More diversity and more failures for more commitment. We are in a way the problem of the tech because of impatience. In order to help ourselves, we should have a better understanding of technology in society. These should move towards each other instead of keeping users in the dark about what happens behind the screen. That way, we can have useful discussion.
+
+
+
+
+
+
 
 [^simian]: Jon Brodkin, _Netflix attacks own network with “Chaos Monkey” – and now you can too_ [http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/](http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/)
 [^simian-open]: (software) Netflix, _Simian Army_, [https://github.com/Netflix/SimianArmy](https://github.com/Netflix/SimianArmy)
@@ -322,68 +354,58 @@ Regular users should know that all of our technology can fail. The world as a be
 
 <footer></footer># Filter Troubles 
 
-## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
+Optimo and the Renegade discuss the  politics of filtering content on social media. Gonzo dreams of exploring new horizons.
 
 REN:  
-A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing, so let's discuss the makeable online community.
-
-GON:  
-I'm a big fan of Reddit. It's a social news platform spanning about every topic you can imagine. Sports, politics, help groups, the full monty. It's called social news for its ranking system. Users upvote or downvote news that they find good or interesting and earn karma points for participating in the community. 
+A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing. That's fundamentally different. It means we have influence from the bottom up. Me personally, I'm a big fan of Reddit[^reddit]. It's a social news platform spanning about every topic you can imagine.
 
 OPT:  
-I never got around to using Reddit. The interface just isn't comfortable for me.
-
-GON:  
-It takes some patience to get into it, but once you're in there you'll wonder how you ever did without it.
+I never got around to using Reddit. The interface isn't comfortable for me.
 
 REN:  
-Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz. At a very young age he was already involved in developing the web feed format RSS and the Markdown publishing format. He was an activist for freedom of speech online and he co-founded Reddit. He cared about the societal impact of the internet. While studying at MIT, Swartz had access to the JSTOR database. Swartz, who also constituted the Creative Commons License together with Lawrence Lessig, believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
+It takes some patience to get into it. Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz, who was one of its founders. As a teenager he was already involved in developing internet technologies like the web feed format RSS and the Markdown publishing format. He cared deeply about the impact the internet has on society and the freedoms it could support. Swartz set up the Creative Commons License together with law professor Lawrence Lessig and wrote the _Guerilla Open Access Manifesto_[^manifesto].
+
+While studying at MIT, Swartz had access to the JSTOR database. Swartz believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
 
 ![Swartz in the JSTOR Server Room](img/aaron-swartz.png)
 
-The FBI knew Swartz from another case where he published documents of PACER[^pacer]. When they suspected him of wanting to publish JSTOR documents they installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself, leaving no note.  
+The FBI knew Swartz from another case where he published legal documents of PACER[^pacer]. When they suspected him of wanting to publish JSTOR documents the FBI installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself under the pressure, leaving no note.  
 
-Aaron Swartz called himself a sociologist. In one of his blog posts[^blog] he writes that institutes shape culture. He says criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's look at Reddit, and compare that to Facebook, a platform more of us use.
+Aaron Swartz called himself a sociologist. In one of many blog posts[^blog] he writes that criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's take Reddit and compare that to Facebook[^facebook], the platform become institute. The one nearly everyone seems to use.
 
-On Reddit, the system in place relies on a kind of direct democracy. There is a voting system that works two ways. A post can be up- and downvoted. The posts with the most upvotes make it to the top of the feed. There is also a category for controversial posts which features content that has a small difference between up- and downvotes. 
+## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
 
-Reddit's content comes from users. There are human moderators who are users themselves. Unlike social networks that want your information to feed you back your own preferences into algorithms, the community learns from each other.
-
-One element that makes it work I think is choice of content. On Reddit, you decide what subreddits you subscribe to. A subbreddit is a subcommunity that is dedicated to one particular interest. So the content comes first, and the people on the site make the discussion. 
-
-That leads to another aspect which makes reddit so succesful. In the process of delivering content to you, the advertisements stay out of your feed. The platform is essentially non-commercial. 
-
-Where reddit's content is filtered by people, Facebook uses algorithms. Reddit can be weird not because reddit is weird but becaue people are weird. Facebook has a lot of censorship and a new kind of content-picking. You only see stuff that is relevant to you.
-
-## EdgeRank
+REN:  
+Almost all of Reddit's posted content comes directly from users. A subbreddit is a community that is dedicated to one particular interest. You decide which subreddits you subscribe to. There are human moderators looking over their subreddits to keep order. Content can be up- or downvoted by users. The order of content in your feed is sorted by explicit votes from users. There is a special feed for controversy, where posts with a close up and down ratio are shown.    
 
 OPT:  
 So how does Facebook filter their content?
 
 REN:  
-Facebook works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is called an Edge. Every Edge gets a value, based on three things. Affinity score, weight and time. Nobody knows exactly how, but based on those values the items come into your newsfeed. 
+Where Reddit's content is filtered by people in a fairly direct way, Facebook uses algorithms. Facebook's feed works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is a so called Edge. Each Edge gets a value that is based on three things. Affinity score, weight and time. In practice, this means that each post is competing for a spot in your news feed. Already in 2007, 60 out of 30,000 possible stories were shown daily to users of Facebook[^wow].
 
-It has very serious consequences, especially because this means that if your edge doesn't score well, no one will see it.
+Facebook specialized this personalization process over the years. It's so good they had to start randomizing the process more because people were creeped out by the precision of the feed. The company furthermore is very keen on personalizing more than just the feed. Advertisements, location based content, third parties' apps, they all work with pre-knowledge of your behaviours as user. 
 
-So if you're looking through the filters of Facebook, these get echoed back to you. Guy Debord, an artist from the Situationist movement, went on trips to get lost. While he got lost, he would study the city. He called this psychogeography.  
+From a design point of view, the following is key: While Facebook boasts that it is _people-centric_[^people], Reddit does a much better job at _involving_ people. Facebook is comfortable, slick, personalized. Reddit less so, but it the user has more personal influence on what he/she sees. That influence makes the user feel like an explorer, not a spectator.
 
-Dériving on Facebook would be much less interesting than in the city. If you do it as yourself. You will just get stuck in loops of familiar people, familiar stories and links, it's really limiting.
+Boldly put, Facebook trusts technology while Reddit trusts in people. As a designer these trust issues come up when developing digital media. Designers are always working for someone. The goal should not be to always please the people with the money, but to empower those who have vision, and to be a part of making something meaningful to people on a personal, not corporate scale. 
 
-_Other People Also Bought_[^other] is a really interesting artwork by Jonas Lund, it starts from one article on eBay and then moves to the next automatically recommende item. This would be much more targeted today than it would be in 2013 when they made this.
+In the end, Reddit does a much better job at connecting people and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own browsing behaviour, which happens more often in Facebook's community. The old design credo “Less is more” is applicable here in the way that less influence from above gives people more freedom to explore. Ironically, our close friends are connected via Facebook while we meet unknown people by common interest on Reddit. 
 
-The reinforcing effect is what I think is kind of scary. In a Science article in 2008[^carr-2], Evans noted that automated information-filtering tools, such as search engines, tend to serve as amplifiers of popularity, quickly establishing and then continually reinforcing a consensus about what information is important and what isn’t.
+## The Dérive
 
 GON:  
-I think the discussion part of it. Reddit trusts people! Which is a key element in open discussion, new ideas, critique, etc. I think design can learn from this basic element of trust. In many media that are prepared by graphic designers, the audience gets messages dumbed down so much that it almost misses its initial point. 
+This reminds me of something. Guy Debord, an artist from the international Situationist movement from the '50s on, defined the action of the dérive.[^derive] Literally translating to _drift_, the dérive is a method of getting lost, wandering aimlessly for periods ranging from several hours to several days or even weeks, only guided by urban space and observing the psychological states it invokes. It is a way of studying the emotional effects the city has. He called this _psychogeography_[^psychogeography]. 
 
-In the end, Reddit does a much better job in connecting people, and building an online community in the sense that the people using it aren't left feeling trapped or tricked by their own circles, which happens more often in Facebook's community. Ironically, all of our close friends are connected via Facebook while we meet new, unknown people by interest on Reddit. 
+![A number of findings from the dérive were bundled into an anti-book in collaboration with Asger Jorn. The anti-book covers were made out of sandpaper, destroying every book that came in contact with it.](../img/anti-book.jpg)
 
-The internet is a very good tool for linking and indexing personal preference and 
+REN:  
+If you would dérive on Facebook, wouldn't it be infinitely less interesting than in the city? There is no way of escaping your own influence, unlike the city where you can be anonymous. You would get stuck in loops of familiar people, familiar stories and links. 
 
-## Fluff Buster's Purity
+GON:  
+Not entirely. I think the dérive could get new life in the digital context. Debord mentions the narrow experience citizens have of the city of Paris. The dérive is used to escape exactly that. Scrolling down the news feed is a type of wandering that is guided by Facebook's intentions. This _is_ the narrow experience that needs escaping. Imagine ‘going out’ online like you would IRL. Not to another party, but to another social media service. Your Instagram gang visiting the world of Reddit.
 
-OPT:  
-I'm using this tool recently for Facebook that's called F.B. Purity. You can block keywords from your newsfeed. Not really liking it, it looks very Web 2.0. Facebook's interface is always changing so the tool can be pretty buggy.
+And it is getting easier to change the behaviour of your personal Facebook experience. I'm using this tool recently for Facebook called F.B. Purity. I like the idea of it. You can block certain keywords from your newsfeed and customize how Facebook looks. It looks very old school though, and Facebook's interface is always changing so the tool can be pretty buggy.
 
 <figure id="fbpurity">
 <img src="img/f-b-purity.png"/>
@@ -393,18 +415,26 @@ I'm using this tool recently for Facebook that's called F.B. Purity. You can blo
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/2VdNHiqOi2M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 REN:  
-Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stuff usually do it on their own time and without any payment from anyone! This dude is focussing on the essentials to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath. It's fucking DIY!
+Yeah, but it does what you want. You can't always judge a tool just on the looks or user-friendliness. The people making that stuff usually do it on their own time and without any payment from anyone! This developer is focussing on the essentials for it to keep it working. If you think about it, it's kind of amazing. He's like a little David against Facebook Goliath.
 
 OPT:  
-No, I think I'll give up on it. It takes me too much time to manually add the list items. I want someone or something to do that for me. It shouldn't be that hard, right?
-
-REN:  
-I'm not too sure about that. I don't think this guy has a big team or a lot of resources to develop it as professionally as a Silicon Valley startup would. But in that is a lot of value, this person is an idealist. It's underground and independent. 
+No, I think I'd never use that. User experience is key. It takes me too much time to manually add the list items. I want someone or something to do that for me. I use another tool called Detox[^detox] when I want to work. It fills my feed with news from selected sources so when I do flip over to Facebook, I won't get distracted by the daily food-shot of my neighbour.
 
 GON:   
-I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the hacks and stooges. 'Cause this is still showing the cracks in the pavement, right? Still showing that people notice that they aren't in control, and this is one way of taking it back, even when it is just a bit.
+You gotta love these efforts, right? Hail the clumsy solutions, the hacks and stooges.
+
+REN:  
+I like the F.B. Purity more than Detox. Detox seems cool but only works as a replacement. Purity let's you customize the entire feed. It's underground and independent. 
+
+Funny though, that also while a lot of parties try to make a profit online, there are so many free solutions to the problems that come with that. And the design solutions that used to be clumsy have become much more professional. As the corporate internet grows more professional, so do its counter-movements. 
+
+[^reddit]: Reddit, the front page of the internet [https://www.reddit.com/](https://www.reddit.com/)
+
+[^facebook]: Facebook, the Social Utility That Connects You With Other People Around You, [https://facebook.com](https://facebook.com)
 
 [^pacer]: Public Access to Court Electronic Records
+
+[^manifesto]: Aaron Swartz, Guerilla Open Access Manifesto, [https://ia600808.us.archive.org/17/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf](https://ia600808.us.archive.org/17/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
 
 [^blog]: Aaron Swartz, _Sociology or Anthropology_, [http://www.aaronsw.com/weblog/socvanthro](http://www.aaronsw.com/weblog/socvanthro)
 
@@ -414,7 +444,25 @@ I love this solution, it's clumsy and perfect. Hail the clumsy solutions, the ha
 
 [^other]: Jonas Lund and Sebastian Scheming, _Other People Also Bought_, last checked 19 september [http://otherpeoplealsobought.com/](http://otherpeoplealsobought.com/)
 
-<footer></footer>#Fleeting Time
+[^derive]: Guy Debord, _Theory of the Dérive_, 1958 [http://www.bopsecrets.org/SI/2.derive.htm](http://www.bopsecrets.org/SI/2.derive.htm)
+
+[^people]: _Mark Zuckerberg talks privacy controversies at D8 (2010)_ [https://youtu.be/GczC7q5NPrw](https://youtu.be/GczC7q5NPrw)
+
+[^wow]: admin, _Facebook’s News Feed Knows What You Did Last Summer_[http://www.adweek.com/socialtimes/facebook%E2%80%99s-news-feed-knows-what-you-did-last-summer/211479?red=if](http://www.adweek.com/socialtimes/facebook%E2%80%99s-news-feed-knows-what-you-did-last-summer/211479?red=if)
+
+[^psychogeography]: More precisely, psychogeography is defined as “The study of the specific effects of the geographical environment (whether consciously organized or not) on the emotions and behavior of individuals” [http://www.cddc.vt.edu/sionline/si/definitions.html](http://www.cddc.vt.edu/sionline/si/definitions.html)
+
+[^detox]: [http://usedetox.com/index.html](http://usedetox.com/index.html)
+
+<footer></footer>#The Parable of Sweating Mark Zuckerberg
+
+Mark Zuckerberg outsmarted his private coding tutors since the '90s without breaking a sweat. In high school Mark Zuckerberg was the captain of his fencing team. Sweating was something you did behind the mask, faceless, or after the action. Mark Zuckerberg sat cool and dry in his dormitory in 2004 when he launched TheFacebook. Early summer 2007 and Mark Zuckerberg still kept his cool even as he sat in court weighed on by accusations of stealing the idea for Facebook.  
+
+But at the All Things Digital conference in 2010, Mark Zuckerbergs armpits were sweating in his hoodie. Sat in the hot seat, he answered questions about Facebook’s privacy issues.
+
+“Why don’t you take off the hoodie?” — Facebook started out as so much fun, he thought, but it just got so big, and now he was responsible for so many people. He didn’t know where to look. “But I never take off the hoodie.” — “Well, can you explain what this instant personalization thing is about?” — Making the world more open and connected, sweating Mark Zuckerberg thought. How naïve, he thought. “Maybe I should take off the hoodie.” 
+
+It’s okay, sweating Mark Zuckerberg. Take it off. We all sweat sometimes.#Fleeting Time
 
 ##(OPTIMIZING TIME)
 
@@ -583,11 +631,11 @@ But here again Bratton's design as immunisation can be applied. Do we really nee
 
 <footer></footer>#CONCLUSION
 
-Thanks for reading. I know it wasn't a comfortable ride. The conversations of Optimo, Gonzo and the Renegade still take some editing, cutting and pasting to come across better.
-
 In my research I've been all over the place. Now I want to distill some of the things I've learned.
 
 People are often totally self-responsible for what they do and have to design their life with technology. Some pitfalls come from technology that designers, but also just people should be aware of. 
+
+
 
 - Oversimplification. Very handy in programming, not so handy IRL (In Real Life). Trust your audience, they have an imagination. They don't read barcodes, they read stories, ideas, jokes. 
 - Distraction for the sake of distraction. 

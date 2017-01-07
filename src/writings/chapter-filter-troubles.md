@@ -3,36 +3,39 @@
 Optimo and the Renegade discuss the  politics of filtering content on social media. Gonzo dreams of exploring new horizons.
 
 REN:  
-A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing. That's fundamentally different. It means we have influence from the bottom up. Me personally, I'm a big fan of Reddit[^reddit]. It's a social news platform spanning about every topic you can imagine.
+A community is usually something that forms over time. Friendships grow, relationships are built up and broken down in smooth motions. There can be a kind of natural organization. In online communities there is a whole deal of building, guiding and optimizing. That's fundamentally different. It means we have influence from the bottom up. Me personally, I'm a big fan of Reddit.[^reddit] It's a social news platform spanning about every topic you can imagine.
 
 OPT:  
 I never got around to using Reddit. The interface isn't comfortable for me.
 
 REN:  
-It takes some patience to get into it. Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz, who was one of its founders. As a teenager he was already involved in developing internet technologies like the web feed format RSS and the Markdown publishing format. He cared deeply about the impact the internet has on society and the freedoms it could support. Swartz set up the Creative Commons License together with law professor Lawrence Lessig and wrote the _Guerilla Open Access Manifesto_[^manifesto].
+It takes some patience to get into it. Reddit has an interesting history. When you say Reddit, you have to say Aaron Swartz, who was one of its founders. As a teenager he was already involved in developing internet technologies like the web feed format RSS and the Markdown publishing format. He cared deeply about the impact the internet has on society and the freedoms it could support. Swartz set up the Creative Commons License together with law professor Lawrence Lessig and wrote the _Guerilla Open Access Manifesto_.[^manifesto]
+
+>Information is power. But like all power, there are those who want to keep it for
+themselves.
 
 While studying at MIT, Swartz had access to the JSTOR database. Swartz believed this knowledge should be available for everyone. He went into the server room of the institute and copied the data on a hard drive. 
 
 ![Swartz in the JSTOR Server Room](img/aaron-swartz.png)
 
-The FBI knew Swartz from another case where he published legal documents of PACER[^pacer]. When they suspected him of wanting to publish JSTOR documents the FBI installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself under the pressure, leaving no note.  
+The FBI knew Swartz from another case where he published legal documents of PACER.[^pacer] When they suspected him of wanting to publish JSTOR documents the FBI installed a camera in the server room and caught him red handed. He then got overcharged for his crime: 35 years of jail time awaited him. He hung himself under the pressure, leaving no note.  
 
-Aaron Swartz called himself a sociologist. In one of many blog posts[^blog] he writes that criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's take Reddit and compare that to Facebook[^facebook], the platform become institute. The one nearly everyone seems to use.
+Aaron Swartz called himself a sociologist. In one of many blog posts[^blog] he writes that criticizing culture is too superficial. Instead you have to look at the institutes that shape culture. So let's take Reddit and compare that to Facebook,[^facebook] the platform become institute. The one nearly everyone seems to use.
 
 ## The Front Page of the Internet or the Social Utility That Connects You With Other People Around You
 
 REN:  
-Almost all of Reddit's posted content comes directly from users. A subbreddit is a community that is dedicated to one particular interest. You decide which subreddits you subscribe to. There are human moderators looking over their subreddits to keep order. Content can be up- or downvoted by users. The order of content in your feed is sorted by explicit votes from users. There is a special feed for controversy, where posts with a close up and down ratio are shown.    
+Almost all of Reddit's posted content comes directly from users. A subbreddit is a community that is dedicated to one particular interest. You decide which subreddits you subscribe to. There are human moderators looking over their subreddits to keep order. Content can be up- or downvoted by users. The order of content in your feed is sorted by explicit votes from users. There is a special feed for controversy, where posts with a close up and down ratio are shown.
 
 OPT:  
 So how does Facebook filter their content?
 
 REN:  
-Where Reddit's content is filtered by people in a fairly direct way, Facebook uses algorithms. Facebook's feed works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is a so called Edge. Each Edge gets a value that is based on three things. Affinity score, weight and time. In practice, this means that each post is competing for a spot in your news feed. Already in 2007, 60 out of 30,000 possible stories were shown daily to users of Facebook[^wow].
+Where Reddit's content is filtered by people in a fairly direct way, Facebook uses algorithms. Facebook's feed works with an algorithm called EdgeRank.[^edge] Every story, post, or interaction on Facebook is a so called Edge. Each Edge gets a value that is based on three things. Affinity score, weight and time. In practice, this means that each post is competing for a spot in your news feed. Already in 2007, 60 out of 30,000 possible stories were shown daily to users of Facebook.[^wow]
 
 Facebook specialized this personalization process over the years. It's so good they had to start randomizing the process more because people were creeped out by the precision of the feed. The company furthermore is very keen on personalizing more than just the feed. Advertisements, location based content, third parties' apps, they all work with pre-knowledge of your behaviours as user. 
 
-From a design point of view, the following is key: While Facebook boasts that it is _people-centric_[^people], Reddit does a much better job at _involving_ people. Facebook is comfortable, slick, personalized. Reddit less so, but it the user has more personal influence on what he/she sees. That influence makes the user feel like an explorer, not a spectator.
+From a design point of view, the following is key: While Facebook boasts that it is _people-centric_,[^people] Reddit does a much better job at _involving_ people. Facebook is comfortable, slick, personalized. Reddit less so, but it the user has more personal influence on what he/she sees. That influence makes the user feel like an explorer, not a spectator.
 
 Boldly put, Facebook trusts technology while Reddit trusts in people. As a designer these trust issues come up when developing digital media. Designers are always working for someone. The goal should not be to always please the people with the money, but to empower those who have vision, and to be a part of making something meaningful to people on a personal, not corporate scale. 
 
@@ -41,7 +44,7 @@ In the end, Reddit does a much better job at connecting people and building an o
 ## The Dérive
 
 GON:  
-This reminds me of something. Guy Debord, an artist from the international Situationist movement from the '50s on, defined the action of the dérive.[^derive] Literally translating to _drift_, the dérive is a method of getting lost, wandering aimlessly for periods ranging from several hours to several days or even weeks, only guided by urban space and observing the psychological states it invokes. It is a way of studying the emotional effects the city has. He called this _psychogeography_[^psychogeography]. 
+This reminds me of something. Guy Debord, an artist from the international Situationist movement from the '50s on, defined the action of the dérive.[^derive] Literally translating to _drift_, the dérive is a method of getting lost, wandering aimlessly for periods ranging from several hours to several days or even weeks, only guided by urban space and observing the psychological states it invokes. It is a way of studying the emotional effects the city has. He called this _psychogeography_.[^psychogeography] 
 
 ![A number of findings from the dérive were bundled into an anti-book in collaboration with Asger Jorn. The anti-book covers were made out of sandpaper, destroying every book that came in contact with it.](../img/anti-book.jpg)
 

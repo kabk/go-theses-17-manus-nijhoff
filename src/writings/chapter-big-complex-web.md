@@ -1,4 +1,4 @@
-# BIG, COMPLEX WEB
+# BIG, COMPLEX, WEB
 
 The Renegade and Gonzo are amazed by the complexity of the internet. They discuss ways companies handle work behind the screens and wonder if we can learn from that. With Optimo, they talk about the way users and designers can deal with this complexity.
 
@@ -45,74 +45,65 @@ Wow, I wouldn't want to be one of those. Let me play with the code of those bots
 GON:  
 Amazing about this is the system itself. It's impressive how they got all of this to run so smoothly. Even though the pick workers have a bit of a boring job, the comparison is easily made with picking stuff from trees, how nice of a job was that? And this means less hard work. Less bending over, reaching, easy money, no? 
 
-## CENTRALIZATION ISSUES
+## CUBES OR COBWEBS
 
 REN:  
-So, let's talk big safety problems now. In June 2013, Edward Snowden, who worked for the NSA-affiliated defense contractor Booz Allen Hamilton leaked a great amount of files of the USA's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using back doors to big service providers on the internet.
+In June 2013, Edward Snowden, who worked for the NSA-affiliated defense contractor Booz Allen Hamilton leaked a great amount of files of the USA's National Security Agency's massive surveillance practices. The NSA can spy and did spy on innocent citizens as well as criminals[^nsa] all around the world using back doors to big service providers on the internet.
 
-This is a dark side of a big centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is the access to Silicon Valley's major servers, where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. Governments like this centralized power because it's easy access for them. 
+This is a dark side of a big centralized internet. One part of that darkness is the strong influence of the United States' secret service. Another thing is their access to Silicon Valley's major servers where personal data is stored. Microsoft, Facebook, Google, Skype, you name it. Governments like this centralized power because it's easy access for them.
 
-The structure of the internet hasn't changed much since the beginning. Files are stored on a central server, for instance one from Google. When using Google, all traffic runs through that server and all information is in one place.
+The structure of the internet hasn't changed much since the beginning. Files are stored on a central server, for instance one from Google. When using Google, all traffic runs through that server and all information is in one place, ready to be intercepted.
 
 ![One of the slides of the NSA that Ed Snowden released. Here we see which companies provided data to the NSA](img/prism.jpg) 
 
 REN:  
-It's a pretty serious problem. As designers, we should be aware of these kind of issues in the media. And I think we should start at the very root of the problem. One of the problems is the centralized network. 
+The root of the problem is the centralized network. The NSA's concentrated power comes in the form of big, cubical server facilities.
 
-An alternative could be a distributed network. A centralized network has a big, central server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, files are stored on parts of the network. 
+An alternative could be a distributed network. A centralized network has a big, centralized server infrastructure where all the data and files are stored. A decentralized system doesn't have that. There, files are stored on parts of the network. 
 
-I've been following the developments of Bitcoin - a cryptocurrency - and with that, the Blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives.[^blockchains] 
+I've been following the developments of Bitcoin - a cryptocurrency - and with that, the Blockchain. The Blockchain is a technology that offers a new kind of server infrastructure. There are different possibilities, but one example could be: All nodes in the network store a full copy of all transactions on that network while all relevant files and data can stay on individual drives.[^blockchains] This allows a distributed network. One without a middle man.
 
-In a direct way, this does not solve any problems. But it allows for new beginnings, and a new type of internet which is more equal and distributed, instead of controlled centrally by one or a handful of parties.
+It allows for new beginnings, and a new type of internet which is more distributed is harder to control centrally by one or a handful of parties.
 
-## The Chaos Monkey
+GON:  
+Alright, all this is fine and dandy, but what if I know that the technical stuff is very complicated, but I don't care. I just want them to not snoop in? 
 
 REN:  
-The Chaos Monkey periodically takes subsystems out of commision and sees how it responds. The idea is to lower the gap between how Netflix expects the system to work and how the system actually works. In biology this is how you learn about a living thing. Actively trying to mutate it is a biological technique.
+This is exactly why setting up things like distributed networks is so important. When ugly things are happening online, we need safe places where activists, journalist, dissidents, whistleblowers and such can have free discussion online. And that should not be so complex that you need to be a coding wizard to understand, because anybody could be stuck in that position and anyone should be able to defend themselves online.
 
-A lot of programming is now what we call procedural. Basically what that means is for the programmer to predict enough states so the computer can do the calculation. If this happens, do that.
+## MONKEYS AND MESSINESS
+
+GON:  
+I still have no idea how the internet works exactly, but I'm starting to see some patterns. I have the idea not one person really knows how the entire thing actually works.
+
+REN:  
+I think for the internet itself, there are some experts that probably know exactly how the protocols work and so on. But we shouldn't always rely on others for understanding the things we use.  It's one thing to say that there is an expert somewhere that knows what's going on and we let them do the understanding. But more and more there is no such expert. 
+
+A good example is when a big service is being built there is this thing called The _Change Review Board_. It can be 12 people there, who all have their specialty. One for the network part of things, one for storage, one for application development, et cetera. When they make changes to their parts, they have to state them out loud to the other 11 people in the room to see if that does not interfere with something in their ‘worlds’. They simply don't know! The same people come together when something fails, to find the problem. Can you imagine that? Optimo?
+
+OPT:  
+Is it okay for me to freak out a little bit over that? I like to be in control of my own. Is there no hope anymore to control more by yourself?
+
+REN:  
+I think not. A lot of programming is now what we call procedural. That means the programmer has to predict enough states so the computer can do the calculation. _If_ this happens, _do_ that. That's fairly straightforward. With deep learning or Artificial Intelligence comes another, probabilistic reasoning system. If I see this input, I _think_ I should do that. The computer starts learning and guessing by itself.
+
+Computers were exact precise things, but now we have huge, often messy systems. People have a low tolerance for error for anything that comes out of a computer. That should change when we start to see that they are also biological. Humans are already conditioned to accept complexity that's unavoidable. If a doctor tells you that weird itch won't go away, you learn to accept it, at least a bit. I wonder if we get to the same point with computers.
+
+I think we should go towards a biological thinking approach. These things are very complex. They've evolved over time and have this organic messiness. We need to focus much more on the details of the subsystems (like studying cells in biology). The details of a component in the hope of creating a broader picture. The details really matter. 
+
+This is where it also gets interesting for users. We're talking about the back end, but I think it's time for people to learn more about the biological forces behind their devices and entertainment. After all, they must be wondering how this all can be. Now, luckily people are usually much smarter than I think and do they have an idea. But it's not often that we hear more detailed accounts of back end services.
+
+Google pioneered 'continuous failure'. It is not a question if the system will fail, but when.[^a16z] They are one of the first to design their back end in a biological way because of this.
+
+One favorite example which mimics biological life is The Chaos Monkey. The Chaos Monkey randomly takes pieces of the server down and sees how it responds. The idea is to lower the gap between how Netflix expects the system to work and how the system actually works. In biology this is how you learn about a living thing. Actively trying to mutate it is a biological technique.
 
 ![Netflix' Simian Army](img/simian-army.png)
 
-With deep learning comes another, probabalistic reasoning system. If I see this input, I _think_ I should do that. 
+There seem to be a couple of ways of dealing with big computing. We can either freak out or say this is so complicated and are amazed to a point where we can only watch. Both of those cut off questioning. 
 
-GON:  
-Why does it even matter to know these things? I know that the technical stuff is very complicated, but I don't care. I just want them to work.
+We need to recognize that it is okay not to always understand. We have to constantly keep trying to understand and should be excited by trying to understand. We have to realize things are messy but also that it's something we created. 
 
-REN:  
-Sure. It's one thing to say: There is an expert somewhere that knows what's going on and we let them do the understanding. But more and more there is no such expert.
-
-When systems get big enough they almost seem biological. A good example is when a big service is being built there is this thing called The _Change Review Board_. It can be 12 people there, who all have their specialty. One for network, one for storage, one for application development, et cetera. When they make changes to their parts, they have to say them out loud to the other 11 to see if that does not interfere with something in their ‘worlds’. They simply don't know! The same people come together when something fails, to find the problem.
-
-## From Procedural to biological
-
-Samuel Arbesman, author of the book _Overcomplicated_ has made some remarks about this in a conversation with Steven Sinofsky and Frank Chen[^a16z].
-
-The sociological impact of that is interesting. Computers were exact precise things, but now we have huge, often messy systems. People have a low tolerance for error for anything that comes out of a computer. That should change when we start to see that they are also biological.  
-
-Biological thinking approach: These things are very complex. They've evolved over time and have this organic messiness. We need to focus much more on the details of the subsystems. The details of a component in the hope of creating a broader picture. The details really matter. 
-
-Google pioneered 'continuous failure'. The system will fail. It is not a question if the system will fail, but when. Backend designed in a biological way.
-
-Humans are already conditioned to accept inherent complexity. If a doctor tells you that weird itch won't go away, you learn to accept it, at least a bit. I wonder if we get to the same point with computers.
-
-There's a couple of ways of dealing with big computing. Two are we either freak out or say this is so complicated and are amazed to a point where we can only watch. Both of those cut off questioning. We need to recognize humble approach that it is okay not to always understand. We have to constantly keep trying to understand and should be excited by trying to understand. We have to realize things are messy but also that it's something we created.
-
-OPT:  
-It's very interesting to show the builder's side of the story to users. But I think users should also know the abuse that can happen with a huge network. 
-
-
-
-
-
-
-
-
-
-
-## The Scale of Chaos
-
-Regular users should know that all of our technology can fail. The world as a beta test. Alpha's have had their time. More diversity and more failures for more commitment. We are in a way the problem of the tech because of impatience. In order to help ourselves, we should have a better understanding of technology in society. These should move towards each other instead of keeping users in the dark about what happens behind the screen. That way, we can have useful discussion.
+Regular users should also know that all of our technology can fail. The world is a beta test, no technology is ever fully finished. Alpha's have had their time. More diversity and more failures for more commitment. We are in a way the problem of the tech because of impatience. In order to help ourselves, we should have a better understanding of technology in society. These should move towards each other instead of keeping users in the dark about what happens behind the screen. That way, we can have useful discussion.
 
 
 
@@ -123,14 +114,12 @@ Regular users should know that all of our technology can fail. The world as a be
 
 [^simian]: Jon Brodkin, _Netflix attacks own network with “Chaos Monkey” – and now you can too_ [http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/](http://arstechnica.com/information-technology/2012/07/netflix-attacks-own-network-with-chaos-monkey-and-now-you-can-too/)
 
-[^simian-open]: (software) Netflix, _Simian Army_, [https://github.com/Netflix/SimianArmy](https://github.com/Netflix/SimianArmy)
+[^simian-open]: Netflix, _Simian Army_, [https://github.com/Netflix/SimianArmy](https://github.com/Netflix/SimianArmy)
 
-[^a16z]: (podcast) a16z Podcast: _It's Complicated_ [https://soundcloud.com/a16z/complexity](https://soundcloud.com/a16z/complexity)
+[^a16z]: a16z Podcast: _It's Complicated_ [https://soundcloud.com/a16z/complexity](https://soundcloud.com/a16z/complexity)
 
-[^nsa]: Google Edward Snowden, it's everywhere. For a really good insight in his position against big NSA there is an amazing documentary: Laura Poitras, _Citizenfour_, [http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi](http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi)
+[^nsa]: Laura Poitras, _Citizenfour_, [http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi](http://www.imdb.com/title/tt4044364/videoplayer/vi2548870937?ref_=tt_ov_vi)
 
 [^blockchains]: Vinay Gupta, _Programmable Blockchains in Context_ [https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp](https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.yaf84kqzp)
-
-[^droitcour]: Karen Archey and Robin Peckham, _Art Post-Internet: INFORMATION / DATA_, 2014
 
 <footer></footer>

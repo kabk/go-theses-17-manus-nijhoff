@@ -593,10 +593,10 @@ p.notifications.world {
 		background-position: bottom left;
 		background-size: 30px;
 
-    	filter: Gray();
+/*    	filter: Gray();
     	filter: url('#grayscale'); 
     	-webkit-filter: grayscale(100%); 
-    	filter: grayscale(100%); 
+    	filter: grayscale(100%); */
 	}
 
 	* {
@@ -747,26 +747,25 @@ p.notifications.world {
 		margin: 15px 0; 
 	}
 
-	.figure {
-		position: relative;
+	.figure, figure {
+		/*position: relative;
 		float: left;
 		display: inline-block;
-		padding: 0 15px;
+		padding: 0 15px;*/
 		page-break-inside: avoid;
 	}
 
-	.figure .caption {
+	.figure .caption, figcaption {
 		text-align: center;
 		font-family: 'FournierMT-Italic' !important;
-		max-width: 50ch !important;
+		/*max-width: 50ch !important;*/
+		color: black;
 	}
 
 	img {
-		max-height: 250px;
-		max-width: 400px !important;
+		max-height: 350px;
+		max-width: 350px;
 		border: 1px solid black ;
-		filter: grayscale(1);
-		margin-left: 0;
 	}
 
 	a[href="#fnref1"], a[href="#fnref2"], a[href="#fnref3"], a[href="#fnref4"], a[href="#fnref5"], a[href="#fnref6"], a[href="#fnref7"], a[href="#fnref8"], a[href="#fnref9"], a[href="#fnref10"], a[href="#fnref11"], a[href="#fnref12"], a[href="#fnref13"], a[href="#fnref14"], a[href="#fnref15"], a[href="#fnref16"], a[href="#fnref17"], a[href="#fnref18"], a[href="#fnref19"], a[href="#fnref20"], a[href="#fnref21"], a[href="#fnref22"], a[href="#fnref23"], a[href="#fnref24"], a[href="#fnref25"], a[href="#fnref26"], a[href="#fnref27"], a[href="#fnref28"], a[href="#fnref29"] {

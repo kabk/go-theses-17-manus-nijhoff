@@ -2,6 +2,29 @@
 
 In my research I've been all over the place. Now I want to distill some of the things I've learned.
 
+It was necessary to include Silicon Valley as it's layed the base for a lot of things that will come. Just as TV shows and movies nowadays still use tropes from early Hollywood inventions, tech will keep using lots of the ideas coming from Silicon Valley in the future. 
+
+Designing for the internet, online life. I think it's hard to say. We should do what we think is good. 
+
+I am not cynical about technological advancement. Reading and learning about the powers behind it has however made me much more skeptical about the impact tech has. 
+
+It's been a very USA-centric research, so I hope to learn more in the coming times about other cultures, such as the Asian background in technology.
+
+On the one side, Silicon Valley is big corporate companies with enormous global influence. On the other hand it's the startups, the more messy world with sometimes insane investments and sometimes great innovation. Its culture influences entrepreneurs all around the world. I will keep watching the developments of the states of labour that come from it to learn from the experiences of others. I will always inspect defaults, because implicit defaults have a more profound influence than explicit optional features. 
+
+
+
+
+
+> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
+> — Brian Droitcour [^droitcour]
+
+
+One thing I've really learned while writing these sometimes incoherent pieces of text, is that I am not the only one with my obsession, my obsession with the internet. It's a globally shared obsession for good reason. The technological advancements are big, the consequences for human beings have been far-reaching. Sometimes harmful, oftentimes fixing problems. 
+
+
+
+
 People are often totally self-responsible for what they do and have to design their life with technology. Some pitfalls come from technology that designers, but also just people should be aware of. 
 
 
@@ -18,6 +41,8 @@ People are often totally self-responsible for what they do and have to design th
 - Always keep messing with things, no matter how big or boring.
 
 I'm going to sign off for a bit now. All this internet talk has left me stupid, unreflective, overloaded. But I'll sharpen my typing nails and be back in a day or two. Or less.
+
+[^droitcour]: Karen Archey and Robin Peckham, _Art Post-Internet: INFORMATION / DATA_, 2014
 
 ___
 

@@ -1,39 +1,33 @@
 #Fleeting Time
 
-Optimo calls social media addictive. Gonzo doesn't want to accept, the Renegade backs Optimo up.
 
-##(OPTIMIZING TIME)
- 
-> Why insist that the changes are over? Artists who begin with the proposition that the phenomena of their world are boring and banal, who begin with an exasperated sigh, are going to produce art that is boring and banal, art that produces exasperated sighs.  
-> — Brian Droitcour [^droitcour]
 
+REN:  
+Can you call social media an addiction?
+
+OPT:  
+Yes, I think so.
+
+GON:  
+No, but I would say some media have been made so tempting to use that it's almost impossible not to. 
 
 OPT:
 Alright, so I was reading about machine gambling in Vegas[^schull] and I saw lots of parallels to the internet. Check it out: machine gambling developers are always trying to optimize the time people stay on their device. It doesn't even matter how much they win / lose. As long as they keep coming and come for long amounts of time, these companies keep gaining. 
 
 The crazy thing is that it does not stop there. They are all-inclusive strategies. Using the architecture of the casinos, the layout of the city. It all contributes to this magical abbreviation: T.O.D., _Time On Device_.
 
-The same thing happens in the design of user interfaces.[^magic] The slot machine comparison can be seen almost literally in some apps. What prize is behind this button? How many likes do I get when I post this? Everything is slot-machinized.
-
-REN:  
-So you can call social media an addiction?
+The same thing happens in the design of user interfaces.[^magic] The slot machine comparison can be seen almost literally in some apps. What prize is behind this button? How many likes do I get when I post this? Everything is gamified.
 
 OPT:  
-Yes
+I think you should see this. It's called _Time Well Spent_[^well] This is a design movement that want to align our technology with our humanity. These people recognize the problem that our media is trying to claim our attention and they offer some solutions.
 
-GON:  
-No, but I would say some media have been made so tempting to use that it's almost impossible not to. 
-
-OPT:  
-I think you should see this. It's called _Time Well Spent_[^well] It is a design movement that claims they want to align technology with our humanity. These people recognize the problem that our media is trying to claim our attention and they offer some solutions.
-
-They make a division between ‘attention’ companies and ‘platform’ companies. The attention companies are for instance Facebook, YouTube, Snapchat and Netflix and the platformers are companies such as Google and Apple. The former needs to maximize attention to make money, the latter are builders of the interfaces and goods that sit between these networks and us. 
+They make an important division between attention companies and platform companies. The attention companies are for instance Facebook, YouTube, Snapchat and Netflix and the platformers are companies such as Google and Apple. The former needs to maximize attention to make money, the latter are builders of the interfaces that sit between the applications and us. 
 
 The attention companies profit from our screentime, so they won't change. While the platformers should be the party that benefits users more than companies since they are the moderators of the interactions we have with technologies.
 
-All the time we are being distracted we have the feeling that it's our own mistake, but it's easy to forget that attention companies have hundreds of employees working for them that are called 'Growth Hackers.' 
+All the time we are being distracted we have the feeling that it's our own mistake, but it's easy to forget that attention companies have loads of marketing employees working for them called 'Growth Hackers.' Their job is to maximize T.O.D.
 
-There are a lot of strategies they use to maximize your attention, which will gain them profits. These strategies are very invasive, and make very conscious abuse of some concepts from psychology and science behind addiction and distraction.
+There are a lot of strategies they use to maximize your attention, which will gain them profits. One very simple and common technique is the Intermittent Variable Reward.[^ivr] This means sometimes you get a nice reward, and other times you don't. This kind of behaviour is easy to program because you already do receive messages. How they hook people in, is by making sure there are more notifications to keep you playing the loop. These strategies are very invasive, and make very conscious abuse of some concepts from psychology and science behind addiction and distraction.
 
 GON:  
 If you come to see it from this perspective, the whole internet seems pretty awful. All big services are using these kind of techniques! But I have to say there is a kind of dark pleasure in binging out on things like Netflix or Youtube. I have to go in sometimes and not come out for a while. Everything is shiny, everything smiles, there are rewards everywhere, why wouldn't I like that? It gets in the way of working or studying, but sometimes that's exactly what I want.
@@ -73,7 +67,7 @@ GON:
 Yeah, I think that's a very important thing to stress. No matter how many tools and thingamajingeys you use, if you are sensitive to these impulses you don't stand a chance against yourself. I mean, I'm using this Selfcontrol thing on a schedule. That means I can never go on Facebook but hell, I also installed a proxy so I can go there anytime anyways. I'm a sad fuck!!! haha.
 
 OPT:  
-I talked to Charlie Stigler, the guy that coded Selfcontrol[^stigler]. It seems fitting that he himself does not have any problems dealing with the problems a lot of people report from the attention companies. He says it himself, he doesn't have problems with self-control, he just has it. 
+I talked to Charlie Stigler, the guy that coded Selfcontrol.[^stigler] It seems fitting that he himself does not have any problems dealing with the problems a lot of people report from the attention companies. He says it himself, he doesn't have problems with self-control, he just has it. 
 
 REN:  
 Yeah, and still he did make this app. That's great. I think there is a bottom line here, that says make what you make well, and then people might pick it up. ! And he listened to the call of people who were struggling.
@@ -91,5 +85,7 @@ Yeah, and still he did make this app. That's great. I think there is a bottom li
 [^stigler]: Interview With Charlie Stigler. Full text available upon request. Mail manusnijhoff@gmail.com
 
 [^farmboy]: Farmboy is a main character in the movie _The Princess Bride_ [http://www.imdb.com/title/tt0093779/](http://www.imdb.com/title/tt0093779/)
+
+[^ivr]: VPRO Tegenlicht, _What Makes You Click?_, [https://youtu.be/69JXP4tnBMo](https://youtu.be/69JXP4tnBMo)
 
 <footer></footer>

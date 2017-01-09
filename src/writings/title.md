@@ -1,5 +1,5 @@
-# CONTROL AND QUESTION
-## Users and designers as developers and users as developing designers
+# Control and Question
+## About the design, the use and the abuse of the commercial internet
 
 ___
 

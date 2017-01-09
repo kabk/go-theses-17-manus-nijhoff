@@ -217,17 +217,16 @@
 
     var currentClass
 
-    $('p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author, .notifications').each(function( index ){
-      if ( $(this).attr('class') === 'gon' || $(this).attr('class') === 'opt' || $(this).attr('class') === 'ren' ) {
+    $('p').not('.content > p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author, .notifications').each(function( index ){
+      if ( $(this).attr('class') === 'gon' || $(this).attr('class') === 'opt' || $(this).attr('class') === 'ren' || $(this).attr('class') === 'no-indent' ) {
         currentClass = $(this).attr('class')
       } else {
         $(this).addClass(currentClass + ' ' + 'no-indent')
       }
-    }, webcam());
-
+    }, webcam(printReady));
   }
 
-  function webcam() {
+  function webcam(callback) {
 
     var webcam = document.getElementById('webcam')
     var constraints = {
@@ -247,6 +246,8 @@
             webcam.play()
         });
     }
+
+    callback()
 
   }
 
@@ -313,15 +314,17 @@
 
       userInfo()
 
-	    $('#all').load('html/print.html', printStyles)
+	    $('#all').load('html/print-2.html', printStyles)
 
 	    $('.people, .quotes, .world').on('click', showNotifications)
       $('.wrapper').not('.icons').on('click', hideNotifications)
 
         $(window).on('scroll', function(){
 
+          console.log('scrolling')
             $('.footnoteRef').each(function(){
                 var isVisible = isElementInViewport(this)
+                console.log(isVisible)
                 if(isVisible){
                   if(!$(this).hasClass('done')){
                     
@@ -345,6 +348,32 @@
             })
 
         })
+
+      $('.print-only').fadeIn(10000, function(){
+        $('.print-only .content').on('mouseover', function(){
+          $(this).find('img').addClass('hover');
+          $(this).find('p').addClass('hover');
+        });
+
+        $('.print-only .content').on('mouseout', function(){
+          $(this).find('img').removeClass('hover');
+          $(this).find('p').removeClass('hover');
+        });
+
+        $('.print-only .content').on('mousedown', function(){
+          $(this).find('img').addClass('down');
+          $(this).find('p').addClass('down');
+        });
+
+        $('.print-only .content').on('mouseup', function(){
+          $(this).find('img').removeClass('down');
+          $(this).find('p').removeClass('down');
+        });
+
+        $('.print-only').on('click', function(){
+          window.print();
+        });
+      });
 
       $('#spin').on('click', function(){
         if(spinning === 0){

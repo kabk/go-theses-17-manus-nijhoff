@@ -1,10 +1,8 @@
-Mon Dec 12 11:06:00 2016
-
 Logged in:
 Gonzo (GON), Optimo (OPT), The Renegade (REN)
 
 GON:  
-What's up guys
+What's up gang
 
 REN:  
 Hello fellows
@@ -20,33 +18,25 @@ Only a short 22 years after its launch to a public audience,[^wiki] the internet
 
 Users and providers interests clash constantly. What is best for Google might not be best for you, and vice versa. But we _are_ interdependent. We have to keep living life with technology. At this point it has become essential to our lives. It's not to be ignored. Rather, we should be taking a much closer look into some of the technologies that drive our societies.
 
-A lot of development of the internet originates from the United States. The land of the American Dream. I want to take a peek into their world. Without ever having been there, I think I know something about this crazy place. I want to test that. 
+A lot of development of the internet originates from the United States. The land of the American Dream. I want to take a peek into their world. Without ever having been there, I think I know something about this crazy place through all of my scattered internet knowledge. I want to test that. 
 
-I want to question the upwards spiral of technological advancement. If any. It influences daily lives of us all, whether it's first hand or second hand. For me, it's interesting to look specifically at what 
-
-At times, the research has been quite challenging for me. --------
-
-I want to look specifically at the influence the tech industry has in this story. With the tech industry I mean the industry that develops goods, software, services and platforms on the internet. Often free for us to use. The industry that has Silicon Valley as its Jerusalem. This industry is key to designers because it fundamentally shapes tools that we work with. And more than that. No software, no platform, no service, no device is without ideology.
+I want to question the upwards spiral of technological advancement. I look specifically at the influence the tech industry has in this story. With the tech industry I mean the industry that develops goods, software, services and platforms on the internet. Sometimes free for us to use. The industry that has Silicon Valley as its Jerusalem. This industry is key to designers because it fundamentally shapes the tools, the people and the culture that we work with. 
 
 ![‘The Zuck’, CEO of Facebook, shows the inside of his Facebook hoodie at the All Things Digital conference in 2010. Facebook's mission, “Making The World More Open And Connected” is printed on the inside.](img/zuck.png)
 
 I am not an ultimate expert of the internet. But I am also going to try to look at these problems from engineering points of view, playing a kind of technological etymology.
 
-There are some ultimate experts of the internet. They know about obscure things, things like packet switching and network sniffing. Regular users aren't ultimate experts. You, me. But though we might not know how everything works behind the screens, we're the ones that know what we want from it. We can identify failure or success without looking at any review, rating, or performance measure. But: users are being kept in the dark about how things work. Users are being pushed into a spectator role. I think that should change. We should become a bit more like the ultimate experts. 
+Some people are ultimate experts of the internet. They know about obscure things, things like packet switching and network sniffing. Regular users aren't ultimate experts. You, me. But although we might not know how everything works behind the screens, we're the ones that know what we want from it. We can identify failure or success without looking at any review, rating, or performance measure. But: users are being kept in the dark about how things work. We are being pushed into a spectator role. I think that should change. We should become a bit more like the ultimate experts. 
 
 Maybe this is where the designer comes in. The designer is both a user of technology as well as a shaper of content and interface on digital platforms. 
 
-I tried to do a general take on the internet. I failed miserably. But in the process, I've found out a lot of things about the daily technologies that we use. How we react to them, who makes them, how communities form, what's done by people and what's done by machines. 
+I tried to do a general take on the internet. I failed miserably. But in the process, I've found out a lot of things about the daily technologies that we use.
 
-I will adopt three recurring ways of speaking to present my research. They are three characters. The characters represent opinions and attitutes from interviews and talks fused with articles, documentaries and my own personal experience.
+I've adopted three ways of speaking to present my research in the form of three characters. The characters represent opinions and attitutes from interviews and talks fused with articles, documentaries and my own personal experience.
 
-I do this mainly because in personal experience there is always the first-person perspective, the world through a filter, shaped by experience. It is that kind of view of the problems posed here that I want to expand. 
+The way we read online is different from the book in the way that it usually involves more people. A Wikipedia article is a crowd-based piece of information, groups of people make articles appear in your feed and comment sections show instant discussion between readers. 
 
-The way we read online is different from the book in the way that it usually involves more people. A Wikipedia article is a crowd-based piece of information, groups of people make articles appear in your feed and comment sections show instant discussion between readers.
-
-This form is a way of showing different attitudes towards the internet from a user-designer point of view.
-
-# Characters
+## Characters
 
 The characters go by the screen names of Gonzo, Optimo and the Renegade.
 

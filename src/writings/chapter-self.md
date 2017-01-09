@@ -1,7 +1,6 @@
-# Personal smart
+# Self Sufficient
 
-OPT:
-What's up guys, it's Optimo, and today we're going to talk about self-optimization!
+Optimo has gotten a job offer at a wearables company. The team talks tech lifestyle.
 
 ##Soylent
 
@@ -9,7 +8,7 @@ REN:
 Hey, I was talking to my friend who eats this stuff called Soylent. Have any of you tried it?
 
 GON:  
-Soylent, the powder that replaces food! Not a big fan. Also it's not available in the Netherlands for now. I'll stick to my mom's boerenkool for now.
+Soylent, the powder that replaces food! Not a big fan. Also it's not available in the Netherlands for now. I'll stick to my mom's boerenkool.
 
 OPT:  
 Yeah, I'm using it sometimes. Soylent can replace regular food. It comes in a powder to be mixed up with water and contains all of the nutrients a human body needs. If I am in a rush or uninspired to cook, this stuff helps.
@@ -21,9 +20,9 @@ GON:
 What is the secret of Soylent Green? 😈 [^people]
 
 OPT:  
-Nice, Gonzo. The Soylent Green movie is actually based on a sci-fi novel from 1966 called _Make Room! Make Room!_.[^room] That book introduced a version of NYC in which overpopulation caused people to resort to Soylent (soy and lentil) and water on ration. The Soylent Green film took a more macabre turn, where Soylent turned out to be made out of humans. 
+Nice, Gonzo. The Soylent Green movie is actually based on a sci-fi novel from 01966 called _Make Room! Make Room!_.[^room] That book introduced a version of NYC in which overpopulation caused people to resort to Soylent (soy and lentil) and water on ration. The Soylent Green film took a more macabre turn, where Soylent turned out to be made out of humans. 
 
-![](img/make-room.jpg)
+![caption needed](img/make-room.jpg)
 
 All jokes aside though. I know it plays into the sentiment of science fiction. But science is also what makes this stuff possible. Rob Rhinehart – the guy behind Soylent – has a vision of what he calls a world after food. He wants to make it independent from agriculture, eventually. When agriculture doesn't scale[^scalable-backlink] with human needs, which he says will happen, this could be the thing to replace it. So it's not just convenient, it's also a step towards a solution for future food problems. According to a report called _How To Feed The World 2050_,[^feed] the world will have 9.1 billion citizens that need food. We're going to need to improve things and optimize things and a lot of that comes from science and technology. Soylent is made on the formula of nutritional value per dollar and it is very cost-effective.  
 
@@ -53,40 +52,62 @@ I still think it won't win over the world in a day. But hey, I guess it's a grea
 ## OBVIOUSLY SMART
 
 OPT:  
-It's crazy that, when you order something from Amazon, you never realize the extremely complicated industry behind the process. In front of all of these complex infrastructures are the increasingly simple interfaces and seamless payment procedures. And companies are working hard to keep it that way. The comfort of the user is everywhere a key part of the selling formula. Amazon Dash is probably the most striking example of this.
+I'm sure the people that like efficiency and these kind of things will know about this product. The marketing will probably also aim for a broader audience, not just nerds – excuse the words – trying to self-optimize.
+
+The comfort of the user is everywhere a key part of the selling formula. Amazon Dash is probably the most striking example of this.
 
 Dash is a button you order from Amazon. Every button is dedicated to one single product with a specific order size. Once you have the Dash button in your house, one press will order a single serve of that product at Amazon, which will be delivered soon thereafter.
 
 ![Never run out of energy.](img/dash-red-bull.jpg) 
 
-People have hacked this little device already to do all sorts of things. From playing a video to setting the mood by dimming lights in the house, to whatever you can imagine a remote control to do.
+This falls under what is called “the smart home”.
+
+REN:  
+Damn, this must be one of the most overtly stupid applications I have seen that marketeers dare to call smart.
+
+GON:  
+Smart of Amazon for sure, though. I know enough people who already buy the same product time after time after time. Amazon just makes life easy for them.
+
+OPT:  
+That's true, can't argue with that.
+
+REN:  
+The hacking community has picked up the buttons and are using them for all sorts of fun button activities. Maybe their use of the Dash buttons is worthy the smart label? 
+
+GON:  
+Better off making smart pants like this company Optimo's gonna work for. 
 
 REN:  
 Smarty Pants.
 
 GON:
-Alright, let's see. Athos. Raised $35 million[^tech] in November 2015 and are working on smart pants.
+LOL. Alright, let's see. Athos. Raised $35 million[^tech] in November 02015 and are working on smart pants.
 
 > “Athos. Building a better human machine.”  
 > Scott Anderson, Director of Athletic Training at Stanford University
 
-A company from the United States called Athos is now selling wearables (wearable technology) that use small EEG sensors to measure muscle activity and give you real-time information about your sports routine. It uses science to convince and athletes to model for their commercials.
+Oooh, a better human machine. Is that supposed to sound badass? I'm so unimpressed!
 
-![Athos pants](img/athos-pants.png)
+Athos is now selling wearables (wearable technology) that use small EEG sensors to measure muscle activity and give you real-time information about your sports routine. It uses science to convince and athletes to model for their commercials. Renegade, what is your take on all of this? I'm getting a bit fed up here.
 
-Benjamin Bratton is professor of visual arts and director of the center for design and geopolitics at the University of California, San Diego. 
+![Gonzo could see himself doing a TED talk in these smart pants](img/athos-pants.png)
 
-In 2013 he gave a very insightful talk at TEDx San Diego.[^bratton] TED is a non-profit organization that originated in California. They organize conferences where speakers talk about their personal involvement in Technology, Entertainment and Design (T-E-D) and more. Usually a TED speaker will give an insight into a technology they are developing, a project they initiated with a focus how that helps society. The format is key to their existence. Videos have to be under 18 minutes long so they can be uploaded and watched by a big audience online.
+REN:  
+I think I know exactly what you mean. Are you familiar with Benjamin Bratton's work?
 
-Benjamin Bratton used the stage to critique the format TED uses. He argued that TED is not really critical towards technology. Instead, the institution books speakers that tell incredible stories of how technology changes the world while these visions do not always come true. He calls this ‘toying with technoradicalism.’ Bratton says TED has _faith in_ technology but not enough _commitment to_ technology. The institute puts too much emphasis on the optimal condition. It lacks sharp critique.
+GON:  
+No, but do tell.
+
+REN:  
+Benjamin Bratton is professor of visual arts and director of the center for design and geopolitics at the University of California, San Diego.  In 02013 he gave a very insightful talk at TEDx San Diego.[^bratton] TED is a non-profit organization that originated in California. They organize conferences where speakers talk about their personal involvement in Technology, Entertainment and Design (T-E-D) and more. 
+
+Usually a TED speaker will give an insight into a technology they are developing, a project they initiated with a focus how that helps society. The format is key to their existence. Videos have to be under 18 minutes long so they can be uploaded and watched by a big audience online.
+
+Benjamin Bratton used the stage to critique the format TED uses. He argued that TED is not really critical towards technology. Instead, the institution books speakers that tell incredible stories of how technology changes the world while these visions do not always come true. He calls this ‘toying with technoradicalism.’ Bratton says TED has _faith in_ technology but not enough _commitment to_ technology. The institute puts too much emphasis on the optimal condition. They treat technology from a commercial strandpoint. There are lots of promises, beautiful and elegenat insights, but the talks lacks sharp critique.
 
 Instead, Bratton makes a case for design as immunisation. Design, he says, should not only focus on innovation but also on making ourselves immune for the things we don't need.
 
 I don't know if we need the new pants from Athos. But the problem Bratton addresses towards TED and things like wearables and the Internet of Things do make me take a double take. What's the use of knowing exactly what each muscle does? The makers as well as users of technology put heaps of faith in the products, especially when they appear smart. 
-
-
-
-
 
 [^people]: Soylent Green is People!!! [https://youtu.be/9IKVj4l5GU4](https://youtu.be/9IKVj4l5GU4)
 

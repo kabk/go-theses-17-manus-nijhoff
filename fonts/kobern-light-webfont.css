@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Kobern-Light";
+    src: url("kobern-light-webfont.eot");
+    src: url("kobern-light-webfont.eot?#iefix") format("embedded-opentype"),
+         url("kobern-light-webfont.woff2") format("woff2"),
+         url("kobern-light-webfont.woff") format("woff"),
+         url("kobern-light-webfont.ttf") format("ttf"),
+         url("kobern-light-webfont.svg#Kobern-Light") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

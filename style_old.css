@@ -175,7 +175,7 @@ img {
 	margin: 0 auto; 
 }
 
-figcaption {
+p.caption, figcaption {
 	font-size: 12px;
 	text-align: center;
 	margin: 12px auto;
@@ -303,14 +303,6 @@ ul li:before {
 hr {
 	border-color: #4F5A5A;
 	margin: 24px 0;
-}
-
-video:not(#webcam) {
-	position: fixed;
-	top: 0;
-	right: 0;
-	opacity: 0.5;
-	z-index: -999;
 }
 
 .header-section-number {
@@ -600,7 +592,7 @@ p.notifications.world {
 	animation: win 1s infinite;		
 }
 
-@keyframes spin {
+/*@keyframes spin {
 	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); box-shadow: 0px -2px 115px 36px rgba(255,0,0,0);}
 	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); box-shadow: 0px -2px 115px 36px rgba(255,0,0,1);}
 }
@@ -608,19 +600,7 @@ p.notifications.world {
 @keyframes win {
 	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); box-shadow: 0px -2px 115px 36px rgba(255,255,0,0);}
 	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); box-shadow: 0px -2px 115px 36px rgba(255,255,0,1);}
-}
-
-
-/**/
-/*PRINT BUTTON*/
-/**/
-
-#print {
-	position: fixed;
-	top: 10px;
-	left: 10px;
-	z-index: 99999999;
-}
+}*/
 
 /**/
 /*WEBCAM STUFF*/
@@ -635,7 +615,6 @@ p.notifications.world {
 	display: block;
 	margin: 0 auto;
 	z-index: 999999;
-	background-image: url('img/aaron-swartz.png');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -643,6 +622,11 @@ p.notifications.world {
 	opacity: 1;
 	animation: webcam 100s infinite;
 	z-index: -10;
+}
+
+#webcam img {
+	width: 100%;
+	height: auto;
 }
 
 @keyframes webcam {
@@ -673,11 +657,6 @@ p.notifications.world {
 		background-image: url(img/Selfcontrol.png) no-repeat;
 		background-position: bottom left;
 		background-size: 30px;
-
-/*    	filter: Gray();
-    	filter: url('#grayscale'); 
-    	-webkit-filter: grayscale(100%); 
-    	filter: grayscale(100%); */
 	}
 
 	* {
@@ -701,8 +680,6 @@ p.notifications.world {
 		font-weight: 100 !important;
 		font-style: normal;
 	}
-
-
 
 	h1, h2, h3, p, strong, .someClass, em, li {
 		color: #000;
@@ -751,27 +728,7 @@ p.notifications.world {
 		max-width: 80ch !important;
 	}
 
-	.pagenumbers p {
-		position: absolute;
-		text-align: right;
-		right: 0;
-		top: 0;
-		line-height: 10px;
-		font-size: 7px;
-		text-decoration: underline;
-		opacity: 0.5;
-	}
-
-	.pagenumbers span:nth-of-type(10n) {
-		opacity: 1 !important;
-	}
-
-	.pagenumbers span:nth-of-type(10n):after {
-		content: 'px';
-	}
-
-
-	#unknown-1, #unknown-2, #webcam {
+	#unknown-1, #unknown-2 {
 		display: block;
 		margin: 0 auto; 
 		border: 1px solid transparent;
@@ -796,18 +753,19 @@ p.notifications.world {
 	}
 
 	#webcam {
-		border-radius: 50%;
-		margin: -250px auto auto auto; 
-		width: auto;
 		height: 500px;
-	}
-
-	#webcam {
+		width: 500px;
 		position: relative;
 		animation: none;
-		min-width: 0;
-		min-height: 0;
 		opacity: 0.7;
+	}
+
+	#webcam img {
+		height: 800px !important;
+		max-width: 800px !important;
+		max-height: 800px !important;
+		width: auto;
+		border-radius: 50%;
 	}
 
 	#datetime {

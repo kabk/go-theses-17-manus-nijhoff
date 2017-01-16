@@ -1,0 +1,94 @@
+.notifications.people, .notifications.quotes, .notifications.world {
+	display: none;
+}
+
+p.notifications.people {
+	position: absolute;
+	left: 22px;
+}
+
+p.notifications.quotes {
+	position: absolute;
+	left: 57px;
+}
+
+p.notifications.world {
+	position: absolute;
+	left: 88px;
+}
+
+.tooltip {
+	right: -80px;
+	position: fixed;
+	top: 45px;
+	z-index: 99999;
+	width: 20px;
+}
+
+.tooltip.world {
+	right: 128px;
+}
+
+.tooltip.quotes {
+	right: 161px;
+}
+
+.tooltip.people {
+	right: 194px;
+}
+
+.tooltip img {
+	width: 100%;
+	height: auto;
+}
+
+.notifications-wrapper {
+	position: fixed;
+	width: 400px;
+	height: 580px;
+	background-color: white;
+	right: 120px;
+	top: 55px;
+	border-radius: 5px;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: none;
+	overflow: scroll;
+}
+
+.notifications-wrapper .content {
+	height: 100px;
+	margin: 1px 4px;
+	border: 1px solid black;
+} 
+
+.notifications-wrapper .content:first-of-type {
+	margin: 4px 4px 1px 4px;
+} 
+
+.icons {
+	position: fixed;
+	width: 100px;
+	right: 120px;
+	top: 15px;
+}
+
+.icons img {
+	position: relative;
+	float: left;
+	display: inline-block;
+	margin: 0 4px;
+}
+
+.gon {
+	margin-left: 50px;
+}
+
+.opt {
+	margin-left: 120px;
+}
+
+.ren {
+	margin-left: 190px;
+}

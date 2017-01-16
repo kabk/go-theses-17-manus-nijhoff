@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Kobern-Regular";
+    src: url("kobern-regular-webfont.eot");
+    src: url("kobern-regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("kobern-regular-webfont.woff2") format("woff2"),
+         url("kobern-regular-webfont.woff") format("woff"),
+         url("kobern-regular-webfont.ttf") format("ttf"),
+         url("kobern-regular-webfont.svg#Kobern-Regular") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

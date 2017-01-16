@@ -1,0 +1,25 @@
+/*.spin {
+	-webkit-animation: spin 1s infinite; 
+	animation: spin 1s infinite;	
+}
+
+.winner {
+	-webkit-animation: win 1s infinite; 
+	animation: win 1s infinite;		
+}*/
+
+@keyframes spin {
+	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,0); box-shadow: 0px -2px 115px 36px rgba(255,0,0,0);}
+	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,0,0,1); box-shadow: 0px -2px 115px 36px rgba(255,0,0,1);}
+}
+
+@keyframes win {
+	0% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,0); box-shadow: 0px -2px 115px 36px rgba(255,255,0,0);}
+	100% { -webkit-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); -moz-box-shadow: 0px -2px 115px 36px rgba(255,255,0,1); box-shadow: 0px -2px 115px 36px rgba(255,255,0,1);}
+}
+
+@keyframes test {
+	0% { background-color: black; }
+	50% { background-color: white; }
+	100% { background-color: black; }
+}

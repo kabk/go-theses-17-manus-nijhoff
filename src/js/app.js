@@ -4,41 +4,52 @@
 
   var gonzo, optimo, renegade
   var result1, result2, result3
-  var spinning = 0
   var clicked
 
-  global.$ = require('jquery')
-  // Referencing jquery to be recognized from loading from module
+  global.spinning = 0
+  
+  global.$ =    require('jquery')
+
+                require('./spin.js')
+                require('./cookies.js')
+              
+  var Webcam =  require('./webcam.min.js')
+
   window.jQuery = $
 
-  // var somefunction = require('./somefunction.js');
-  // somefunction()
+  var webcamSnaps = []
   
-  function randomInterval (min, max) {
-  	console.log('randomInterval called')
-    return Math.floor(Math.random() * (max - min + 1) + min)
-  };
+  // WEBCAM
 
-  function scrollToElement (col, el, ms) {
+  function takeSnapshot(max) {
+      Webcam.snap( function(data_uri) {
+        webcamSnaps.push(data_uri)
+        if(webcamSnaps.length > max) {
+          //remove 1st
+          webcamSnaps.splice(0, 1)
+        }
+          $('.avatar').each(function(){
+            $(this).attr('src', webcamSnaps[Math.floor( Math.random() * webcamSnaps.length ) ] )
+          })
+          $('#webcam').html('<img src="'+data_uri+'"/>')
+      })
+  }
 
-    console.log('scrollToElement called. Going to: ' + $(el).offset().top)
+  function webcamOn() {
 
-    // $(el).addClass('debug')
-
-    var speed = (ms) ? ms : 600
-
-
-    return new Promise(function(resolve, reject){
-        $(col).animate({
-          scrollTop: $(el).position().top
-      }, speed, 'swing', resolve);
+    Webcam.set({
+      width: 320,
+      height: 240,
+      fps: 2
     });
 
+    Webcam.attach( '#my_camera' ) 
   }
+
+  // NOTIFICATIONS
 
   function isElementInViewport (el) {
 
-      //special bonus for those using jQuery
       if (typeof jQuery === "function" && el instanceof jQuery) {
           el = el[0];
       }
@@ -53,128 +64,19 @@
       );
   }
 
-
-  function resetScroll(col, el, ms){
-    console.log('resetScroll called')
-    var speed = (ms) ? ms : 600
-
-    $(col).animate({
-      scrollTop: $(el).scrollTop()
-    }, speed, 'swing', function(){
-      $('#spin').addClass('spin')
-      spinning = 0
-    })
-  }
-
-  function checkResult(callback) {
-  		console.log('check result called', result1, result2, result3)
-	    // left
-	    if (result1 % 3 === 0) {
-	      console.log('left: r')
-	    }
-	    if ((result1 + 1) % 3 === 0) {
-	      console.log('left: o')
-	    }
-	    if ((result1 + 2) % 3 === 0) {
-	      console.log('left: g')
-	    }
-
-	    // mid
-	    if ((result2) % 3 === 0) {
-	      console.log('mid: p')
-	    }
-	    if ((result2 + 1) % 3 === 0) {
-	      console.log('mid: o')
-	    }
-	    if ((result2 + 2) % 3 === 0) {
-	      console.log('mid: e')
-	    }
-
-	    // right
-	    if ((result3) % 3 === 0) {
-	      console.log('right: n')
-	    }
-	    if ((result3 + 1) % 3 === 0) {
-	      console.log('right: n')
-	    }
-	    if ((result3 + 2) % 3 === 0) {
-	      console.log('right: t')
-	    }
-
-  		// if REN
-	    if (result1 % 3 === 0 && (result2 + 2) % 3 === 0 && (((result3 + 1) % 3 === 0) || ((result3) % 3 === 0))) {
-	      renegade = 1
-	    }
-
-	    // if OPT
-	    if ((result1 + 1) % 3 === 0 && (result2) % 3 === 0 && (result3 + 2) % 3 === 0) {
-	      optimo = 1
-	    }
-
-	    // if GON
-	    if ((result1 + 2) % 3 === 0 && (result2 + 1) % 3 === 0 && (((result3 + 1) % 3 === 0) || ((result3) % 3 === 0))) {
-	      gonzo = 1
-	    }
-
-      winner()
-  }
-
-  function winner() {
-  	  console.log('winner called...')
-
-  	  $('#gonzo #renegade #optimo').removeClass();
-
-      if (gonzo === 1) {
-    		$('#gonzo img').attr('src', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nVMlNEc_nu-BlGaZe-MUT02Ry6zjEr2MN7_gces0eS_gtCVg_ynYPhw').addClass('winner')
-    		$('#gonzo .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
-		console.log('gonzo')
-      }
-      if (optimo === 1) {
-    		$('#optimo img').attr('src', 'https://pbs.twimg.com/profile_images/494501654926864384/w7zi0zhc.jpeg').addClass('winner')
-    		$('#optimo .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
-		console.log('optimo')
-      }
-      if (renegade === 1) {
-    		$('#renegade img').attr('src', 'http://downloadablesuicide.com/wp-content/uploads/2010/02/renegade-sarah-shepard.jpg').addClass('winner')
-    		$('#renegade .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
-		console.log('renegade')
-      }
-  }
-
-  function spin (min, max) {
-
-  	console.log('spin called');
-
-	  	setTimeout(function(){
-            checkResult(winner)
-	  		resetScroll('.l, .m, .r', 'h1:nth-child(1)', 400)
-	  	}, 10000)
-
-      result1 = randomInterval(min, max),
-      result2 = randomInterval(min, max),
-      result3 = randomInterval(min, max)
-
-	    var p1 = scrollToElement('.l', '.l h1:nth-child(' + (result1 + 1) + ')', randomInterval(2000, 4000))
-	    var p2 = scrollToElement('.m', '.m h1:nth-child(' + (result2 + 1) + ')', randomInterval(3000, 6000))
-	    var p3 = scrollToElement('.r', '.r h1:nth-child(' + (result3 + 1) + ')', randomInterval(6000, 8000))
-
-        Promise.all([p1, p2, p3]).then(function(){
-            console.log('spinning done!!')
-            checkResult(winner)
-        });
-
-  }
-
   function notifyUp(lastClass, thisId) {
-    $('.notifications.' + lastClass + '').show().html(function(i, val){
-      return val * 1 + 1
-    })
-    // check for matching element
-    var el = $('.notifications-wrapper').find("[data-link='" + thisId + "']")
-    el.addClass('unlocked')
+
+    if( lastClass === 'people' || lastClass === 'quotes' || lastClass === 'world' ){
+      $('.notifications.' + lastClass + '').show().html(function(i, val){
+        return val * 1 + 1
+      })
+
+      // check for matching element
+      var el = $('.notifications-wrapper').find("[data-link='" + thisId + "']")
+      el.addClass('unlocked')
+    }
 
   }
-
 
   function showNotifications() {
 
@@ -205,52 +107,6 @@
 
   }
 
-  function hideNotifications() {
-
-    console.log('hide')
-
-    $('.notifications-wrapper').hide()
-
-  }
-
-  function printStyles() {
-
-    var currentClass
-
-    $('p').not('.content > p').not('li > p').not('.fig').not('.caption').not('.pagenumbers > p').not('#spin > p').not('#datetime, #ip-address, #author, .notifications').each(function( index ){
-      if ( $(this).attr('class') === 'gon' || $(this).attr('class') === 'opt' || $(this).attr('class') === 'ren' || $(this).attr('class') === 'no-indent' ) {
-        currentClass = $(this).attr('class')
-      } else {
-        $(this).addClass(currentClass + ' ' + 'no-indent')
-      }
-    }, webcam(printReady));
-  }
-
-  function webcam(callback) {
-
-    var webcam = document.getElementById('webcam')
-    var constraints = {
-            audio: false,
-            video: {
-                width: { max: 1.5 },
-                height: { max: 1 },
-                frameRate: { ideal: 10, max: 15 },
-                facingMode: "user"
-            }
-          }
-
-    // Get access to the camera!
-    if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-        navigator.mediaDevices.getUserMedia(constraints).then(function(stream) {
-            webcam.src = window.URL.createObjectURL(stream)
-            webcam.play()
-        });
-    }
-
-    callback()
-
-  }
-
   function userInfo() {
 
     var newDate = Date()
@@ -266,125 +122,48 @@
     })
   }
 
-  //
-  // COOKIES
-  //
-
-  function setCookie(cname, cvalue, exdays) {
-      var d = new Date();
-      d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-      var expires = "expires="+d.toUTCString();
-      document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-  }
-
-  function getCookie(cname) {
-      var name = cname + "="
-      var ca = document.cookie.split(';')
-      for(var i = 0; i < ca.length; i++) {
-          var c = ca[i]
-          while (c.charAt(0) == ' ') {
-              c = c.substring(1)
-          }
-          if (c.indexOf(name) == 0) {
-              return c.substring(name.length, c.length)
-          }
-      }
-      return ""
-  }
-
-  function checkCookie() {
-      var user = getCookie("firstname")
-      if (user != "") {
-
-      } else {
-          user = prompt("Please enter your first and last name:", "");
-          if (user != "" && user != null) {
-              setCookie("firstname", user, 365)
-          }
-      }
-  }
-
-
   // A self playing slot machine that unlocks the characters of the play.
   // Could go as far as only showing the text that is unlocked.
 
   $(function () {
 
-      checkCookie()
+    checkCookie()
+    userInfo()
+    webcamOn()
 
-      userInfo()
+    $('#all').load('html/print-3.html')
 
-	    $('#all').load('html/print-2.html', printStyles)
+    $('#spin').on('click', function(){
+      if(spinning === 0){
+        spin(1,42)
+        $(this).removeClass()
+        spinning = 1
+      } else {
+        console.log(spinning)
+      }
+    })
 
-	    $('.people, .quotes, .world').on('click', showNotifications)
-      $('.wrapper').not('.icons').on('click', hideNotifications)
+    $('.people, .quotes, .world').on('click', showNotifications)
+    
+    $('.wrapper').not('.icons').on('click', function(){
+      $('.notifications-wrapper').hide()
+    })
 
-        $(window).on('scroll', function(){
+    $(window).on('scroll', function(){
 
-          console.log('scrolling')
-            $('.footnoteRef').each(function(){
-                var isVisible = isElementInViewport(this)
-                console.log(isVisible)
-                if(isVisible){
-                  if(!$(this).hasClass('done')){
-                    
-                    // check which extra class
-                    var lastClass = $(this).attr('class').split(' ').pop();
-                    var thisId = $(this).attr('id')
-
-                    if( lastClass === 'people' ){
-                      console.log(lastClass)
-                      notifyUp(lastClass, thisId)
-                    } else if ( lastClass === 'quotes' ) {
-                      console.log(lastClass)
-                      notifyUp(lastClass, thisId)
-                    } else if ( lastClass === 'world' ) {
-                      console.log(lastClass)
-                      notifyUp(lastClass, thisId)
-                    }
-                    $(this).addClass( 'done' ) 
-                  }
-                }
-            })
-
-        })
-
-      $('.print-only').fadeIn(10000, function(){
-        $('.print-only .content').on('mouseover', function(){
-          $(this).find('img').addClass('hover');
-          $(this).find('p').addClass('hover');
-        });
-
-        $('.print-only .content').on('mouseout', function(){
-          $(this).find('img').removeClass('hover');
-          $(this).find('p').removeClass('hover');
-        });
-
-        $('.print-only .content').on('mousedown', function(){
-          $(this).find('img').addClass('down');
-          $(this).find('p').addClass('down');
-        });
-
-        $('.print-only .content').on('mouseup', function(){
-          $(this).find('img').removeClass('down');
-          $(this).find('p').removeClass('down');
-        });
-
-        $('.print-only').on('click', function(){
-          window.print();
-        });
-      });
-
-      $('#spin').on('click', function(){
-        if(spinning === 0){
-          $(this).removeClass()
-          spinning = 1
-          spin(1, 42)
-        } else {
-          console.log('wait...')
+      takeSnapshot(100)
+      
+      $('.footnoteRef').each(function(){
+        var isVisible = isElementInViewport(this)
+        if(isVisible){
+          if(!$(this).hasClass('done')){
+            // pass last class and its id
+            notifyUp( $(this).attr('class').split(' ').pop(), $(this).attr('id') )
+            $(this).addClass( 'done' ) 
+          }
         }
       })
-
+    })
   })
 
 }())

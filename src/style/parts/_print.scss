@@ -1,0 +1,155 @@
+@media print {
+	body {
+		background-color: rgba(255, 255, 255, 1);
+		background-image: url(img/Selfcontrol.png) no-repeat;
+		background-position: bottom left;
+		background-size: 30px;
+	}
+
+	.landing, .print-only, a[href="#fnref1"], a[href="#fnref2"], a[href="#fnref3"], a[href="#fnref4"], a[href="#fnref5"], a[href="#fnref6"], a[href="#fnref7"], a[href="#fnref8"], a[href="#fnref9"], a[href="#fnref10"], a[href="#fnref11"], a[href="#fnref12"], a[href="#fnref13"], a[href="#fnref14"], a[href="#fnref15"], a[href="#fnref16"], a[href="#fnref17"], a[href="#fnref18"], a[href="#fnref19"], a[href="#fnref20"], a[href="#fnref21"], a[href="#fnref22"], a[href="#fnref23"], a[href="#fnref24"], a[href="#fnref25"], a[href="#fnref26"], a[href="#fnref27"], a[href="#fnref28"], a[href="#fnref29"] {
+		display: none;
+	}
+
+	.wrapper {
+		position: relative;
+		left: 0;
+		max-width: 100% !important;
+	}
+
+	.profiles-wrapper, .landing-wrapper, .notifications-wrapper, .icons, video:not(#webcam), iframe, #structure, #section a, #bulk, #thesis, #print, hr {
+		display: none !important;
+	}
+
+	h1, h2 {
+		font-weight: 100 !important;
+		font-style: normal;
+	}
+
+	h1, h2, h3, p, strong, .someClass, em, li {
+		color: #000;
+		max-width: 70%;
+	}
+
+	p, li, a {
+		font-size: 20px;
+		line-height: 22px;
+	}
+
+	em {
+		font-family: 'FournierMT-Italic' !important;
+		font-style: italic;
+	}
+
+	p {
+		max-width: 90ch !important;
+		margin-left: 0;
+		padding-left: 0;
+	}
+
+	ul li:before {
+		content: "* ";
+		color: #4F5A5A;
+	}
+
+	a {
+		opacity: 1;
+		color: #3A3A3A;
+	}
+
+	.gon {
+		margin-left: 50px;
+	}
+
+	.opt {
+		margin-left: 120px;
+	}
+
+	.ren {
+		margin-left: 190px;
+	}
+
+	.no-indent {
+		max-width: 80ch !important;
+	}
+
+	#unknown-1, #unknown-2 {
+		display: block;
+		margin: 0 auto; 
+		border: 1px solid transparent;
+		background-image: url('https://spellchek.files.wordpress.com/2013/12/silhouette.jpg');
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+		border-radius: 50%; 
+		opacity: 0.7;	
+	}
+
+	#unknown-1 {
+		width: 500px;
+		height: 500px;
+		margin: 0 auto 0 10px;
+	}
+
+	#unknown-2 {
+		width: 500px;
+		height: 500px;
+		margin: -400px 10px 0 auto;
+	}
+
+	#fbpurity {
+		display: block;
+	}
+
+	#candle {
+		margin-left: -12px;
+	}
+
+	#eco-text:after {
+		content: '  You have decided to print. Do not forget to plant a tree.';
+		font-size: 12px;
+		color: #f00;
+	}
+
+	#control-and-question {
+		line-height: 87px;
+		font-size: 122px;
+		text-align: center;
+	}	
+
+	#subtitle, #motto, .asterisk {
+		text-align: center;
+		max-width: 9000ch !important;
+	}
+
+	.asterisk {
+		font-weight: bold;
+	}
+
+	#ip-address, #author {
+			display: inline-block;
+			text-align: center;
+			width: 50%;
+			margin: 0 0 550px 0;  
+	}
+
+	footer {
+		page-break-after: always;
+	}
+
+	.emoji {
+		display: inline-block;
+		width: 20px;
+		position: relative;
+		top: 3px;
+		border: none;
+	}
+
+	.emoji img {
+		width: 100%;
+		height: auto;
+	}
+
+	a:before {
+		content: ' '; 
+	}
+}

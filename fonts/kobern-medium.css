@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Kobern-Medium";
+    src: url("kobern-medium.eot");
+    src: url("kobern-medium.eot?#iefix") format("embedded-opentype"),
+         url("kobern-medium.woff2") format("woff2"),
+         url("kobern-medium.woff") format("woff"),
+         url("kobern-medium.ttf") format("ttf"),
+         url("kobern-medium.svg#Kobern-Medium") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}

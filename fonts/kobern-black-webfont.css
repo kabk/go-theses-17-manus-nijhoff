@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Kobern-Black";
+    src: url("kobern-black-webfont.eot");
+    src: url("kobern-black-webfont.eot?#iefix") format("embedded-opentype"),
+         url("kobern-black-webfont.woff2") format("woff2"),
+         url("kobern-black-webfont.woff") format("woff"),
+         url("kobern-black-webfont.ttf") format("ttf"),
+         url("kobern-black-webfont.svg#Kobern-Black") format("svg");
+    font-style: normal;
+    font-weight: 900;
+}

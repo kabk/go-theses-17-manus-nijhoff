@@ -17,7 +17,7 @@
 // Reset
 //
 
-@import 'helpers/reset';
+// @import 'helpers/reset';
 
 
 //
@@ -44,11 +44,22 @@
 
 
 //
+// Parts
+//
+
+@import 'parts/animations';
+@import 'parts/notifications';
+@import 'parts/print-only';
+@import 'parts/print';
+@import 'parts/slot-machine';
+@import 'parts/webcam';
+
+//
 // Layout
 //
 
-@import 'layout/header';
-@import 'layout/footer';
+// @import 'layout/header';
+// @import 'layout/footer';
 @import 'layout/main';
 
 

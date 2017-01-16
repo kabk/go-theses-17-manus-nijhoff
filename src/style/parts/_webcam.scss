@@ -1,0 +1,44 @@
+#webcam {
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100vh;
+	display: block;
+	margin: 0 auto;
+	z-index: 999999;
+	filter: grayscale(1);
+	opacity: 1;
+	animation: webcam 100s infinite;
+	z-index: -10;
+	img {
+		width: 100%;
+		height: auto;
+	}
+	@media print {
+		height: 500px;
+		width: 500px;
+		position: relative;
+		animation: none;
+		opacity: 0.7;
+		img {
+			height: 800px !important;
+			max-width: 800px !important;
+			max-height: 800px !important;
+			width: auto;
+			border-radius: 50%;
+		}
+	}
+}
+
+@keyframes webcam {
+
+	0% { opacity: 0 }
+	20% {  opacity: .1 }
+	33% {  opacity: .03 }
+	54% {  opacity: .05 }
+	76% {  opacity: .15 }
+	88% {  opacity: .02 }
+	100% { opacity:  0 }
+
+}

@@ -1,20 +1,5 @@
-.notifications.people, .notifications.quotes, .notifications.world {
+.notifications.people, .notifications.quotes, .notifications.world, .notifications.intro, .notifications.valley, .notifications.time {
 	display: none;
-}
-
-p.notifications.people {
-	position: absolute;
-	left: 22px;
-}
-
-p.notifications.quotes {
-	position: absolute;
-	left: 57px;
-}
-
-p.notifications.world {
-	position: absolute;
-	left: 88px;
 }
 
 .tooltip {
@@ -25,17 +10,68 @@ p.notifications.world {
 	width: 20px;
 }
 
-.tooltip.world {
-	right: 128px;
+p.notifications.intro {
+	position: absolute;
+	left: 23px;
+	line-height: 10px;
 }
 
-.tooltip.quotes {
-	right: 161px;
+p.notifications.valley {
+	position: absolute;
+	left: 53px;
+	line-height: 10px;
+}
+
+p.notifications.people {
+	position: absolute;
+	left: 88px;
+	line-height: 10px;
+}
+
+p.notifications.world {
+	position: absolute;
+	left: 120px;
+	line-height: 10px;
+}
+
+p.notifications.quotes {
+	position: absolute;
+	left: 154px;
+	line-height: 10px;
+}
+
+p.notifications.time {
+	position: absolute;
+	left: 185px;
+	line-height: 10px;
+}
+
+
+
+.tooltip.intro {
+	right: 232px;
+}
+
+.tooltip.valley {
+	right: 200px;
 }
 
 .tooltip.people {
-	right: 194px;
+	right: 169px;
 }
+
+.tooltip.world {
+	right: 132px;
+}
+
+.tooltip.quotes {
+	right: 100px;
+}
+
+.tooltip.time {
+	right: 70px;
+}
+
 
 .tooltip img {
 	width: 100%;
@@ -45,23 +81,46 @@ p.notifications.world {
 .notifications-wrapper {
 	position: fixed;
 	width: 400px;
-	height: 580px;
+	height: auto;
+	padding: 10px 20px; 
+	min-height: 100px;
+	max-height: 580px;
 	background-color: white;
-	right: 120px;
+	right: 60px;
 	top: 55px;
+	z-index: 9999999999999999;
 	border-radius: 5px;
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
 	display: none;
 	overflow: scroll;
+	ol, ul {
+		margin: 0;
+		padding: 0;  
+		li {
+			// display: none;
+			&.unlocked {
+				* {
+					display: block;
+					color: red;
+				}
+			}
+		}
+		* {
+			color: black;
+			word-wrap: break-all !important;
+		}
+		
+	}
+	.content {
+		height: 100px;
+		margin: 1px 4px;
+		border: 1px solid black;
+	} 	
 }
 
-.notifications-wrapper .content {
-	height: 100px;
-	margin: 1px 4px;
-	border: 1px solid black;
-} 
+
 
 .notifications-wrapper .content:first-of-type {
 	margin: 4px 4px 1px 4px;
@@ -69,16 +128,18 @@ p.notifications.world {
 
 .icons {
 	position: fixed;
-	width: 100px;
-	right: 120px;
+	width: 240px;
+	right: 20px;
 	top: 15px;
-}
-
-.icons img {
-	position: relative;
-	float: left;
-	display: inline-block;
-	margin: 0 4px;
+	z-index: 999;
+	img {
+		width: 25px;
+		height: 25px;
+		position: relative;
+		float: left;
+		display: inline-block;
+		margin: 0 4px;
+	}
 }
 
 .gon {

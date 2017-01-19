@@ -5,7 +5,7 @@ spin = function (min, max) {
 	console.log('spin called');
 
   	setTimeout(function(){
-          checkResult(winner)
+      checkResult(winner)
   		resetScroll('.l, .m, .r', 'h1:nth-child(1)', 400)
   	}, 10000)
 
@@ -110,23 +110,27 @@ checkResult = function (callback) {
     winner()
 }
 
-winner = function () {
+winner = function (cheat) {
     console.log('winner called...')
 
     $('#gonzo #renegade #optimo').removeClass();
 
-    if (gonzo === 1) {
-      $('#gonzo img').attr('src', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9nVMlNEc_nu-BlGaZe-MUT02Ry6zjEr2MN7_gces0eS_gtCVg_ynYPhw').addClass('winner')
+    if (gonzo === 1 || cheat === 'gon') {
+      console.log('cheating winning')
+      $('#gonzo > .avatar').addClass('winner')
+      avatarImage()
       $('#gonzo .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
   console.log('gonzo')
     }
-    if (optimo === 1) {
-      $('#optimo img').attr('src', 'https://pbs.twimg.com/profile_images/494501654926864384/w7zi0zhc.jpeg').addClass('winner')
+    if (optimo === 1 || cheat === 'opt') {
+      $('#optimo > .avatar').addClass('winner')
+      avatarImage()
       $('#optimo .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
   console.log('optimo')
     }
-    if (renegade === 1) {
-      $('#renegade img').attr('src', 'http://downloadablesuicide.com/wp-content/uploads/2010/02/renegade-sarah-shepard.jpg').addClass('winner')
+    if (renegade === 1 || cheat === 'ren') {
+      $('#renegade > .avatar').addClass('winner')
+      avatarImage()
       $('#renegade .description').css({ 'color' : 'rgba(255, 255, 255, 1)' })
   console.log('renegade')
     }

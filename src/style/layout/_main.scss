@@ -6,16 +6,40 @@ body {
 	margin: 0;
 	padding: 0; 
 	background: black;
+	width: 100vw;
+	overflow-x: hidden;
 	-ms-overflow-style: none;
 	.wrapper {
 		position: relative;
-		left: 0;
-		max-width: 100ch !important;
+		// padding: $line-height 10px; 
 	}
+	.section-1 {
+		text-align: center;
+		margin: $line-height auto; 
+	}
+
+	.section-2, .section-4 {
+		text-align: left;
+		max-width: 80ch;
+		margin: 0 auto;
+		img {
+			&:not(.emoji) {
+				width: 70%;
+				margin: $line-height auto; 
+			}
+		}
+
+	}
+
+	.section-3 {
+
+	}
+
 	img {
-		max-width: 100%;
-		height: auto;
-		display: block;
-		margin: 0 auto; 
+			max-width: 100%;
+			height: auto;
+			display: block;
+			margin: 0 auto; 			
+
 	}
 }

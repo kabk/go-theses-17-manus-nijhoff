@@ -5,46 +5,20 @@
   var gonzo, optimo, renegade
   var result1, result2, result3
   var clicked
+  var distractions = ['hey', 'hi', 'how are ya', 'what\'s up', 'hello', 'hey!', 'good morning', 'good afternoon', 'good day', 'hello sir', 'hello madam']
 
-  global.spinning = 0
+  global.spinning     = 0
+  global.webcamSnaps  = []
   
+  var Webcam =  require('./webcam.min.js')
+
   global.$ =    require('jquery')
 
                 require('./spin.js')
                 require('./cookies.js')
-              
-  var Webcam =  require('./webcam.min.js')
+                require('./cam.js')
 
   window.jQuery = $
-
-  var webcamSnaps = []
-  
-  // WEBCAM
-
-  function takeSnapshot(max) {
-      Webcam.snap( function(data_uri) {
-        webcamSnaps.push(data_uri)
-        if(webcamSnaps.length > max) {
-          //remove 1st
-          webcamSnaps.splice(0, 1)
-        }
-          $('.avatar').each(function(){
-            $(this).attr('src', webcamSnaps[Math.floor( Math.random() * webcamSnaps.length ) ] )
-          })
-          $('#webcam').html('<img src="'+data_uri+'"/>')
-      })
-  }
-
-  function webcamOn() {
-
-    Webcam.set({
-      width: 320,
-      height: 240,
-      fps: 2
-    });
-
-    Webcam.attach( '#my_camera' ) 
-  }
 
   // NOTIFICATIONS
 
@@ -59,20 +33,22 @@
       return (
           rect.top >= 0 &&
           rect.left >= 0 &&
-          rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+          rect.bottom <= $(window).height() / 2 && /*or $(window).height() */
           rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
       );
   }
 
   function notifyUp(lastClass, thisId) {
 
-    if( lastClass === 'people' || lastClass === 'quotes' || lastClass === 'world' ){
+    if( lastClass === 'people' || lastClass === 'quotes' || lastClass === 'world' || lastClass === 'valley' || lastClass === 'intro' || lastClass === 'time' ){
       $('.notifications.' + lastClass + '').show().html(function(i, val){
         return val * 1 + 1
       })
 
       // check for matching element
-      var el = $('.notifications-wrapper').find("[data-link='" + thisId + "']")
+      var el = $('.notifications-wrapper .' +lastClass+' > li#' +thisId+ '')
+      el.css('color', 'red')
+      console.log(el.attr('id'));
       el.addClass('unlocked')
     }
 
@@ -96,22 +72,43 @@
 
   	if(current === 'people') {
       	$('.tooltip').removeClass().addClass('tooltip people')
-        $('.people > .content.unlocked').show()
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+        // $('.people > .content.unlocked').show()
   	} else if( current === 'quotes' ) {
       	$('.tooltip').removeClass().addClass('tooltip quotes')
-        $('.quotes > .content.unlocked').show()
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+
   	} else if (current === 'world' ) {
       	$('.tooltip').removeClass().addClass('tooltip world')
-        $('.world > .content.unlocked').show()
-  	}
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+
+  	} else if (current === 'valley') {
+        $('.tooltip').removeClass().addClass('tooltip valley')
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+
+    } else if( current === 'intro' ) {
+        $('.tooltip').removeClass().addClass('tooltip intro')
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+
+    } else if (current === 'time' ) {
+        $('.tooltip').removeClass().addClass('tooltip time')
+        $('.notifications-wrapper > *').hide()
+        $('.notifications-wrapper > .' + current + '').show()
+
+    }
 
   }
 
   function userInfo() {
 
-    var newDate = Date()
-    console.log($('#datetime'))
-    $('#datetime').append('sss')
+    var newDate = new Date()
+    console.log(newDate)
+    $('#datetime').append(newDate)
 
     $.getJSON('https://freegeoip.net/json/?callback=?', function(data) {
         console.log(JSON.stringify(data, null, 2))
@@ -131,9 +128,13 @@
     userInfo()
     webcamOn()
 
+    $('sup').each(function(){
+      $(this).text(distractions[Math.floor(Math.random() * distractions.length)]);
+    })
+
     $('#all').load('html/print-3.html')
 
-    $('#spin').on('click', function(){
+    $('#spin-top, #spin-bottom').on('click', function(){
       if(spinning === 0){
         spin(1,42)
         $(this).removeClass()
@@ -143,22 +144,27 @@
       }
     })
 
-    $('.people, .quotes, .world').on('click', showNotifications)
+
+    $('.intro, .valley, .people, .world, .quotes, .time').on('click', showNotifications)
     
     $('.wrapper').not('.icons').on('click', function(){
-      $('.notifications-wrapper').hide()
+      $('.notifications-wrapper, .tooltip').hide()
     })
 
     $(window).on('scroll', function(){
 
-      takeSnapshot(100)
+      takeSnapshot()
       
       $('.footnoteRef').each(function(){
         var isVisible = isElementInViewport(this)
         if(isVisible){
           if(!$(this).hasClass('done')){
             // pass last class and its id
+
+            console.log($(this).attr('id'))
+
             notifyUp( $(this).attr('class').split(' ').pop(), $(this).attr('id') )
+
             $(this).addClass( 'done' ) 
           }
         }

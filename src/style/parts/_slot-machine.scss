@@ -1,13 +1,13 @@
 .profiles-wrapper {
 	width: 100%;
 	display: flex;
-	margin-top: -5vh;
+	margin-top: -12vh;
 	justify-content: space-around;
-	bottom: 0;
+	// bottom: 0;
 	z-index: 9999;
 	img {
-		width: 50px;
-		height: 50px;
+		width: 4vw;
+		height: 4vw;
 		border-radius: 50%;
 		margin: 20px auto;
 		opacity: 1;
@@ -20,24 +20,80 @@
 	}
 	.description {
 		color: rgba(255, 255, 255, 0);
+		p {
+			padding: 0 20px;
+		}
 	}
 	#gonzo, #renegade, #optimo {
-		width: 22vw;
+		width: 33.33%;
 	}	
+	#renegade {
+		margin-top: 5vh;
+	}
+
+	#gonzo {
+		.avatar {
+			margin: 0 0 1.5vh 10vw;			
+		}
+		.slug {
+			margin-left: -11vw;
+		}
+	}
+
+	#optimo {
+		.avatar {
+			margin: 0 0 1.5vh 20vw;			
+		}
+		.slug {
+			margin-right: -12vw;
+		}
+	}
+
+	#renegade {
+		.avatar {
+			margin-bottom: 1.5vh;			
+		}
+		.slug {
+
+		}
+	}
 }
 
-$slot-size: 33vw;
+$slot-size: 30vw;
+
+#spin-top, #spin-bottom {
+	width: 100vw ;
+	background: blue;
+	text-align: center;
+	p {
+		margin: 0; 
+		padding: $line-height / 2 0;
+		top: 10px;
+		left: 10px;
+		color: #fff;
+		font-size: 20px;
+		line-height: 20px;
+		z-index: 99999;
+		display: block;
+		cursor: pointer;
+	}
+	opacity: 0.9;
+	&:hover {
+		opacity: 1;
+	}
+}
+
 
 .landing-wrapper {
 	position: relative;
 	width: 100vw;
-	height: 100vh;
-	background-color: $background-color;
-	margin-top: -5vh;
+	height: 90vh;
+	background-color: #737373;
+		opacity: 0.9;
 	z-index: 100;
 	.landing {
-		margin: 5vh auto 10vh auto;
-		width: 66vw;
+		margin: 0 auto 10vh auto;
+		width: $slot-size * 2;
 		height: auto;
 		display: flex;
 		justify-content: space-around;
@@ -56,19 +112,6 @@ $slot-size: 33vw;
 			overflow-y: hidden;
 			/*-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);
 			clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);*/
-		}
-	}
-	#spin {
-		p {
-			position: fixed;
-			top: 10px;
-			left: 10px;
-			color: #fff;
-			font-size: 20px;
-			line-height: 20px;
-			z-index: 99999;
-			display: block;
-			cursor: pointer;
 		}
 	}
 }

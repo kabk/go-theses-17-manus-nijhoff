@@ -8,9 +8,8 @@
     font-family: $serif-stack;
   }
   &::selection {
-    background: transparent;
-    color: red;
-    outline-color: red;
+    background: white;
+    color: black;
   }
 }
 
@@ -19,7 +18,6 @@ a {
   color: $main-color;
   text-decoration: none;
   font-size: 16px;
-  color: #4F5A5A;
   opacity: 0.3;
   text-decoration: none;
   transition: all .3s ease;
@@ -151,4 +149,18 @@ hr {
   position: relative;
   top: 3px;
   border: none;
+}
+
+.footnoteRef {
+  &.done {
+    opacity: 1;
+    sup {
+      color: white;
+      background: blue;  
+    }
+  }
+}
+
+.asterisk {
+  display: none;
 }

@@ -18,11 +18,12 @@
 	@media print {
 		height: 500px;
 		width: 500px;
-		position: relative;
+		position: absolute;;
+		top: 1300px;
 		animation: none;
-		opacity: 0.7;
+		opacity: 0.5;
 		img {
-			height: 800px !important;
+			height: 500px !important;
 			max-width: 800px !important;
 			max-height: 800px !important;
 			width: auto;

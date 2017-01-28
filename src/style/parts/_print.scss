@@ -6,7 +6,7 @@
 		background-size: 30px;
 	}
 
-	.landing, .print-only, a[href="#fnref1"], a[href="#fnref2"], a[href="#fnref3"], a[href="#fnref4"], a[href="#fnref5"], a[href="#fnref6"], a[href="#fnref7"], a[href="#fnref8"], a[href="#fnref9"], a[href="#fnref10"], a[href="#fnref11"], a[href="#fnref12"], a[href="#fnref13"], a[href="#fnref14"], a[href="#fnref15"], a[href="#fnref16"], a[href="#fnref17"], a[href="#fnref18"], a[href="#fnref19"], a[href="#fnref20"], a[href="#fnref21"], a[href="#fnref22"], a[href="#fnref23"], a[href="#fnref24"], a[href="#fnref25"], a[href="#fnref26"], a[href="#fnref27"], a[href="#fnref28"], a[href="#fnref29"] {
+	#spin-top, .spin, .landing, .print-only, a[href="#fnref1"], a[href="#fnref2"], a[href="#fnref3"], a[href="#fnref4"], a[href="#fnref5"], a[href="#fnref6"], a[href="#fnref7"], a[href="#fnref8"], a[href="#fnref9"], a[href="#fnref10"], a[href="#fnref11"], a[href="#fnref12"], a[href="#fnref13"], a[href="#fnref14"], a[href="#fnref15"], a[href="#fnref16"], a[href="#fnref17"], a[href="#fnref18"], a[href="#fnref19"], a[href="#fnref20"], a[href="#fnref21"], a[href="#fnref22"], a[href="#fnref23"], a[href="#fnref24"], a[href="#fnref25"], a[href="#fnref26"], a[href="#fnref27"], a[href="#fnref28"], a[href="#fnref29"] {
 		display: none;
 	}
 
@@ -27,7 +27,6 @@
 
 	h1, h2, h3, p, strong, .someClass, em, li {
 		color: #000;
-		max-width: 70%;
 	}
 
 	p, li, a {
@@ -74,23 +73,24 @@
 
 	#unknown-1, #unknown-2 {
 		display: block;
-		margin: 0 auto; 
+		margin: 0 auto;
 		border: 1px solid transparent;
-		background-image: url('https://spellchek.files.wordpress.com/2013/12/silhouette.jpg');
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: center;
-		border-radius: 50%; 
-		opacity: 0.7;	
+		border-radius: 50%;
+		opacity: 0.7;
 	}
 
 	#unknown-1 {
+		background-image: url('img/av-1.png');
 		width: 500px;
 		height: 500px;
 		margin: 0 auto 0 10px;
 	}
 
 	#unknown-2 {
+		background-image: url('img/av-2.png');
 		width: 500px;
 		height: 500px;
 		margin: -400px 10px 0 auto;
@@ -114,7 +114,8 @@
 		line-height: 87px;
 		font-size: 122px;
 		text-align: center;
-	}	
+		margin: 0 auto $line-height auto;
+	}
 
 	#subtitle, #motto, .asterisk {
 		text-align: center;
@@ -129,7 +130,7 @@
 			display: inline-block;
 			text-align: center;
 			width: 50%;
-			margin: 0 0 550px 0;  
+			margin: 0 0 550px 0;
 	}
 
 	footer {
@@ -142,14 +143,13 @@
 		position: relative;
 		top: 3px;
 		border: none;
-	}
-
-	.emoji img {
-		width: 100%;
-		height: auto;
+		img {
+			width: 100%;
+			height: auto;
+		}
 	}
 
 	a:before {
-		content: ' '; 
+		content: ' ';
 	}
 }

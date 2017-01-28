@@ -5,7 +5,7 @@ const gulp            = require('gulp'),
       plumber         = require('gulp-plumber'),
       cssnano         = require('gulp-cssnano'),
       sass            = require('gulp-sass'),
-      fontgen         = require('gulp-fontgen'),
+      // fontgen         = require('gulp-fontgen'),
       notify          = require('gulp-notify'),
       markdown        = require('gulp-markdown'),
       imagemin        = require('gulp-imagemin'),
@@ -111,7 +111,7 @@ gulp.task('watch', function () {
   gulp.watch('src/img/*', ['images']);
 
   // Watch fonts
-  gulp.watch('src/fonts/*.{ttf,otf}', ['font']);
+  // gulp.watch('src/fonts/*.{ttf,otf}', ['font']);
 
   // Watch markdown
   // gulp.watch('src/writings/*.md', ['markdown']);
@@ -129,7 +129,7 @@ gulp.task('parker', function () {
 });
 
 // Default Task
-gulp.task('default', ['scripts', 'sass', 'watch', 'browser-sync', 'images', 'font']);
+gulp.task('default', ['scripts', 'sass', 'watch', 'browser-sync', 'images']);
 
 function sassErrorAlert(error) {
   notify.onError({

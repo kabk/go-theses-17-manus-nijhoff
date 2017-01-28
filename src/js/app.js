@@ -9,7 +9,7 @@
 
   global.spinning     = 0
   global.webcamSnaps  = []
-  
+
   var Webcam =  require('./webcam.min.js')
 
   global.$ =    require('jquery')
@@ -110,11 +110,12 @@
     console.log(newDate)
     $('#datetime').append(newDate)
 
+    var user = getCookie("firstname")
+
     $.getJSON('https://freegeoip.net/json/?callback=?', function(data) {
         console.log(JSON.stringify(data, null, 2))
         var address = data.ip
         var country = data.country_code
-        var user = getCookie("firstname")
         $('#ip-address').append(user + ', ' + country + ': ' + address)
     })
   }
@@ -127,6 +128,17 @@
     checkCookie()
     userInfo()
     webcamOn()
+
+    $('#gonzo > img.avatar').on('dblclick', function(){
+      var userAnswer = prompt('From dawn till dusk, my name is...?').toLowerCase();
+      if(userAnswer === 'elon musk' ) {
+        winner('gon');
+        winner('ren');
+        winner('opt');
+      } else {
+        // sucks
+      }
+    });
 
     $('sup').each(function(){
       $(this).text(distractions[Math.floor(Math.random() * distractions.length)]);
@@ -146,7 +158,7 @@
 
 
     $('.intro, .valley, .people, .world, .quotes, .time').on('click', showNotifications)
-    
+
     $('.wrapper').not('.icons').on('click', function(){
       $('.notifications-wrapper, .tooltip').hide()
     })
@@ -154,7 +166,7 @@
     $(window).on('scroll', function(){
 
       takeSnapshot()
-      
+
       $('.footnoteRef').each(function(){
         var isVisible = isElementInViewport(this)
         if(isVisible){
@@ -165,7 +177,7 @@
 
             notifyUp( $(this).attr('class').split(' ').pop(), $(this).attr('id') )
 
-            $(this).addClass( 'done' ) 
+            $(this).addClass( 'done' )
           }
         }
       })

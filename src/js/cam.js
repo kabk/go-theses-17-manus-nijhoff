@@ -26,13 +26,14 @@ webcamOn = function() {
   Webcam.set({
     width: 320,
     height: 240,
+    flip_horiz: true,
     fps: 2
   });
 
-  Webcam.attach( '#my_camera' ) 
+  Webcam.attach( '#my_camera' )
 
   Webcam.on('load', function(){
-    takeSnapshot()  
+    takeSnapshot()
   })
 
 }

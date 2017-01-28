@@ -24,23 +24,23 @@ a {
   cursor: pointer;
   &:not(.footnoteRef) {
      &:before {
-      content: '  '; 
+      content: '  ';
       display: inline-block;
       width: 12px;
       @media print {
         content: '';
       }
-    } 
+    }
   }
   &.footnoteRef {
      &:before {
-        content: '  '; 
+        content: '  ';
         display: inline-block;
         width: 3px;
         @media print {
           content: '';
         }
-      }    
+      }
   }
   &:visited {
     color: $main-color;
@@ -64,6 +64,9 @@ p, ul, ol {
 sup {
   font-size: $font-size-small;
   line-height: 7px !important;
+  @media print {
+    background-color: black !important;
+  }
 }
 
 p.notifications {
@@ -73,7 +76,7 @@ p.notifications {
   background-color: blue;
   display: block;
   border-radius: 1px;
-  padding: 2px 3px; 
+  padding: 2px 3px;
 }
 
 h1 {
@@ -99,7 +102,7 @@ h3 {
 .figure {
   img {
     opacity: 1;
-  } 
+  }
     .caption, figcaption {
     font-size: $font-size-small;
     line-height: $line-height-small;
@@ -149,6 +152,10 @@ hr {
   position: relative;
   top: 3px;
   border: none;
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .footnoteRef {
@@ -156,7 +163,7 @@ hr {
     opacity: 1;
     sup {
       color: white;
-      background: blue;  
+      background: blue;
     }
   }
 }

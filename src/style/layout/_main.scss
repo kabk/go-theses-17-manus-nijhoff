@@ -39,9 +39,11 @@ body {
 		}
 		margin: 0 auto;
 		img {
-			&:not(.emoji) {
-				width: 70%;
-				margin: $line-height auto;
+			&:not(.inline-icon) {
+				&:not(.emoji) {
+					width: 70%;
+					margin: $line-height auto;
+				}
 			}
 		}
 	}
@@ -53,18 +55,19 @@ body {
 	}
 
 	img {
-		&:not(.emoji) {
-			max-width: 100%;
-			height: auto;
-			display: block;
-			margin: 0 auto;
-			@media print {
-				width: auto !important;
-				// max-width: 70%;
-				height: 300px;
-			}
+		&:not(.inline-icon) {
+			&:not(.emoji) {
+				max-width: 100%;
+				height: auto;
+				display: block;
+				margin: 0 auto;
+				@media print {
+					width: auto !important;
+					// max-width: 70%;
+					height: 300px;
+				}
+			}	
 		}
-
 	}
 
 	.footnotes {

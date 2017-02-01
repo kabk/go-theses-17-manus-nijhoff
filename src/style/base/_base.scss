@@ -146,8 +146,8 @@ hr {
   display: none;
 }
 
-.emoji {
-  display: inline-block;
+.emoji, .inline-icon {
+  display: inline-block !important;
   width: 20px;
   position: relative;
   top: 3px;

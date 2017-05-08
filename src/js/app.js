@@ -137,15 +137,16 @@
       fps: 2
     })
 
-    Webcam.attach( '#my_camera' )
+    Webcam.attach( '#webcam' )
+
+    Webcam.on('error', function(err) {
+      console.log(err)
+    } )
 
     Webcam.on('load', function(){
       takeSnapshot()
+      console.log('loaded')
     })
-
-    Webcam.on( 'error', function(err) {
-      console.log(err)
-    } )
 
 
     $('#gonzo > img.avatar').on('dblclick', function(){
@@ -184,7 +185,7 @@
 
     $(window).on('scroll', function(){
 
-      // takeSnapshot()
+      takeSnapshot()
 
       $('.footnoteRef').each(function(){
         var isVisible = isElementInViewport(this)

@@ -471,7 +471,7 @@ Hi!</p>
   </div>
 </div>
 
-<div id="spin-top" class="spin"><p>SPIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPIN</p></div>
+<div id="spin-bottom" class="spin"><p>SPIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPIN</p></div>
 </div>
 
 <div class="section-4">
@@ -542,13 +542,13 @@ GAFAM and startup Silicon Valley hold the default settings to a large part of th
 It wasn't always like that. I think in the beginning of the internet, people were customizing everything more. They wanted to touch every page with their own style. The whole idea of stylesheets<a href="#fn8" class="footnoteRef valley" id="fnref10"><sup></sup></a> was to have a <em>personal</em> stylesheet which you could use on every page on the internet. Instead, pages would start to offer their own stylesheets. And after that stylistic power has been moved from the individual user to the provider, new standards came to be which we are now happily accepting, <em>because they work</em>.</p>
 <p class="opt">OPT:<br>
 Of course defaults go way beyond just the looks of a website. In fact, that's only the first place you see it happening. One of the places where defaultism turns out harmful instead of helpful is in the User Agreement.<a href="#fn9" class="footnoteRef valley" id="fnref11"><sup></sup></a> That legal document that pops up when you install software or make online purchases. It's full of important information about what data providers are gathering and what they are allowed to do with it.</p>
-<p>Nobody reads it because the texts are long, full of formalities, et cetera. Silicon Valley has found out one thing soon enough: when you want to do something evil, wrap it into something boring. And so with the promise of free service, you accept. But to what? You don't know. That kind of default can be really harmful. An extraordinary example of this practice was Gamestation.co.uk's 02010 April Fool's prank.<a href="#fn10" class="footnoteRef valley" id="fnref12"><sup></sup></a> They added some text to their User Agreement that transfers the user's soul to the company.</p>
+<p class="opt">Nobody reads it because the texts are long, full of formalities, et cetera. Silicon Valley has found out one thing soon enough: when you want to do something evil, wrap it into something boring. And so with the promise of free service, you accept. But to what? You don't know. That kind of default can be really harmful. An extraordinary example of this practice was Gamestation.co.uk's 02010 April Fool's prank.<a href="#fn10" class="footnoteRef valley" id="fnref12"><sup></sup></a> They added some text to their User Agreement that transfers the user's soul to the company.</p>
 <div class="figure">
 <img src="img/dark-night-of-the-soul.jpg" alt="“By placing an order via this web site on the first day of the fourth month of the year 02010 Anno Domini, you agree to grant Us a non transferable option to claim, for now and for ever more, your immortal soul.” (painting: Dark Night of the Soul by Vincent van Gogh)">
 <p class="caption"><em>“By placing an order via this web site on the first day of the fourth month of the year 02010 Anno Domini, you agree to grant Us a non transferable option to claim, for now and for ever more, your immortal soul.”</em> (painting: <em>Dark Night of the Soul</em> by Vincent van Gogh)</p>
 </div>
-<p>In this case, 7500 people transferred their souls, free of charge. Of course, this is a funny prank, but it also shows we have no idea what we're signing for. This is a scary idea as a user.</p>
-<p>In the organ donation business, an opt-out pattern means that you are by default a donor and you have to actively register if you don't want to be a donor. In practice, an opt-out pattern means that a lot more people will donate their organs.<a href="#fn11" class="footnoteRef valley" id="fnref13"><sup></sup></a> Summing up, it's important to see what kind of standards and defaults are being introduced to us, may that be ex- or implicitly. And even if it's an explicit default, like the user agreement, there might be something we've failed to read. It's key to read and look critically at what's offered. It's also <img class="emoji" src="img/emoji/key.png"> to keep sniffing around and seeing what's really happening in the hands of default setters.</p>
+<p class="opt">In this case, 7500 people transferred their souls, free of charge. Of course, this is a funny prank, but it also shows we have no idea what we're signing for. This is a scary idea as a user.</p>
+<p class="opt">In the organ donation business, an opt-out pattern means that you are by default a donor and you have to actively register if you don't want to be a donor. In practice, an opt-out pattern means that a lot more people will donate their organs.<a href="#fn11" class="footnoteRef valley" id="fnref13"><sup></sup></a> Summing up, it's important to see what kind of standards and defaults are being introduced to us, may that be ex- or implicitly. And even if it's an explicit default, like the user agreement, there might be something we've failed to read. It's key to read and look critically at what's offered. It's also <img class="emoji" src="img/emoji/key.png"> to keep sniffing around and seeing what's really happening in the hands of default setters.</p>
 <p class="gon">GON:<br>
 Silicon Valley as the capital of the Land of the Semi-Free and the Home of the Business-Savy!</p>
 <p class="asterisk">* * *</p>
@@ -966,6 +966,28 @@ Ditto! Bye bye John Cleese!</p>
 </ol>
 </div>
 
+
+<script type="text/javascript">
+  // Initialize Webcam, add handlers
+
+  Webcam.on('error', function(err) {
+    console.log(err);
+  } );
+
+  Webcam.set({
+    width: 320,
+    height: 240,
+    flip_horiz: true,
+    fps: 2
+  });
+
+  Webcam.attach( '#webcam' );
+
+  Webcam.on('load', function(){
+    takeSnapshot();
+    console.log('loaded');
+  });
+</script>
 
 <script type="text/javascript" src="app.min.js"></script>
 

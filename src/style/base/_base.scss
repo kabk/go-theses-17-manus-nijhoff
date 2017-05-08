@@ -22,6 +22,9 @@ a {
   text-decoration: none;
   transition: all .3s ease;
   cursor: pointer;
+  sup, &.footnoteRef {
+    cursor: default;
+  }
   &:not(.footnoteRef) {
      &:before {
       content: '  ';
@@ -80,7 +83,7 @@ p.notifications {
 }
 
 h1 {
-  margin: 0 0;
+  margin: $line-height * 3 0 $line-height 0;
   text-transform: uppercase;
   line-height: 61px;
   font-size: 61px;

@@ -127,7 +127,26 @@
 
     checkCookie()
     userInfo()
-    webcamOn()
+
+    // Initialize Webcam, add handlers
+
+    Webcam.set({
+      width: 320,
+      height: 240,
+      flip_horiz: true,
+      fps: 2
+    })
+
+    Webcam.attach( '#my_camera' )
+
+    Webcam.on('load', function(){
+      takeSnapshot()
+    })
+
+    Webcam.on( 'error', function(err) {
+      console.log(err)
+    } )
+
 
     $('#gonzo > img.avatar').on('dblclick', function(){
       var userAnswer = prompt('From dawn till dusk, my name is...?').toLowerCase();
@@ -165,7 +184,7 @@
 
     $(window).on('scroll', function(){
 
-      takeSnapshot()
+      // takeSnapshot()
 
       $('.footnoteRef').each(function(){
         var isVisible = isElementInViewport(this)

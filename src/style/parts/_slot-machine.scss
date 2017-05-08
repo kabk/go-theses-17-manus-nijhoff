@@ -11,7 +11,7 @@
 		border-radius: 50%;
 		margin: 20px auto;
 		opacity: 1;
-		vertical-align: middle; 
+		vertical-align: middle;
 	}
 	.slug {
 		margin: 0;
@@ -26,14 +26,14 @@
 	}
 	#gonzo, #renegade, #optimo {
 		width: 33.33%;
-	}	
+	}
 	#renegade {
 		margin-top: 5vh;
 	}
 
 	#gonzo {
 		.avatar {
-			margin: 0 0 1.5vh 10vw;			
+			margin: 0 0 1.5vh 10vw;
 		}
 		.slug {
 			margin-left: -11vw;
@@ -42,7 +42,7 @@
 
 	#optimo {
 		.avatar {
-			margin: 0 0 1.5vh 20vw;			
+			margin: 0 0 1.5vh 20vw;
 		}
 		.slug {
 			margin-right: -12vw;
@@ -51,7 +51,7 @@
 
 	#renegade {
 		.avatar {
-			margin-bottom: 1.5vh;			
+			margin-bottom: 1.5vh;
 		}
 		.slug {
 
@@ -61,12 +61,28 @@
 
 $slot-size: 30vw;
 
+.l, .m, .r {
+	pointer-events: none;
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	 -khtml-user-select: none; /* Konqueror HTML */
+		 -moz-user-select: none; /* Firefox */
+			-ms-user-select: none; /* Internet Explorer/Edge */
+					user-select: none; /* Non-prefixed version, currently
+																supported by Chrome and Opera */
+   h1 {
+		 margin: 0;
+		 padding: 0;
+	 }
+
+}
+
 #spin-top, #spin-bottom {
 	width: 100vw ;
 	background: blue;
 	text-align: center;
 	p {
-		margin: 0; 
+		margin: 0;
 		padding: $line-height / 2 0;
 		top: 10px;
 		left: 10px;
@@ -81,6 +97,10 @@ $slot-size: 30vw;
 	&:hover {
 		opacity: 1;
 	}
+}
+
+#spin-top {
+	margin: $line-height * 3 0 0 0;
 }
 
 
@@ -101,13 +121,13 @@ $slot-size: 30vw;
 		flex-wrap: nowrap;
 		h1 {
 			padding: 0 !important;
-			background: white; 
+			background: white;
 			font-size: $slot-size;
 			line-height: $slot-size;
 		}
 		.l, .m, .r {
 			padding: 0;
-			margin: 0; 
+			margin: 0;
 			height: $slot-size;
 			overflow-y: hidden;
 			/*-webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 16%, 100% 89%, 80% 100%, 20% 100%, 0 88%, 0 16%);
